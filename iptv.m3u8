@@ -1,0 +1,983 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
+https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p56b0354439d1f.png" group-title="香港",有線18台
+rtmp://59.124.75.137:1935/sat/hk041
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a8/I-Cable_Family_Ent.jpg/330px-I-Cable_Family_Ent.jpg" group-title="香港",有線綜合娛樂台
+http://testalicdn2.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="香港",港台電視 31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="香港",港台電視 32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",鳳凰香港台
+http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/326_300.png" group-title="香港",翡翠台
+rtmp://192.187.101.234/live//live08
+
+#EXTINF:-1 tvg-logo="https://s.img.tvb.com/mytvsuper/web/img/epg_channelLogo/Free-J2.png" group-title="香港",翡翠J2
+rtmp://192.187.101.234/live//live05
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="香港",明珠台
+rtmp://192.187.101.234/live//live07
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="香港",無線新聞
+http://wowza-live.edge-sg.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/chunklist_b1096000.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tvbfinanceinformationchannel.png" group-title="香港",無線財經·資訊台
+rtmp://192.187.101.234/live//live02
+
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 tvg-logo="https://viu.tv/assets/img/logo.png" group-title="香港",ViuTV
+http://59.148.103.41:8000/bysid/99
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/400px-ViuTVsix-logo.svg.png" group-title="香港",Viu 6
+rtmp://192.187.101.234/live//live04
+
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5dbaaba099442.png" group-title="香港",Discovery Channel
+http://83.167.253.110:5000/live/discovery/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d8cb97331.png" group-title="香港",NatGeo Wild
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="香港",澳視澳門
+http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/TDM_HD.png" group-title="香港",澳視高清
+http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="香港",澳視葡文
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="香港",澳視MACAU衛視
+http://live4.tdm.com.mo:80/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="香港",澳視資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.nettv.live/uploads/18/1-1P5121Q245326.jpg" group-title="香港",澳視體育
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="香港",澳亞衛視
+http://stream.mastvnet.com/MSTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/e/ef/TVS2-Logo.png/440px-TVS2-Logo.png" group-title="香港",南方衛視
+http://39.135.36.155:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="香港",珠江衛視
+http://39.135.36.151:18890/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000004000011655&owchid=ystenlive&owsid=1106497909461268935&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE4vNKx96%2bA3ppi2THlI0VlIDxwgnRBxQnnbWKTW8MTwvyEFUHTa6diXnUM1ACyB1BC6aNBSsOM3YI3qaHRRxYZp
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中國",CCTV-1 綜合
+http://39.135.36.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中國",CCTV-4 中文國際
+http://39.135.36.150:18890/000000001000/1000000002000031664/1.m3u8?channel-id=ystenlive&Contentid=1000000002000031664&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=1106497909461056460&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhSaNRr4LzI3YsXQPQcGzS6VSIZXSs858JtCAdvl%2fg%2f2u5lawXOBSX%2fqESSB5FmTXS
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中國",CCTV-8 電視劇
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/HNSTV_logo.png" group-title="中國",湖南衛視
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225892/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png" group-title="中國",江蘇衛視
+http://111.40.205.76/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/832-dragon-tv.png" group-title="中國",東方衛視
+http://huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225887/3.m3u8
+#EXTINF:-1 tvg-logo="http://img01.cztv.com/201606/29/af4bb930e4ce3ec3528bdebdd88fdac3.png" group-title="中國",浙江衛視
+http://112.50.243.8/PLTV/88888888/224/3221225934/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="中國",北京衛視
+http://112.50.243.8/PLTV/88888888/224/3221225937/3.m3u8
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/323_300.png" group-title="中國",鳳凰資訊
+http://112.50.243.8/PLTV/88888888/224/3221225901/3.m3u8
+#EXTINF:-1 tvg-logo="https://www.starhub.com/content/dam/starhub/2015/TV/TV-Channel/800-chinese/805-phoenixchinese.png" group-title="中國",鳳凰中文
+http://112.50.243.8/PLTV/88888888/224/3221225900/3.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中國",CCTV-2 財經
+http://39.135.36.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中國",CCTV-3 綜藝
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中國",CCTV-6 電影
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中國",CCTV-7 軍事
+http://39.135.36.155:18890/000000001000/1000000001000024341/1.m3u8?channel-id=ystenlive&stbId=0000019901080888100D73828EA039104
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中國",CCTV-9 紀錄
+http://111.40.205.76/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png" group-title="中國",CCTV-10 科教
+http://111.40.205.76/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png" group-title="中國",CCTV-11 戲曲
+http://39.135.36.157:18890/000000001000/1000000002000019789/1.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=1106497909461158507&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhUELVtb8TDQzMSm5TScAJJF9JU4YcW5z4YHYDU6y7yn5EMhEqmI%2fAHiE6j4Y95QQ6
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="中國",CCTV-12 社會與法
+http://111.40.205.76/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="中國",CCTV-13 新聞
+http://111.40.205.73/wh7f454c46tw1287084215_925233335/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="中國",CCTV-14 少兒
+http://111.40.205.76/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="中國",CCTV 15 音樂
+http://39.135.36.158:18890/000000001000/1000000002000008163/1.m3u8?channel-id=ystenlive&Contentid=1000000002000008163&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=1106497909461186580&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhY20qRt7%2f617UUdZqFKeX8uE3lV%2bUYqhdkQW8TTtgMeMYnBWivLOAtJKqm6UM8Epy
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="中國",CCTV-17 農業農村
+http://112.50.243.5/PLTV/88888888/224/3221226990/1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/12/%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86.png" group-title="中國",安徽衛視
+http://112.50.243.8/PLTV/88888888/224/3221225945/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e5/CQTV_new_logo.png" group-title="中國",重慶衛視
+http://112.50.243.8/PLTV/88888888/224/3221225949/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="中國",東南衛視
+http://111.40.205.76/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:-1 tvg-logo="http://cn.itver.cc/wp-content/uploads/2015/03/FJTV-670x300.jpg" group-title="中國",海峽衛視
+http://stream7.fjtv.net/hxpdfh/hd/live.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xiamen.png" group-title="中國",廈門衛視
+http://112.50.243.8/PLTV/88888888/224/3221226781/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/28/%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86.png" group-title="中國",甘肅衛視
+http://111.40.205.76/PLTV/88888888/224/3221225633/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="中國",廣東衛視
+http://39.135.36.155:18890/000000001000/1000000001000028357/1.m3u8?channel-id=ystenlive&Contentid=1000000001000028357&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000028357&owchid=ystenlive&owsid=1106497909461262352&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaROVzE3kgfqbxbWUefjzmwWM6UWM1tPF3fcVILxO8TukKPE2BY%2fTje83gAnl%2fZNkb%2b
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="中國",深圳衛視
+http://112.50.243.8/PLTV/88888888/224/3221225938/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/db/GXTV_logo.png/200px-GXTV_logo.png" group-title="中國",廣西衛視
+http://111.40.205.76/PLTV/88888888/224/3221225622/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="中國",貴州衛視
+http://111.40.205.76/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:-1 tvg-logo="http://tc.hnntv.cn/public/imgs/wangshi1.png" group-title="中國",海南衛視
+http://112.50.243.8/PLTV/88888888/224/3221225855/1.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="中國",河北衛視
+http://111.40.205.76/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/henan.png" group-title="中國",河南衛視
+http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221225815/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/49/HLJTV_logo.png" group-title="中國",黑龍江衛視
+http://112.50.243.8/PLTV/88888888/224/3221225940/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="中國",湖北衛視
+http://112.50.243.8/PLTV/88888888/224/3221225948/3.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/db/Jilin_Television.png" group-title="中國",吉林衛視
+http://111.40.205.76/PLTV/88888888/224/3221225637/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/28/China_yanbian_satellite_tv_logo.png/150px-China_yanbian_satellite_tv_logo.png" group-title="中國",延邊衛視
+http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/0f/%E6%B1%9F%E8%A5%BF%E8%A1%9B%E8%A6%96.png" group-title="中國",江西衛視
+http://39.135.36.158:18890/000000001000/1000000001000013731/1.m3u8?channel-id=ystenlive&Contentid=1000000001000013731&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=1106497909461316198&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRQxb4dqC07SZV%2bYcygMME6A9OMzcDPgMD6e%2f%2fHx5xyjuJRcCBeGZaKds6mdw4roN8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="中國",遼寧衛視
+http://112.50.243.8/PLTV/88888888/224/3221225947/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="中國",內蒙古衛視
+http://111.40.205.76/PLTV/88888888/224/3221225634/index.m3u8
+#EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201511/20/564ec12b73df5.png" group-title="中國",寧夏衛視
+http://111.40.205.76/PLTV/88888888/224/3221225632/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="中國",青海衛視
+http://111.40.205.76/PLTV/88888888/224/3221225628/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/85/SCTV-1_logo.png" group-title="中國",四川衛視
+http://111.40.205.76/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png" group-title="中國",山東衛視 
+http://112.50.243.8/PLTV/88888888/224/3221225943/3.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="中國",山西衛視
+http://111.40.205.76/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/0/0d/Shaanxi_Satellite_TV.png/220px-Shaanxi_Satellite_TV.png" group-title="中國",陝西衛視
+http://111.40.205.76/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="中國",天津衛視
+http://112.50.243.8/PLTV/88888888/224/3221225941/3.m3u8
+#EXTINF:-1 tvg-logo="http://static.yntv.cn//html/statics/yntv/img/page_index_now/header_logo.png" group-title="中國",雲南衛視
+http://111.40.205.76/PLTV/88888888/224/3221225636/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="中國",西藏衛視
+http://111.40.205.76/PLTV/88888888/224/3221225638/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/6b/%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86.png" group-title="中國",新疆衛視
+http://111.40.205.76/PLTV/88888888/224/3221225635/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="中國",兵團衛視
+http://223.110.242.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN
+
+
+#EXTINF:-1 tvg-logo="https://www.ftv.com.tw/images/Ch_01.png" group-title="台灣",民視
+rtmp://59.124.75.137:1935/sat/tv051
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="台灣",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/CTS_logo.png" group-title="台灣",華視
+rtmp://59.124.75.137:1935/sat/tv111
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/2/27/Cts_news_info.png" group-title="台灣",華視新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/CTSNews.m3u8
+#EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20161221100703wTtSdKw.png" group-title="台灣",台視
+rtmp://59.124.75.137:1935/sat/tv071
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台灣",台視新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/TTVNews.m3u8
+#EXTINF:-1 tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_new.png" group-title="台灣",中視
+rtmp://59.124.75.137:1935/sat/tv091
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" group-title="台灣",中視新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/CTVNews.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png" group-title="台灣",TVBS新聞
+rtmp://59.124.75.137:1935/sat/tv551
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台灣",壹新聞
+http://ad.mysisli.com/live/NEXTTVHD/index.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",東森新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/EBCNews.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣",東森財經新聞
+rtmp://59.124.75.137/sat/tv571
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiNews.png" group-title="台灣",中天新聞
+https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/CTSNews.m3u8
+#EXTINF:-1 tvg-logo="http://www.daai.tv/images/logo.png" group-title="台灣",大愛一台
+https://tv1.daai.tv/live/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.cns.net.tw/web/upload/20141017171303RmzVY9Z.png" group-title="台灣",大愛二台
+https://tv2.daai.tv/live/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://webtvonlive.com/wp-content/uploads/DaAi-World-webtvonlive-com.jpg" group-title="台灣",大愛海外台
+https://tv3.daai.tv/live/app/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.tacttv.com/wp-content/uploads/2018/11/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E5%8F%B0logo.png" group-title="台灣",台灣藝術
+http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 tvg-logo="http://titv.ipcf.org.tw/images/logo.png" group-title="台灣",原住民族電視
+https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="台灣",番薯
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+#EXTINF:-1 tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="台灣",信吉電視
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台灣",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台灣",人間衛視
+http://54.64.23.79:1935/live/vod/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%B5%84%E8%AE%AF.png" group-title="台灣",靖天資訊
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%AC%A2%E4%B9%90.png" group-title="台灣",靖天歡樂
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E8%82%B2%E4%B9%90.png" group-title="台灣",靖天育樂
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%88%8F%E5%89%A7.png" group-title="台灣",靖天戲劇
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%9B%BD%E9%99%85.png" group-title="台灣",靖天國際
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%97%A5%E6%9C%AC.png" group-title="台灣",靖天日本
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E6%B4%8B%E5%8D%A1%E9%80%9A.png" group-title="台灣",靖洋卡通
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E5%8D%A1%E9%80%9A.png" group-title="台灣",靖天卡通
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 tvg-logo="https://www.momotv.tw/assets/images/logo.png" group-title="台灣",Momo 綜合台
+rtmp://59.124.75.137/sat/tv761
+#EXTINF:-1 tvg-logo="https://www.news.taichung.gov.tw/media/276006/%E5%A4%A7%E5%AE%B6%E8%AA%AA%E8%8B%B1%E8%AA%9E-logo-180x80.jpg" group-title="台灣",空中英語教室
+http://220.158.149.28:8180/live/TV00000000000000000077@HHZT
+
+#EXTM3U
+#EXTINF:-1 group-title="香港",鳳凰資訊HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 group-title="香港",香港31台HD
+http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 group-title="香港",香港翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="香港",翡翠HD
+http://ttzx.tv/hls/jade.m3u8
+#EXTINF:-1 group-title="香港",翡翠台
+http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+#EXTINF:-1 group-title="香港",TVB翡翠台
+http://m.567it.com/jade.m3u8
+#EXTINF:-1 group-title="香港",TVB翡翠台1
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="香港",TVB 翡翠台 (備)
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.ts
+#EXTINF:-1 group-title="香港",TVB明珠台
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="香港",明珠HD
+http://ttzx.tv/hls/prarl.m3u8
+#EXTINF:-1 group-title="香港",明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+#EXTINF:-1 group-title="香港",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="香港",星空衛視
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=23
+#EXTINF:-1 group-title="香港",香港衛視HKS
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="香港",耀才財經
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="香港",耀才財經台1
+http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="香港",耀才財經台2
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
+#EXTINF:-1 group-title="香港",香港鳳凰衛視咨詢台HD
+http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
+#EXTINF:-1 group-title="香港",香港鳳凰衛視香港台HD
+http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:-1 group-title="香港",香港耀才財經HD
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 group-title="香港",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1 group-title="香港",香港開電視台HD（備用1）
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:-1 group-title="香港",港台電視RTHK31
+https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
+#EXTINF:-1 group-title="香港",港台電視RTHK32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
+#EXTINF:-1 group-title="香港",鳳凰中文1
+http://223.82.250.72/live/fhchinese/1.m3u8
+#EXTINF:-1 group-title="香港",鳳凰中文HD
+http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
+#EXTINF:-1 group-title="香港",鳳凰衛視中文
+http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+#EXTINF:-1 group-title="香港",鳳凰資訊HD
+http://117.169.120.138:8080/live/fhzixun/.m3u8
+#EXTINF:-1 group-title="香港",鳳凰香港1
+http://223.82.250.72/live/fhhongkong/1.m3u8
+#EXTINF:-1 group-title="澳門",澳門衛視
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="澳門",澳門1
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="澳門",澳丫衛視
+http://stream.mastvnet.com/MASTV/sd/live.m3u8
+#EXTINF:-1 group-title="澳門",澳亞衛視
+http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+#EXTINF:-1 group-title="澳門",澳視澳門
+http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視葡語
+http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視衛星
+http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視衛星 (備)
+http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視體育
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視衛星
+http://live3.tdm.com.mo:1935/ch3/ch3.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視澳門
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視綜藝
+http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳視葡文
+http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳門衛星頻道
+http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
+#EXTINF:-1 group-title="澳門",澳門衛視
+http://stream.mastvnet.com/MSTV/SD/live.m3u8
+#EXTINF:-1 group-title="澳門",澳門資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳門
+http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
+#EXTINF:-1 group-title="澳門",澳門衛星頻道
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8
+#EXTINF:-1 group-title="澳門",澳門澳亞衛視
+http://stream.mastvnet.com/MASTV/playlist.m3u8
+#EXTINF:-1 group-title="澳門",澳門蓮花
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:-1 group-title="澳門",澳門資訊
+http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞台
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞台
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞台
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="台灣",Elta 戲劇
+http://198.16.106.58:8278/eltadrama_twn/playlist.m3u8?tid=m02000000000017968370&ct=18032&tsum=0918e7edb4e700da112c60d22e0aa4d5
+#EXTINF:-1 group-title="台灣",Elta 綜合
+http://198.16.106.58:8278/eltazhonghe_twn/playlist.m3u8?tid=m02000000000014004815&ct=18032&tsum=a4d65e8000a7d0bbc343700b1efccb62
+#EXTINF:-1 group-title="台灣",壹電視新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:-1 group-title="台灣",民視新聞HD
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="台灣",TVBS-N
+http://60.199.188.61/HLS/WG_TVBS-N/02.m3u8
+#EXTINF:-1 group-title="台灣",中天新聞HD
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞
+http://60.199.188.61/HLS/WG_TVBS-N/01.m3u8
+#EXTINF:-1 group-title="台灣",中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/01.m3u8
+#EXTINF:-1 group-title="台灣",環球電視
+http://live-cdn.xzxwhcb.com/hls/r86am856.m3u8
+#EXTINF:-1 group-title="台灣",壹新聞備
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1 group-title="台灣",壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv2/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",本港臺
+http://dlhls.cdn.zhanqi.tv/zqlive/123407_XhQs9.m3u8
+#EXTINF:-1 group-title="台灣",台灣民視新聞
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 group-title="台灣",台灣全美台
+http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
+#EXTINF:-1 group-title="台灣",RB台灣壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/master.m3u8
+#EXTINF:-1 group-title="台灣",台灣壹電視新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",台灣超視
+http://live.italkdd.com/cds160/hls/channel018/channel018_2000.m3u8
+#EXTINF:-1 group-title="台灣",GOOD-1綜合台
+http://live.streamingfast.net/osmflivech1.m3u8
+#EXTINF:-1 group-title="台灣",台灣GOOD-2生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1 group-title="台灣",台灣GOOD-3真情部落格
+http://live.streamingfast.net/osmflivech3.m3u8
+#EXTINF:-1 group-title="台灣",台灣GOOD-5共享觀點
+http://live.streamingfast.net/osmflivech5.m3u8
+#EXTINF:-1 group-title="台灣",台灣GOOD-9愛+好醫生
+http://live.streamingfast.net/osmflivech9.m3u8
+#EXTINF:-1 group-title="台灣",台灣GOOD-14美食旅遊台
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1 group-title="台灣",台灣GOOD-13健康新煮流
+http://live.streamingfast.net/osmflivech13.m3u8
+#EXTINF:-1 group-title="台灣",台灣GOOD-40卡通
+http://live.streamingfast.net/osmflivech40.m3u8
+#EXTINF:-1 group-title="台灣",台灣TVBS新聞台HD
+http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8
+#EXTINF:-1 group-title="台灣",天空新聞
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:-1 group-title="台灣",BasTV4K影院
+http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
+#EXTINF:-1 group-title="台灣",新加坡亞洲新聞臺
+http://drsh196ivjwe8.cloudfront.net/hls/cnai/03.m3u8
+#EXTINF:-1 group-title="台灣",信天遊
+http://hc.yinyuetai.com/F8190136EA197DA6F00D511F5F2B2840.flv
+#EXTINF:-1 group-title="台灣",環球電影
+http://live-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
+#EXTINF:-1 group-title="台灣",星空衛視備
+http://222.207.48.30/hls/startv.m3u8
+#EXTINF:-1 group-title="台灣",博斯魅力
+http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
+#EXTINF:-1 group-title="台灣",BabyFirst親子台
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
+#EXTINF:-1 group-title="台灣",台靖天卡通HD
+http://61.58.60.230:9319/live/207.m3u8
+#EXTINF:-1 group-title="台灣",台靖天國際HD
+http://61.58.60.230:9319/live/205.m3u8
+#EXTINF:-1 group-title="台灣",台靖天娛樂HD
+http://61.58.60.230:9319/live/204.m3u8
+#EXTINF:-1 group-title="台灣",台靖天日本HD
+http://61.58.60.230:9319/live/243.m3u8
+#EXTINF:-1 group-title="台灣",台靖天映畫HD
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 group-title="台灣",台靖天歡樂HD
+http://61.58.60.230:9319/live/201.m3u8
+#EXTINF:-1 group-title="台灣",台靖天資訊HD
+http://61.58.60.230:9319/live/202.m3u8
+#EXTINF:-1 group-title="台灣",台靖洋卡通HD
+http://61.58.60.230:9319/live/206.m3u8
+#EXTINF:-1 group-title="台灣",台靖洋戲劇HD
+http://61.58.60.230:9319/live/203.m3u8
+#EXTINF:-1 group-title="台灣",TVBS新聞
+https://lss.line-scdn.net/cc_tw/p/live/h6DmIOYOPaGoBXXZ6OEh1XWsyN1h4VH47PlYhD3YwNw8tCH05bQEmCHRnNQh7CXk6aVYuX30wNlx0RS9ub1QlWHE0KVt8Hy4-ZUkmD30vMFN2AC88ZVY/720/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",東森新聞
+https://lss.line-scdn.net/cc_tw/p/live/h7O49zdyZaWFbLXdxYTh0VjIQPlV2dy82YiYgAyRANgR0eHwyNHF0AisQYVYgIiY2MSYvVH5EMVAjNS5lNiQjA39EKFAlby81PDknBCRfNlImey83NC8n/720/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",民視
+https://lss.line-scdn.net/cc_tw/p/live/hG4Q1DBiQGRo8JQcKBDAELVccTnlFfghKBS5QfxlIRn8RcAxJUX1XLU1JTigWLA0YVC5fKEhOTiJBPV4eUyxVLh5OWCtAZ19OWTFXf0FXQiBBeV5EUA/720/chunklist.m3u8
+#EXTINF:-1 group-title="台灣",豬哥亮歌廳秀
+https://lss.line-scdn.net/cc_tw/p/live/hxzRYp8oYJlQ_TThEB1g7Y1RycGNCRWZUB0ZsZk0geTESGGkEBBFoZB8kKWFAR2JWBEZgZkspfmNKVWFQUEVgMR0oZ2VDD2AAWlloNks_cG5CEWEKUw/720/chunklist.m3u8
+
+#EXTINF:-1 group-title="UK", UK: 4MUSIC | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6796.m3u8
+#EXTINF:-1 group-title="UK", UK: 4SEVEN FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4244.m3u8
+#EXTINF:-1 group-title="UK", UK: 4SEVEN | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6797.m3u8
+#EXTINF:-1 group-title="UK", UK: 5 USA | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6799.m3u8
+#EXTINF:-1 group-title="UK", UK: 5SELECT | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6800.m3u8
+#EXTINF:-1 group-title="UK", UK: 5STAR | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6801.m3u8
+#EXTINF:-1 group-title="UK", UK: 5SPIKE | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6802.m3u8
+#EXTINF:-1 group-title="UK", UK: AAJ TAK | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6803.m3u8
+#EXTINF:-1 group-title="UK", UK: AL ARABIYA | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6804.m3u8
+#EXTINF:-1 group-title="UK", UK: ALIBI FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4193.m3u8
+#EXTINF:-1 group-title="UK", UK: ALIBI | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6805.m3u8
+#EXTINF:-1 group-title="UK", UK: AMC | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6806.m3u8
+#EXTINF:-1 group-title="UK", UK: AL JAZEERA ENG | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6807.m3u8
+#EXTINF:-1 group-title="UK", UK: ALIBI 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6808.m3u8
+#EXTINF:-1 group-title="UK", UK: ALIBI | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6809.m3u8
+#EXTINF:-1 group-title="UK", UK: ANIMAL PLANET 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6810.m3u8
+#EXTINF:-1 group-title="UK", UK: ANIMAL PLANET FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4194.m3u8
+#EXTINF:-1 group-title="UK", UK: ANIMAL PLANET | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6812.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC 1 LONDON | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6815.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC 1 NORTH WEST | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6818.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC 1 NORTHERN IRELAND | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6819.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC 1 SCOTLAND | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6821.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC 1 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6824.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC TWO FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4196.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC 2 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6828.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC FOUR FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4197.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC 4 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6829.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC NEWS FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4198.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC NEWS | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6831.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC ONE FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4195.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC PARLIAMENT | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6834.m3u8
+#EXTINF:-1 group-title="UK", UK: BLOOMBERG FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4199.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC SCOTLAND | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6835.m3u8
+#EXTINF:-1 group-title="UK", UK: BBC TWO ENGLAND | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6836.m3u8
+#EXTINF:-1 group-title="UK", UK: BABY TV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6839.m3u8
+#EXTINF:-1 group-title="UK", UK: BLAZE | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6840.m3u8
+#EXTINF:-1 group-title="UK", UK: BOOMERANG +1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6841.m3u8
+#EXTINF:-1 group-title="UK", UK: BOOMERANG | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6842.m3u8
+#EXTINF:-1 group-title="UK", UK: BOX HITS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6843.m3u8
+#EXTINF:-1 group-title="UK", UK: BOX NATION | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6845.m3u8
+#EXTINF:-1 group-title="UK", UK: BOX UPFRONT | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6846.m3u8
+#EXTINF:-1 group-title="UK", UK: CBBC FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4202.m3u8
+#EXTINF:-1 group-title="UK", UK: CBBC | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6848.m3u8
+#EXTINF:-1 group-title="UK", UK: CBEEBIES FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4201.m3u8
+#EXTINF:-1 group-title="UK", UK: CBS DRAMA | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6849.m3u8
+#EXTINF:-1 group-title="UK", UK: CBS JUSTICE | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6850.m3u8
+#EXTINF:-1 group-title="UK", UK: CBS REALITY 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6851.m3u8
+#EXTINF:-1 group-title="UK", UK: CBS REALITY | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6852.m3u8
+#EXTINF:-1 group-title="UK", UK: CITV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6853.m3u8
+#EXTINF:-1 group-title="UK", UK: CNN | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6854.m3u8
+#EXTINF:-1 group-title="UK", UK: CARTOON NETWORK FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4200.m3u8
+#EXTINF:-1 group-title="UK", UK: CARTOON NETWORK | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6858.m3u8
+#EXTINF:-1 group-title="UK", UK: CARTOONITO | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6859.m3u8
+#EXTINF:-1 group-title="UK", UK: CBEEBIES | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6860.m3u8
+#EXTINF:-1 group-title="UK", UK: CHALLENGE | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6861.m3u8
+#EXTINF:-1 group-title="UK", UK: CHANNEL 4 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4203.m3u8
+#EXTINF:-1 group-title="UK", UK: CHANNEL 4 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6864.m3u8
+#EXTINF:-1 group-title="UK", UK: CHANNEL 5 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4204.m3u8
+#EXTINF:-1 group-title="UK", UK: CHANNEL 5 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6867.m3u8
+#EXTINF:-1 group-title="UK", UK: CHART SHOW TV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6869.m3u8
+#EXTINF:-1 group-title="UK", UK: CLUBLAND TV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6870.m3u8
+#EXTINF:-1 group-title="UK", UK: COMEDY CENTRAL 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6872.m3u8
+#EXTINF:-1 group-title="UK", UK: COMEDY CENTRAL FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4205.m3u8
+#EXTINF:-1 group-title="UK", UK: COMEDY CENTRAL | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6873.m3u8
+#EXTINF:-1 group-title="UK", UK: COMEDYXTRA 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6875.m3u8
+#EXTINF:-1 group-title="UK", UK: COMEDYXTRA | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6876.m3u8
+#EXTINF:-1 group-title="UK", UK: CRIME & INVESTIGATION FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4206.m3u8
+#EXTINF:-1 group-title="UK", UK: CRIME & INVESTIGATION | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6878.m3u8
+#EXTINF:-1 group-title="UK", UK: DMAX 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6881.m3u8
+#EXTINF:-1 group-title="UK", UK: DMAX | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6882.m3u8
+#EXTINF:-1 group-title="UK", UK: DEJA VU | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6883.m3u8
+#EXTINF:-1 group-title="UK", UK: DAVE FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4207.m3u8
+#EXTINF:-1 group-title="UK", UK: DAVE | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6885.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6886.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY HISTORY 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6887.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY HISTORY | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6888.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY SCIENCE | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6889.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY SHED | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6890.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY TURBO 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6891.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY TURBO | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6892.m3u8
+#EXTINF:-1 group-title="UK", UK: DISCOVERY | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6895.m3u8
+#EXTINF:-1 group-title="UK", UK: DISNEY CHANNEL | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6897.m3u8
+#EXTINF:-1 group-title="UK", UK: DISNEY JR | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6898.m3u8
+#EXTINF:-1 group-title="UK", UK: DISNEY XD | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6899.m3u8
+#EXTINF:-1 group-title="UK", UK: DRAMA | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6900.m3u8
+#EXTINF:-1 group-title="UK", UK: E! FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4208.m3u8
+#EXTINF:-1 group-title="UK", UK: E! | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6901.m3u8
+#EXTINF:-1 group-title="UK", UK: E4 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4209.m3u8
+#EXTINF:-1 group-title="UK", UK: E4 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6903.m3u8
+#EXTINF:-1 group-title="UK", UK: EDEN FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4210.m3u8
+#EXTINF:-1 group-title="UK", UK: EDEN | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6905.m3u8
+#EXTINF:-1 group-title="UK", UK: NEWS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6906.m3u8
+#EXTINF:-1 group-title="UK", UK: SPORT 1 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7416.m3u8
+#EXTINF:-1 group-title="UK", UK: SPORT 2 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7417.m3u8
+#EXTINF:-1 group-title="UK", UK: FREESPORTS | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6909.m3u8
+#EXTINF:-1 group-title="UK", UK: FILM 4 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4211.m3u8
+#EXTINF:-1 group-title="UK", UK: FILM 4 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6911.m3u8
+#EXTINF:-1 group-title="UK", UK: FOOD NETWORK | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6913.m3u8
+#EXTINF:-1 group-title="UK", UK: FOX FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4212.m3u8
+#EXTINF:-1 group-title="UK", UK: FOX | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6915.m3u8
+#EXTINF:-1 group-title="UK", UK: GLOBAL HITS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6918.m3u8
+#EXTINF:-1 group-title="UK", UK: GOLD 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6920.m3u8
+#EXTINF:-1 group-title="UK", UK: GOLD FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4213.m3u8
+#EXTINF:-1 group-title="UK", UK: GOLD | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6922.m3u8
+#EXTINF:-1 group-title="UK", UK: H2 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4214.m3u8
+#EXTINF:-1 group-title="UK", UK: H2 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6924.m3u8
+#EXTINF:-1 group-title="UK", UK: HISTORY FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4215.m3u8
+#EXTINF:-1 group-title="UK", UK: HISTORY | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6928.m3u8
+#EXTINF:-1 group-title="UK", UK: HOME & HEALTH 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6929.m3u8
+#EXTINF:-1 group-title="UK", UK: HOME & HEALTH | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6930.m3u8
+#EXTINF:-1 group-title="UK", UK: HOME | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6931.m3u8
+#EXTINF:-1 group-title="UK", UK: HORROR CHANNEL 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6932.m3u8
+#EXTINF:-1 group-title="UK", UK: HORROR CHANNEL | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6933.m3u8
+#EXTINF:-1 group-title="UK", UK: ID 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6934.m3u8
+#EXTINF:-1 group-title="UK", UK: ID | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6935.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV1 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4216.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV 1 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6936.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV2 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4217.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV 2 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6938.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV3 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4218.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV 3 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6939.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV4 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4219.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV 4 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6942.m3u8
+#EXTINF:-1 group-title="UK", UK: ITVBe FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4220.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV BE | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6943.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV GRANADA | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6944.m3u8
+#EXTINF:-1 group-title="UK", UK: ITV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6947.m3u8
+#EXTINF:-1 group-title="UK", UK: ITVBE | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6948.m3u8
+#EXTINF:-1 group-title="UK", UK: KISS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6950.m3u8
+#EXTINF:-1 group-title="UK", UK: KEEP IT COUNTRY | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6952.m3u8
+#EXTINF:-1 group-title="UK", UK: KERRANG | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6953.m3u8
+#EXTINF:-1 group-title="UK", UK: LFC TV | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6954.m3u8
+#EXTINF:-1 group-title="UK", UK: LIFETIME FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4221.m3u8
+#EXTINF:-1 group-title="UK", UK: LIFETIME | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6957.m3u8
+#EXTINF:-1 group-title="UK", UK: LOVE NATURE FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4222.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6959.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV BASE | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6960.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV CLASSIC | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6961.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV CLUB | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6962.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV HITS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6963.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV LIVE FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4225.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV LIVE | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6965.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV MUSIC 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6966.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV MUSIC | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6967.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV OMG | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6968.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV ROCKS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6969.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4224.m3u8
+#EXTINF:-1 group-title="UK", UK: MTV | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6971.m3u8
+#EXTINF:-1 group-title="UK", UK: MUTV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6972.m3u8
+#EXTINF:-1 group-title="UK", UK: MAGIC | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6973.m3u8
+#EXTINF:-1 group-title="UK", UK: MORE4 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4223.m3u8
+#EXTINF:-1 group-title="UK", UK: MORE 4 | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6975.m3u8
+#EXTINF:-1 group-title="UK", UK: MOVIES4MEN 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6976.m3u8
+#EXTINF:-1 group-title="UK", UK: MOVIES4MEN | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6977.m3u8
+#EXTINF:-1 group-title="UK", UK: NOW 90’S | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6979.m3u8
+#EXTINF:-1 group-title="UK", UK: NAT GEO WILD FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4227.m3u8
+#EXTINF:-1 group-title="UK", UK: NATIONAL GEOGRAPHIC WILD | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6981.m3u8
+#EXTINF:-1 group-title="UK", UK: NAT GEO FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4226.m3u8
+#EXTINF:-1 group-title="UK", UK: NATIONAL GEOGRAPHIC | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6983.m3u8
+#EXTINF:-1 group-title="UK", UK: NICK JR 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6984.m3u8
+#EXTINF:-1 group-title="UK", UK: NICK JR TOO | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6985.m3u8
+#EXTINF:-1 group-title="UK", UK: NICK JR | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6986.m3u8
+#EXTINF:-1 group-title="UK", UK: NICK FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4228.m3u8
+#EXTINF:-1 group-title="UK", UK: NICK | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/6988.m3u8
+#EXTINF:-1 group-title="UK", UK: NICKELODEON | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6989.m3u8
+#EXTINF:-1 group-title="UK", UK: NICKTOONS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6990.m3u8
+#EXTINF:-1 group-title="UK", UK: POP 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6994.m3u8
+#EXTINF:-1 group-title="UK", UK: POP MAX | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6996.m3u8
+#EXTINF:-1 group-title="UK", UK: POP | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6997.m3u8
+#EXTINF:-1 group-title="UK", UK: PARAMOUNT | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/6999.m3u8
+#EXTINF:-1 group-title="UK", UK: PARAMOUNT FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4229.m3u8
+#EXTINF:-1 group-title="UK", UK: PICK | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7001.m3u8
+#EXTINF:-1 group-title="UK", UK: POKER GO | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7002.m3u8
+#EXTINF:-1 group-title="UK", UK: QUEST RED | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7005.m3u8
+#EXTINF:-1 group-title="UK", UK: QUEST FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4230.m3u8
+#EXTINF:-1 group-title="UK", UK: QUEST | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7007.m3u8
+#EXTINF:-1 group-title="UK", UK: RTE 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7008.m3u8
+#EXTINF:-1 group-title="UK", UK: RTE 2 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7009.m3u8
+#EXTINF:-1 group-title="UK", UK: RTE JR | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7010.m3u8
+#EXTINF:-1 group-title="UK", UK: RTE NEWS |HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7011.m3u8
+#EXTINF:-1 group-title="UK", UK: REAL LIVES | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7013.m3u8
+#EXTINF:-1 group-title="UK", UK: REALLY | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7014.m3u8
+#EXTINF:-1 group-title="UK", UK: STV | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7018.m3u8
+#EXTINF:-1 group-title="UK", UK: SYFY | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7021.m3u8
+#EXTINF:-1 group-title="UK", UK: 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7025.m3u8
+#EXTINF:-1 group-title="UK", UK: 2 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7026.m3u8
+#EXTINF:-1 group-title="UK", UK: ARTS | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7028.m3u8
+#EXTINF:-1 group-title="UK", UK: ATLANTIC FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4233.m3u8
+#EXTINF:-1 group-title="UK", UK: ATLANTIC | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7030.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA ACTION & ADVENTURE | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7032.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA ACTION | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7033.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA COMEDY | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7035.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA DISNEY | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7037.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA ROMANCE | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7039.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA DRAMA | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7040.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA FAMILY | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7042.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA GREATS | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7044.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA HITS | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7046.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA PREMIER | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7048.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA SCI-FI | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7050.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA SCIFI & HORROR | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7051.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA SELECT | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7053.m3u8
+#EXTINF:-1 group-title="UK", UK: CINEMA THRILLER | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7055.m3u8
+#EXTINF:-1 group-title="UK", UK: CRIME FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4234.m3u8
+#EXTINF:-1 group-title="UK", UK: NEWS
+http://beastiptv.tv:25461/live/Dave123/dave123/5555.m3u8
+#EXTINF:-1 group-title="UK", UK: NEWS | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7058.m3u8
+#EXTINF:-1 group-title="UK", UK: ONE FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4231.m3u8
+#EXTINF:-1 group-title="UK", UK: ONE | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7059.m3u8
+#EXTINF:-1 group-title="UK", UK: WITNESS FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4232.m3u8
+#EXTINF:-1 group-title="UK", UK: WITNESS | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7062.m3u8
+#EXTINF:-1 group-title="UK", UK: SMITHSONIAN FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4235.m3u8
+#EXTINF:-1 group-title="UK", UK: SONY CRIME | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7063.m3u8
+#EXTINF:-1 group-title="UK", UK: SONY TV | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7067.m3u8
+#EXTINF:-1 group-title="UK", UK: STAR GOLD | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7069.m3u8
+#EXTINF:-1 group-title="UK", UK: STAR PLUS | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7070.m3u8
+#EXTINF:-1 group-title="UK", UK: STARZ TV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7071.m3u8
+#EXTINF:-1 group-title="UK", UK: STV FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4236.m3u8
+#EXTINF:-1 group-title="UK", UK: SYFY FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4237.m3u8
+#EXTINF:-1 group-title="UK", UK: TCM FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4238.m3u8
+#EXTINF:-1 group-title="UK", UK: TCM | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7073.m3u8
+#EXTINF:-1 group-title="UK", UK: TLC FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4239.m3u8
+#EXTINF:-1 group-title="UK", UK: TLC | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7077.m3u8
+#EXTINF:-1 group-title="UK", UK: TALKING PICTURES TV | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7078.m3u8
+#EXTINF:-1 group-title="UK", UK: THE BOX | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7079.m3u8
+#EXTINF:-1 group-title="UK", UK: THE VAULT | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7080.m3u8
+#EXTINF:-1 group-title="UK", UK: TINY POP | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7082.m3u8
+#EXTINF:-1 group-title="UK", UK: TOGETHER | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7083.m3u8
+#EXTINF:-1 group-title="UK", UK: TRAVEL CHANNEL | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7084.m3u8
+#EXTINF:-1 group-title="UK", UK: TRUE ENTERTAINMENT | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7085.m3u8
+#EXTINF:-1 group-title="UK", UK: TRUE MOVIES 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7086.m3u8
+#EXTINF:-1 group-title="UK", UK: UNIVERSAL 1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7089.m3u8
+#EXTINF:-1 group-title="UK", UK: UNIVERSAL FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4241.m3u8
+#EXTINF:-1 group-title="UK", UK: UNIVERSAL | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7091.m3u8
+#EXTINF:-1 group-title="UK", UK: UTV FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4240.m3u8
+#EXTINF:-1 group-title="UK", UK: VH1 | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7092.m3u8
+#EXTINF:-1 group-title="UK", UK: W FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4242.m3u8
+#EXTINF:-1 group-title="UK", UK: WATCH | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7093.m3u8
+#EXTINF:-1 group-title="UK", UK: YESTERDAY | HD
+http://beastiptv.tv:25461/live/Dave123/dave123/7096.m3u8
+#EXTINF:-1 group-title="UK", UK: ZEE CINEMA | UHD
+http://beastiptv.tv:25461/live/Dave123/dave123/7099.m3u8
+#EXTINF:-1 group-title="UK", UK: ZOO MOO FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4243.m3u8
+#EXTINF:-1,BOX NATION HD 50Fps
+http://beastiptv.tv:25461/live/Dave123/dave123/4070.m3u8
+#EXTINF:-1, SPORTS 1 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4063.m3u8
+#EXTINF:-1, SPORTS 1 FHD 50Fps
+http://beastiptv.tv:25461/live/Dave123/dave123/4062.m3u8
+#EXTINF:-1, SPORTS 2 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4065.m3u8
+#EXTINF:-1, SPORTS 2 FHD 50Fps
+http://beastiptv.tv:25461/live/Dave123/dave123/4064.m3u8
+#EXTINF:-1, SPORTS 3 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4067.m3u8
+#EXTINF:-1, SPORTS 3 FHD 50Fps
+http://beastiptv.tv:25461/live/Dave123/dave123/4066.m3u8
+#EXTINF:-1, SPORTS ESPN FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4069.m3u8
+#EXTINF:-1, SPORTS ESPN FHD 50Fps
+http://beastiptv.tv:25461/live/Dave123/dave123/4068.m3u8
+#EXTINF:-1, SPORTS EXTRA 1
+http://beastiptv.tv:25461/live/Dave123/dave123/4071.m3u8
+#EXTINF:-1, SPORTS EXTRA 2
+http://beastiptv.tv:25461/live/Dave123/dave123/4072.m3u8
+#EXTINF:-1, SPORTS EXTRA 3
+http://beastiptv.tv:25461/live/Dave123/dave123/4073.m3u8
+#EXTINF:-1, SPORTS EXTRA 4
+http://beastiptv.tv:25461/live/Dave123/dave123/4074.m3u8
+#EXTINF:-1, SPORTS EXTRA 5
+http://beastiptv.tv:25461/live/Dave123/dave123/4075.m3u8
+#EXTINF:-1, SPORTS EXTRA 6
+http://beastiptv.tv:25461/live/Dave123/dave123/4076.m3u8
+#EXTINF:-1, SPORTS EXTRA 7
+http://beastiptv.tv:25461/live/Dave123/dave123/4077.m3u8
+#EXTINF:-1, SPORTS ACTION FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4084.m3u8
+#EXTINF:-1, SPORTS ARENA FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4085.m3u8
+#EXTINF:-1, SPORTS CRICKET FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4081.m3u8
+#EXTINF:-1, SPORTS F1 FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4083.m3u8
+#EXTINF:-1, SPORTS FOOTBALL FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4080.m3u8
+#EXTINF:-1, SPORTS GOLF FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4082.m3u8
+#EXTINF:-1, SPORTS MAIN EVENT FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4078.m3u8
+#EXTINF:-1, SPORTS MIX FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4086.m3u8
+#EXTINF:-1, SPORTS NEWS FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4088.m3u8
+#EXTINF:-1, SPORTS PREMIER LEAGUE FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4079.m3u8
+#EXTINF:-1, SPORTS RACING FHD
+http://beastiptv.tv:25461/live/Dave123/dave123/4087.m3u8
