@@ -43,6 +43,8 @@ http://wowgua.com/live/channel_utv_c_plus.m3u8
 #EXTINF:-1 group-title="香港",賽馬直擊
 http://wowgua.com/live/channel_utv_racing.m3u8
 
+#EXTINF:-1 tvg-logo="http://nextgen-iptv.com/logo/dmax.png" group-title="香港",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now Sports 精選
 http://wowgua.com/live/channel_630.m3u8
