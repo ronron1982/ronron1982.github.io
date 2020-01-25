@@ -65,9 +65,6 @@ http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",鳳凰香港台2
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 
-
-#EXTINF:tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png" group-title="台灣",台灣-中天新聞
-http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png",探索科学
 http://122.155.180.8:5021/live/457
 
@@ -118,6 +115,50 @@ http://51buy.giize.com/1.mp4
 
 #EXTINF:-1 group-title="香港",美國中文電視
 http://ec.sinovision.net/video/ts/lv.m3u8
+
+
+
+#EXTINF:tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png" group-title="台灣",台灣-中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="台灣",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞
+http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="台灣",信吉電視  
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視.png" group-title="台灣",中視  
+http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣",華視  
+http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台灣",年代新聞  
+http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台灣",中天綜合  
+http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台灣",中天娛樂  
+http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8  
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",東森新聞  
+http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8  
+#EXTINF:-1 group-title="台灣",三立新聞 2
+http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8  
+
+#EXTINF:-1 tvg-logo="https://www.tacttv.com/wp-content/uploads/2018/11/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E5%8F%B0logo.png" group-title="台灣",台灣藝術
+http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
+#EXTINF:-1 tvg-logo="http://titv.ipcf.org.tw/images/logo.png" group-title="台灣",原住民族電視
+https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
+#EXTINF:-1 tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="台灣",番薯
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
+#EXTINF:-1 tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="台灣",信吉電視
+http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台灣",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台灣",人間衛視
+http://54.64.23.79:1935/live/vod/playlist.m3u8
+
 
 #EXTM3U
 #EXTINF:-1,OSN cinema 1
@@ -180,6 +221,8 @@ https://sbshdlu3-lh.akamaihd.net/i/sbshdlive_4@99403/master.m3u8
 #EXTINF:-1,DMAX
 https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 	
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d8cb97331.png" group-title="香港",Animal Planet
+http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
 #EXTINF:-1,Discovery HD Showcase
 http://cn02.iptv.monster/play/272/2D6E866C992891C/video.m3u8
@@ -208,8 +251,7 @@ http://cn04.iptv.monster/play/5140/2D6E866C992891C/video.m3u8
 http://cn04.iptv.monster/play/824/2D6E866C992891C/video.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d8cb97331.png" group-title="香港",Animal Planet
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="澳門",澳視澳門
 http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -235,43 +277,6 @@ http://nclive.grtn.cn/zjpd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="中國",珠江台3
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://pic.4gtv.tv/ChannelLogo/mobile/logo_4gtv_litv-ftv13_mobile.png" group-title="台灣",民視新聞
-http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png" group-title="台灣",三立新聞
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="台灣",信吉電視  
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視.png" group-title="台灣",中視  
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣",華視  
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台灣",年代新聞  
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台灣",中天綜合  
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台灣",中天娛樂  
-http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",東森新聞  
-http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8  
-#EXTINF:-1 group-title="台灣",三立新聞 2
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8  
-
-#EXTINF:-1 tvg-logo="https://www.tacttv.com/wp-content/uploads/2018/11/%E5%8F%B0%E7%81%A3%E8%97%9D%E8%A1%93%E5%8F%B0logo.png" group-title="台灣",台灣藝術
-http://210.209.3.1/live/4715A9B3-B3CB-93DC-EDD6-CABCE3AFD3E3.m3u8?fmt=x264_500K_ts&cpid=admin&size=1280X720
-#EXTINF:-1 tvg-logo="http://titv.ipcf.org.tw/images/logo.png" group-title="台灣",原住民族電視
-https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-#EXTINF:-1 tvg-logo="http://www.fanstv.tw/images/logo.png" group-title="台灣",番薯
-http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-#EXTINF:-1 tvg-logo="http://www.sjtv.com.tw/sjtvlive/views/img/live_web_logo.png" group-title="台灣",信吉電視
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weixin.png" group-title="台灣",唯心電視
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台灣",人間衛視
-http://54.64.23.79:1935/live/vod/playlist.m3u8
-
 
 
 
