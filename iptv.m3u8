@@ -37,7 +37,7 @@ http://wowgua.com/live/channel_ontv.m3u8
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-sports-2--world-1894.png" group-title="香港",Sport2 World HK
 http://wowgua.com/live/channel_sports2world.m3u8
 
-#EXTINF:-1 group-title="香港",C+ 頻道
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/UTV_logo.png" group-title="香港",C+ 頻道
 http://wowgua.com/live/channel_utv_c_plus.m3u8
 
 #EXTINF:-1 group-title="香港",賽馬直擊
@@ -70,23 +70,6 @@ http://122.155.180.8:5021/live/457
 
 #EXTINF:tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225163310626.png,廣東衛視 HD
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="日本",日本Japanet Channel DX
-http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pbs.twimg.com/profile_images/474926025768312833/TUAQCppN.png" group-title="日本",日本NTV News24
-http://www.news24.jp/livestream/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="日本",日本Shop Channel
-http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Nippon-TV-News-24-Live-TV-from-Japan.png" group-title="日本",日本24 NEWS
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Nippon-TV-News-24-Live-TV-from-Japan.png" group-title="日本",日本24 NEWS 2
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-
-
-#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="日本",NHK華語
-https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
@@ -121,7 +104,7 @@ http://ec.sinovision.net/video/ts/lv.m3u8
 
 
 
-#EXTINF:tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png" group-title="台灣",台灣-中天新聞
+#EXTINF:tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png" group-title="台灣",中天新聞
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
 
 
@@ -164,6 +147,26 @@ http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
 http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="台灣",人間衛視
 http://54.64.23.79:1935/live/vod/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="日本",日本Japanet Channel DX
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="日本",日本Shop Channel
+http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Nippon-TV-News-24-Live-TV-from-Japan.png" group-title="日本",日本24 NEWS
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Nippon-TV-News-24-Live-TV-from-Japan.png" group-title="日本",日本24 NEWS 2
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Nippon-TV-News-24-Live-TV-from-Japan.png" group-title="日本",日本24 NEWS 3
+http://www.news24.jp/livestream/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="日本",NHK華語
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+
+
 
 
 #EXTM3U
