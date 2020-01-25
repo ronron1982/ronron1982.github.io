@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+http://wowgua.com/live/channel_109.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台2
 https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
@@ -9,12 +9,47 @@ https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台3
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線直播新聞台
+http://wowgua.com/live/channel_110.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",有線財經資訊台
-https://ottproxy2.mott.tv/livehls/MOV-NGW/index.m3u8
+http://wowgua.com/live/channel_108.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",NOW 新聞台
-http://wwwgua.com/live/channel_332.m3u8
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5ca9b975cc.png" group-title="香港",有線綜合娛樂台
+http://wowgua.com/live/channel_108.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
+http://wowgua.com/live/channel_332.m3u8
+
+#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW新聞台
+http://wowgua.com/live/channel_331.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="香港",HK01
+http://wowgua.com/live/channel_hk01.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="香港",東網新聞台
+http://wowgua.com/live/channel_ontv_news.m3u8
+
+#EXTINF:-1 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="香港",東網直播台
+http://wowgua.com/live/channel_ontv.m3u8
+
+#EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-sports-2--world-1894.png" group-title="香港",Sport2 World HK
+http://wowgua.com/live/channel_sports2world.m3u8
+
+#EXTINF:-1 group-title="香港",C+ 頻道
+http://wowgua.com/live/channel_utv_c_plus.m3u8
+
+#EXTINF:-1 group-title="香港",賽馬直擊
+http://wowgua.com/live/channel_utv_racing.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now Sports 精選
+http://wowgua.com/live/channel_630.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Viu_logo.svg/1200px-Viu_logo.svg.png" group-title="香港",ViuTV
+http://wowgua.com/live/channel_99.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="香港",港台電視 31
@@ -502,273 +537,3 @@ http://221.6.85.150:9000/live/ksxwzh_800/ksxwzh_800.m3u8
 http://221.6.85.150:9000/live/ksshsh_800/ksshsh_800.m3u8
 #EXTINF:-1, group-title="地方頻道", 武漢-3 科技生活
 http://live.appwuhan.com/3tzb/sd/live.m3u8
-#EXTINF:-1, group-title="其他頻道", 亮劍
-https://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 徐崢
-https://aldirect.hls.huya.com/huyalive/29106097-2689278568-11550363499393712128-2710090468-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 搏擊
-http://121.31.30.90:8085/ysten-business/live/SD-1500k-576P-bokesen/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 電競
-http://121.31.30.90:8085/ysten-business/live/wmyx/12757286.m3u8
-#EXTINF:-1, group-title="其他頻道", 男神
-https://aldirect.hls.huya.com/huyalive/29359996-2689475864-11551210879261343744-2847699104-10057-A-1525430092-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 黃渤
-https://aldirect.hls.huya.com/huyalive/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 周潤發
-http://tx.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 大宅門
-https://aldirect.hls.huya.com/huyalive/29106097-2689284984-11550391055903883264-2847699150-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 寶蓮燈
-https://aldirect.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 新娛樂
-http://223.110.245.141/ott.js.chinamobile.com/PLTV/3/224/3221227021/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 李連傑
-http://js.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 林正英
-http://aldirect.hls.huya.com/huyalive/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 洪金寶
-http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 甄子丹
-http://tx.hls.huya.com/huyalive/29169025-2686219938-11537226783573147648-2847699096-10057-A-1524024759-1.m3u8
-
-#EXTINF:-1, group-title="其他頻道", 藍球火
-https://aldirect.hls.huya.com/huyalive/30765679-2682197822-11519951926892429312-2847699094-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 軒轅劍
-https://aldirect.hls.huya.com/huyalive/28466698-2689663056-11552014862779416576-3048959692-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 鹿鼎記
-https://aldirect.hls.huya.com/huyalive/94525224-2701055008-11600942924057018368-2847687618-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", DDTV
-http://203.156.63.20:1935/live/ddtv/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", TVS2
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 三國演義
-https://aldirect.hls.huya.com/huyalive/29169025-2686221140-11537231946123837440-3049003146-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 東南衛視
-http://39.134.65.76:80/wh7f454c46tw4098694185_-758738296/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225620/index.m3u8?icpid=88888888&RTS=1579495501&from=1&hms_devid=131
-#EXTINF:-1, group-title="其他頻道", 喪屍電影
-http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 五星體育
-http://223.110.245.147/ott.js.chinamobile.com/PLTV/3/224/3221226799/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 京視劇場
-http://223.110.245.143/ott.js.chinamobile.com/PLTV/3/224/3221227040/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 健康有約
-http://121.31.30.90:8085/ysten-business/live/ljiankangyouyue/1.m3u8
-
-#EXTINF:-1, group-title="其他頻道", 軍事評論
-http://121.31.30.90:8085/ysten-business/live/junshipl/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 軍旅劇場
-http://121.31.30.90:8085/ysten-business/live/junlvjc/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 軍旅神劇
-https://aldirect.hls.huya.com/huyalive/28466698-2689654432-11551977822981455872-2847687622-10057-A-1525510118-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 農業致富
-http://121.31.30.90:8085/ysten-business/live/nongyezf/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 動作電影
-http://121.31.30.90:8085/ysten-business/live/dongzuody/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 南方衛視
-http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
-#EXTINF:-1, group-title="其他頻道", 衛星劇場
-http://192.240.127.34:1935/live/cs18.stream/media_1254.m3u8
-#EXTINF:-1, group-title="其他頻道", 歷史頻道
-http://192.240.127.34:1935/live/cs14.stream/media_1254.m3u8
-#EXTINF:-1, group-title="其他頻道", 古裝劇場
-http://121.31.30.90:8085/ysten-business/live/guzhuangjc/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 哈哈炫動
-http://39.134.65.88:80/wh7f454c46tw4102659539_147666366/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225657/index.m3u8?icpid=88888888&RTS=1579495505&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他頻道", 嘉佳卡通
-http://nclive.grtn.cn/jjkt/sd/live.m3u8?ts
-#EXTINF:-1, group-title="其他頻道", 四大天王
-https://aldirect.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 士兵突擊
-http://aldirect.hls.huya.com/huyalive/94525224-2579683622-11079656790516826112-2789274566-10057-A-1521167951-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 復仇犯罪
-http://tx.hls.huya.com/huyalive/28466698-2689661530-11552008308659322880-3049003102-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 大秦帝國
-https://aldirect.hls.huya.com/huyalive/30765679-2554414808-10971128060778119168-3048959636-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 天龍八部
-https://aldirect.hls.huya.com/huyalive/30765679-2475713428-10633108207528050688-3048991608-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 安多衛視
-http://39.134.65.78:80/wh7f454c46tw4099652824_1796670265/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225659/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=128
-#EXTINF:-1, group-title="其他頻道", 家有兒女
-https://aldirect.hls.huya.com/huyalive/29169025-2686221252-11537232427160174592-2847687508-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 家有購物
-http://39.134.65.73:80/wh7f454c46tw4102808272_-909269264/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225682/index.m3u8?icpid=88888888&RTS=1579495505&from=1&hms_devid=132
-#EXTINF:-1, group-title="其他頻道", 少林足球
-https://aldirect.hls.huya.com/huyalive/30765679-2672001664-11476159761737580544-3048991600-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 康巴衛視
-http://39.134.65.65:80/wh7f454c46tw4099649951_716993152/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225660/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=125
-#EXTINF:-1, group-title="其他頻道", 康熙王朝
-https://aldirect.hls.huya.com/huyalive/29141112-2691519968-11559990239090966528-3049003118-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 延邊衛視
-http://live.ybtvyun.com/video/s10006-cys-sd/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 快樂垂釣
-http://phonehw.qing.mgtv.com/nn_live/nn_x64/cz1hNjUzNmEyN2MwMzUzYjNmMWVkYjIzYzM3MzYwMjBiOSZlcz0xNTc5NTI0MjkyJnV1aWQ9M2QwYjkyZjY4YzU3ZjVmNGQ3NGQxZWQ4ODZjNzRhMmYtZGZkNzU1OTAmdj0yJmFzPTAmY2RuZXhfaWQ9aHdfcGhvbmU,/KLCDMPP360.m3u8
-#EXTINF:-1, group-title="其他頻道", 怪物科幻
-http://tx.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 驚悚懸疑
-http://121.31.30.90:8085/ysten-business/live/jingsongxy/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 旅遊衛視
-http://39.134.65.75:80/wh7f454c46tw4099737858_1618505577/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225639/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=127
-#EXTINF:-1, group-title="其他頻道", 日本映畫
-http://192.240.127.34:1935/live/cs19.stream/media_1254.m3u8
-#EXTINF:-1, group-title="其他頻道", 明星大片
-http://121.31.30.90:8085/ysten-business/live/mingxingdp/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 沉陽公共
-http://lms.csytv.com/Live/124/live/livestream.m3u8
-#EXTINF:-1, group-title="其他頻道", 沉陽新聞
-http://lms.csytv.com/Live/122/live/livestream.m3u8
-#EXTINF:-1, group-title="其他頻道", 沉陽經濟
-http://lms.csytv.com/Live/123/live/livestream.m3u8
-#EXTINF:-1, group-title="其他頻道", 海外劇場
-http://121.31.30.90:8085/ysten-business/live/xiqumd/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 炫動卡通
-http://223.110.245.163/ott.js.chinamobile.com/PLTV/3/224/3221226388/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 愛情公寓
-https://aldirect.hls.huya.com/huyalive/30765679-2523417493-10837995606589308928-2777071594-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 愛情喜劇
-http://121.31.30.90:8085/ysten-business/live/aiqingxj/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 王晶導演
-https://aldirect.hls.huya.com/huyalive/94525224-2579683592-11079656661667807232-2847687574-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 珠江頻道
-http://nclive.grtn.cn/zjpd/sd/live.m3u8?ts
-#EXTINF:-1, group-title="其他頻道", 生化危機
-https://aldirect.hls.huya.com/huyalive/28466698-2689654156-11551976637570482176-2847699186-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 生活頻道
-http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227311/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 科幻電影
-http://aldirect.hls.huya.com/huyalive/28466698-2689656864-11551988268341919744-2847699194-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 精品體育
-http://121.31.30.90:8085/ysten-business/live/jtiyu/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 精品大劇
-http://121.31.30.90:8085/ysten-business/live/jdaju/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 精品電影
-http://121.31.30.90:8085/ysten-business/live/jdianying/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 精品記錄
-http://121.31.30.90:8085/ysten-business/live/jingpinjl/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 終極一班
-https://aldirect.hls.huya.com/huyalive/29169025-2686221732-11537234488744476672-2847699168-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 虎牙亮劍
-http://aldirect.hls.huya.com/huyalive/30765679-2475713500-10633108516765696000-2789274576-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 虎牙電影
-http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 賭博電影
-http://js.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 賭片合集
-https://aldirect.hls.huya.com/huyalive/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 重案六組
-https://aldirect.hls.huya.com/huyalive/30765679-2523416621-10837991861377826816-2777027388-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 金牌綜藝
-http://121.31.30.90:8085/ysten-business/live/saishijx/1.m3u8
-#EXTINF:-1, group-title="其他頻道", 金鷹卡通
-http://39.134.65.74:80/wh7f454c46tw4099328647_945444960/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225653/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=127
-#EXTINF:-1, group-title="其他頻道", 金鷹紀實
-http://phonehw.qing.mgtv.com/nn_live/nn_x64/cz1kMWU3OGQxYjM3ZmZiNDc5MmU2Yjc3NzljOTQxMmQ3NyZlcz0xNTc5NTI0MjkyJnV1aWQ9YTFjMDkzYWQ0NjUyMjk0N2JlNmNlNTZhYzdiZWNjOTItZGZkNzU1OTAmdj0yJmFzPTAmY2RuZXhfaWQ9aHdfcGhvbmU,/JYJSMPP360.m3u8
-#EXTINF:-1, group-title="其他頻道", 風尚購物
-http://39.134.65.73:80/wh7f454c46tw4100045489_1919273299/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225679/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=132
-#EXTINF:-1, group-title="其他頻道", 魔幻手機
-https://aldirect.hls.huya.com/huyalive/29169025-2686220680-11537229970438881280-2847687524-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", ﻿劉德華
-http://aldirect.hls.huya.com/huyalive/94525224-2467341872-10597152648291418112-2789274550-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", CETV1
-http://121.31.30.90:8085/ysten-business/live/jiaoyutv/1.m3u8
-#EXTINF:-1, group-title="其他頻道", CHC電影
-http://ivi.bupt.edu.cn/hls/chchd.m3u8
-#EXTINF:-1, group-title="其他頻道", MDF.1
-http://62.113.210.250/medienasa-live/mdf1_high/agustiny.m3u8
-#EXTINF:-1, group-title="其他頻道", 倚天屠龍記
-https://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 古惑仔電影
-http://tx.hls.huya.com/huyalive/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 咱們結婚吧
-https://aldirect.hls.huya.com/huyalive/29106097-2689287372-11550401312285786112-2789253858-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 大唐雙龍傳
-https://aldirect.hls.huya.com/huyalive/30765679-2554414910-10971128498864783360-3049003166-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 女神港片1
-http://tx.hls.huya.com/huyalive/30765679-2484192476-10669525441389264896-2789274564-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 影視劇頻道
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 斯坦森電影
-http://tx.hls.huya.com/huyalive/30765679-2554414705-10971127618396487680-3048991636-10057-A-0-1.m3u8
-#EXTINF:-1, group-title="其他頻道", 李小龍傳奇
-https://aldirect.hls.huya.com/huyalive/28466698-2686637732-11539021195139612672-3048959574-10057-A-1524196077-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 泰國ETV
-http://61.19.244.112:1935/live/livestream/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", 特級戰爭片
-https://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 考古系列片
-https://aldirect.hls.huya.com/huyalive/29169025-2686221566-11537233775779905536-2789253842-10057-A-1523933708-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 西遊記後傳
-https://aldirect.hls.huya.com/huyalive/29169025-2686221304-11537232650498473984-2789253854-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 高爾夫頻道
-http://nclive.grtn.cn/grfpd/sd/live.m3u8?ts
-#EXTINF:-1, group-title="其他頻道", KCTV-N
-http://122.202.129.136:1935/live/ch4/hasbahca.m3u8
-#EXTINF:-1, group-title="其他頻道", RomaTV
-http://185.46.161.3/hls/sd.m3u8
-#EXTINF:-1, group-title="其他頻道", TVTuba
-http://69.46.0.170:1935/rcr_tuba/tv.stream/live.m3u8
-#EXTINF:-1, group-title="其他頻道", 優漫卡通-1
-http://223.110.243.171/PLTV/3/224/3221226982/index.m3u8
-#EXTINF:-1, group-title="其他頻道", 好萊塢電影1
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 好萊塢電影2
-http://aldirect.hls.huya.com/huyalive/29169025-2686220018-11537227127170531328-2847699120-10057-A-1524041208-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 好萊塢電影3
-http://aldirect.hls.huya.com/huyalive/28466698-2689659358-11551998979990355968-2789274580-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 好萊塢電影4
-http://js.hls.huya.com/huyalive/30765679-2478268764-10644083292078342144-2847699106-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 好萊塢電影5
-http://aldirect.hls.huya.com/huyalive/30765679-2504742278-10757786168918540288-3049003128-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 康熙微服私訪
-https://aldirect.hls.huya.com/huyalive/29169025-2686221704-11537234368485392384-2789274536-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 法國CGTN
-http://live.cgtn.com/1000f/prog_index.m3u8
-#EXTINF:-1, group-title="其他頻道", 舌尖上的中國
-https://aldirect.hls.huya.com/huyalive/30765679-2523417472-10837995516394995712-2847699158-10057-A-1521181527-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 越南ANTV
-http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", BesTV超級
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226942/index.m3u8
-#EXTINF:-1, group-title="其他頻道", TVTorun
-http://217.173.176.107:1935/live/ngrp:tvk.stream_all/master.m3u8
-#EXTINF:-1, group-title="其他頻道", 我的兄弟叫順溜
-https://aldirect.hls.huya.com/huyalive/30765679-2523205260-10837084072795176960-2789274532-10057-A-1511870010-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 春光燦爛豬八戒
-https://aldirect.hls.huya.com/huyalive/30765679-2554414938-10971128619123867648-3048959644-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 虎牙寶蓮燈前傳
-http://js.hls.huya.com/huyalive/30765679-2525901744-10848665383389364224-2847699200-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 鐵齒銅牙紀曉嵐
-https://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", Canale10
-http://37.187.142.147:1935/ch10live/high.stream/live.m3u8
-#EXTINF:-1, group-title="其他頻道", NewTV 搏擊
-http://39.134.65.65:80/wh7f454c46tw4101112970_743330994/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225680/index.m3u8?icpid=88888888&RTS=1579495504&from=1&hms_devid=125
-#EXTINF:-1, group-title="其他頻道", NewTV 電競
-http://39.134.65.3:80/wh7f454c46tw4100569957_-846320219/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225713/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=11
-#EXTINF:-1, group-title="其他頻道", RaiMovie
-http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
-#EXTINF:-1, group-title="其他頻道", 徐老師LOL故事
-http://aldirect.hls.huya.com/huyalive/28466698-2689658976-11551997339312848896-2789274534-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 西遊記(86版)
-https://aldirect.hls.huya.com/huyalive/29141112-2689673336-11552059015043219456-3048991588-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 韓-GOODTV
-http://mobliestream.c3tv.com:554/live/goodtv.sdp/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", 韓國-KCTVN
-http://122.202.129.136:1935/live/ch4/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", BesTVlive
-http://117.156.28.57/PLTV/88888888/224/3221225606/index.m3u8
-#EXTINF:-1, group-title="其他頻道", Elbekanal
-http://62.113.210.250/medienasa-live/_definst_/mp4:elbe_high/chunklist_w1146564478.m3u8
-#EXTINF:-1, group-title="其他頻道", Newtv精品電影
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1, group-title="其他頻道", Newtv超級電影
-http://183.251.61.207/PLTV/88888888/224/3221225804/index.m3u8
-#EXTINF:-1, group-title="其他頻道", Report-TV
-http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
-#EXTINF:-1, group-title="其他頻道", 南方衛視 TVS2
-http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
-#EXTINF:-1, group-title="其他頻道", 日-ファミリー劇場
-http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", 日本NEWS241
-https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-
-https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
