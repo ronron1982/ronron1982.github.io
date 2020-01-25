@@ -1,24 +1,20 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台2
-https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+https://ottproxy2.mott.tv/livehls/MOB-SCC/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台3
 https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台4
-http://aldirect.hls.huya.com/huyalive/29169025-2686219962-11537226886652362752-2710080226-10057-A-0-1_1200.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",有線財經資訊台
 https://ottproxy2.mott.tv/livehls/MOV-NGW/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",NOW 新聞台
 http://wwwgua.com/live/channel_332.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="香港",港台電視 31
@@ -33,12 +29,12 @@ http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
 http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png" group-title="台灣",台灣-中天新聞
+#EXTINF:tvg-logo="http://www.ctitv.com.tw/wp-content/uploads/2018/08/cti-logo.png" group-title="台灣",台灣-中天新聞
 http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",探索科学
+#EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png",探索科学
 http://122.155.180.8:5021/live/457
 
-#EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png,廣東衛視 HD
+#EXTINF:tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225163310626.png,廣東衛視 HD
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.starcat.co.jp/ch/wp-content/uploads/ch/57.jpg" group-title="日本",日本Japanet Channel DX
@@ -48,11 +44,18 @@ http://www.news24.jp/livestream/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://cdn.i.haymarketmedia.asia/?n=finance-asia%2Fcontent%2FBain+Jupiter.png" group-title="日本",日本Shop Channel
 http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Nippon-TV-News-24-Live-TV-from-Japan.png" group-title="日本",日本24 NEWS
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://thewatchtv.com/wp-content/uploads/2013/04/Watch-Nippon-TV-News-24-Live-TV-from-Japan.png" group-title="日本",日本24 NEWS 2
+https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+
+
 
 #EXTINF:-1 group-title="香港",美國中文電視
 http://ec.sinovision.net/video/ts/lv.m3u8
 
-#EXTINF:-1 group-title="香港",nhk華語
+#EXTINF:-1 group-title="日本",NHK華語
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
 
@@ -145,13 +148,13 @@ http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="香港",珠江台1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="中國",珠江台1
 http://nclive.grtn.cn/zjpd/sd/live.m3u8?ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="香港",珠江台2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="中國",珠江台2
 http://nclive.grtn.cn/zjpd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="香港",珠江台3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/15/Zhujiang_%E7%8F%A0%E6%B1%9F%E9%A2%91%E9%81%93.PNG" group-title="中國",珠江台3
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
 
 
@@ -767,82 +770,5 @@ http://nclive.grtn.cn/tvs2/sd/live.m3u8?_ts
 http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8
 #EXTINF:-1, group-title="其他頻道", 日本NEWS241
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1, group-title="其他頻道", 虎牙鐵齒銅牙紀曉嵐
-http://aldirect.hls.huya.com/huyalive/94525224-2468571348-10602433207502635008-2789253864-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", NewTV 東北熱劇
-http://39.135.135.63:80/wh7f454c46tw4101634303_500397411/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225741/index.m3u8?icpid=88888888&RTS=1579495504&from=1&hms_devid=699
-#EXTINF:-1, group-title="其他頻道", NewTV 中國功夫
-http://39.134.65.84:80/wh7f454c46tw4099921499_1449463994/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225681/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=130
-#EXTINF:-1, group-title="其他頻道", NewTV 健康有約
-http://39.134.65.66:80/wh7f454c46tw4099947701_1524357953/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225673/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=126
-#EXTINF:-1, group-title="其他頻道", NewTV 軍旅劇場
-http://39.134.65.76:80/wh7f454c46tw4099970598_791371274/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225676/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=131
-#EXTINF:-1, group-title="其他頻道", NewTV 農業致富
-http://39.134.65.76:80/wh7f454c46tw4100740995_1459912607/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225683/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=131
-#EXTINF:-1, group-title="其他頻道", NewTV 動作電影
-http://39.134.65.65:80/wh7f454c46tw4100091672_-1742694192/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225661/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=125
-#EXTINF:-1, group-title="其他頻道", NewTV 動畫王國
-http://39.134.65.8:80/wh7f454c46tw4100675761_-1257941391/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=14
-#EXTINF:-1, group-title="其他頻道", NewTV 古裝劇場
-http://39.134.65.73:80/wh7f454c46tw4099828991_-818619128/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225663/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=132
-#EXTINF:-1, group-title="其他頻道", NewTV 家庭劇場
-http://39.134.65.88:80/wh7f454c46tw4099839588_-1977358562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225677/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他頻道", NewTV 驚悚懸疑
-http://39.134.65.88:80/wh7f454c46tw4099662247_-1704541973/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225665/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他頻道", NewTV 明星大片
-http://39.134.65.66:80/wh7f454c46tw4099617955_715127558/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225664/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=126
-#EXTINF:-1, group-title="其他頻道", NewTV 海外劇場
-http://39.134.65.76:80/wh7f454c46tw4100265315_442528548/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225671/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=131
-#EXTINF:-1, group-title="其他頻道", NewTV 潮媽辣婆
-http://39.134.65.62:80/wh7f454c46tw4100220351_1336186143/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225685/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=136
-#EXTINF:-1, group-title="其他頻道", NewTV 炫舞未來
-http://39.134.65.78:80/wh7f454c46tw4100839858_-430191955/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225719/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=128
-#EXTINF:-1, group-title="其他頻道", NewTV 愛情喜劇
-http://39.134.65.83:80/wh7f454c46tw4099679092_2088712592/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225669/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=137
-#EXTINF:-1, group-title="其他頻道", NewTV 精品體育
-http://39.134.65.88:80/wh7f454c46tw4100044505_-1467703959/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225674/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他頻道", NewTV 精品大劇
-http://39.134.65.73:80/wh7f454c46tw4100299730_-811786853/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225670/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=132
-#EXTINF:-1, group-title="其他頻道", NewTV 精品電影
-http://39.134.65.74:80/wh7f454c46tw4100016970_-512111797/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225667/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=127
-#EXTINF:-1, group-title="其他頻道", NewTV 精品紀錄
-http://39.134.65.88:80/wh7f454c46tw4099741699_1747827849/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225672/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=134
-#EXTINF:-1, group-title="其他頻道", NewTV 超級體育
-http://39.134.65.66:80/wh7f454c46tw4101055620_-114301734/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8?icpid=88888888&RTS=1579495504&from=1&hms_devid=126
-#EXTINF:-1, group-title="其他頻道", NewTV 超級電影
-http://39.134.65.3:80/wh7f454c46tw4101109489_-1288976901/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225717/index.m3u8?icpid=88888888&RTS=1579495504&from=1&hms_devid=11
-#EXTINF:-1, group-title="其他頻道", NewTV 超級綜藝
-http://39.134.65.4:80/wh7f454c46tw4100364377_-132155002/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=4
-#EXTINF:-1, group-title="其他頻道", NewTV 金牌綜藝
-http://39.134.65.62:80/wh7f454c46tw4099588941_-482456580/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225666/index.m3u8?icpid=88888888&RTS=1579495502&from=1&hms_devid=136
-#EXTINF:-1, group-title="其他頻道", 虎牙倚天屠龍記蘇有朋
-http://aldirect.hls.huya.com/huyalive/30765679-2523417175-10837994240789708800-2789253884-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", 虎牙神鵰俠侶古天樂版
-http://aldirect.hls.huya.com/huyalive/29359996-2689607114-11551774593718943744-2847687530-10057-A-1525492553-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", NewTV 超級電視劇
-http://39.135.135.8:80/wh7f454c46tw4100687712_2125065737/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225716/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=813
-#EXTINF:-1, group-title="其他頻道", ~WorldNews~
-http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws_backup
-#EXTINF:-1, group-title="其他頻道", 美國芝加哥WGN9頻道
-http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
-#EXTINF:-1, group-title="其他頻道", 虎牙倚天劍屠龍刀吳啟華版
-https://aldirect.hls.huya.com/huyalive/29141112-2525901554-10848664567345577984-2847687634-10057-A-0-1_1200.m3u8
-#EXTINF:-1, group-title="其他頻道", LaMegaMundial
-http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", TheJazzGroove
-http://199.180.75.116:80/stream
-#EXTINF:-1, group-title="其他頻道", 美國CGTN(Opt-1)
-http://live.cgtn.com/500/prog_index.m3u8
-#EXTINF:-1, group-title="其他頻道", 美國CGTN(Opt-2)
-http://live.cgtn.com/1000/prog_index.m3u8
-#EXTINF:-1, group-title="其他頻道", Canal4Saltillo
-http://162.241.190.126:1935/live/canal4/playlist.m3u8
-#EXTINF:-1, group-title="其他頻道", NOTICIASMilenioTV
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
-#EXTINF:-1, group-title="其他頻道", 加拿大-TheWeatherNetwork
-http://weather-lh.akamaihd.net:80/i/twc_1@92006/master.m3u8
-#EXTINF:-1, group-title="廣播頻道", RadioMorena640AMGuayaquil
-http://74.50.122.103:9388/;stream
-#EXTINF:-1, group-title="廣播頻道", RadioBI88.7FMAguascalientes
-http://201.159.48.107:2860/
 
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
