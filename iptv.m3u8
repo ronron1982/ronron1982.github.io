@@ -88,16 +88,9 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 
 
-
-#EXTINF:-1 group-title="香港",美國中文電視
-http://ec.sinovision.net/video/ts/lv.m3u8
-
-#EXTINF:-1 group-title="日本",NHK華語
+#EXTINF:-1 tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/200px-NHK_World.svg.png" group-title="日本",NHK華語
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
-
-#EXTINF:-1 group-title="香港",美國中文電視
-http://ec.sinovision.net/video/ts/lv.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -110,6 +103,10 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d8cb97331.png" group-title="香港",NatGeo 
 http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.03u8
+
+
+#EXTINF:-1 group-title="香港",美國中文電視
+http://ec.sinovision.net/video/ts/lv.m3u8
 
 #EXTM3U
 #EXTINF:-1,OSN cinema 1
