@@ -43,6 +43,9 @@ http://wowgua.com/live/channel_utv_c_plus.m3u8
 #EXTINF:-1 group-title="香港",賽馬直擊
 http://wowgua.com/live/channel_utv_racing.m3u8
 
+#EXTINF:-1 tvg-logo="http://nextgen-iptv.com/logo/dmax.png" group-title="香港",DMAX
+https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
+
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now Sports 精選
 http://wowgua.com/live/channel_630.m3u8
 
@@ -64,6 +67,7 @@ http://122.155.180.8:5021/live/457
 
 #EXTINF:tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225163310626.png,廣東衛視 HD
 http://ivi.bupt.edu.cn/hls/gdhd.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -146,7 +150,7 @@ http://stream.mastvnet.com/MSTV/SD/live.m3u8
 
 #EXTINF:-1 group-title="澳門",澳門1
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="澳門",澳門衛視2
+#EXTINF:-1 group-title="澳門",澳丫衛視
 http://stream.mastvnet.com/MASTV/sd/live.m3u8
 #EXTINF:-1 group-title="澳門",澳亞衛視
 http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=192&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
@@ -211,15 +215,26 @@ http://39.135.34.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ys
 
 #EXTINF:-1 group-title="中國",CCTV-3
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
-#EXTINF:-1 group-title="中國",CCTV-5
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 1
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 2 
 http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
-#EXTINF:-1 group-title="中國", CCTV-5 (2)
+
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事 2 
+http://39.134.65.71:80/wh7f454c46tw4100223774_627112015/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=135
+
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事 3
 http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle  
 
-#EXTINF:-1 group-title="中國", CCTV-5+
-http://39.134.65.71:80/wh7f454c46tw4100223774_627112015/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=135
-#EXTINF:-1 group-title="中國", CCTV-5+ (2)
-http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle  
+	
 
 #EXTINF:-1 group-title="中國",CCTV-7
 http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
@@ -561,10 +576,7 @@ http://ott.artmott.com/ArenaSport5MW/tracks-v1a1/mono.m3u8
 https://cstream8.com/hls/btsport1.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/BTSport2.uk.png" group-title="Sports",BT Sports 2
 https://cstream8.com/hls/btsport2.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="Sports",CCTV-5 体育频道
-http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="Sports",CCTV-5+ 体育赛事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongSports.cn.png" group-title="Sports",广东体育
 https://116.77.72.195/streams/d/gdty/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="Sports",Fox Sports 1 Asia
