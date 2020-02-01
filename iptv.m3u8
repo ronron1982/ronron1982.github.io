@@ -31,16 +31,16 @@ http://wowgua.com/live/channel_331.m3u8
 #EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png"  group-title="香港",動物星球
 http://cdn.5itv.tv/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
-#EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png",Discovery 科學頻道
+#EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="Learning",Discovery 調查探索頻道
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="香港",Discovery 調查探索頻道
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5dbaaba099442.png" group-title="香港",Discovery 探索頻道
  https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="Learning",Discovery 渦輪頻道
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="香港",Discovery 渦輪頻道
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d8cb97331.png" group-title="香港",國家地理野生頻道
