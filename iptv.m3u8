@@ -28,12 +28,6 @@ http://wowgua.com/live/channel_331.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/HK01_logo.png" group-title="香港",HK01
 http://wowgua.com/live/channel_hk01.m3u8
 
-#EXTINF:-1 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="香港",東網新聞台
-http://wowgua.com/live/channel_ontv_news.m3u8
-
-#EXTINF:-1 tvg-logo="https://tv.on.cc/img/ontv_logo.png" group-title="香港",東網直播台
-http://wowgua.com/live/channel_ontv.m3u8
-
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-sports-2--world-1894.png" group-title="香港",Sport2 World HK
 http://wowgua.com/live/channel_sports2world.m3u8
 
@@ -42,9 +36,6 @@ http://wowgua.com/live/channel_utv_c_plus.m3u8
 
 #EXTINF:-1 group-title="香港",賽馬直擊
 http://wowgua.com/live/channel_utv_racing.m3u8
-
-#EXTINF:-1 tvg-logo="http://nextgen-iptv.com/logo/dmax.png" group-title="香港",DMAX
-https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now Sports 精選
 http://wowgua.com/live/channel_630.m3u8
@@ -93,8 +84,7 @@ http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8  
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyFirst.png" group-title="香港",BabyFirst香港  
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8  
-#EXTINF:-1 tvg-logo="https://bbsok.cf/wp-content/uploads/2019/10/IMG_20191008_104616-768x312.png" group-title="香港",Bbsok.CF  
-http://51buy.giize.com/1.mp4  
+
 
 #EXTINF:-1 group-title="香港",美國中文電視
 http://ec.sinovision.net/video/ts/lv.m3u8
@@ -113,16 +103,8 @@ http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png" group-title="台灣",信吉電視  
 http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視.png" group-title="台灣",中視  
-http://104.250.154.42:8080/ZZ_zhongshi/ZZ_zhongshi.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣",華視  
-http://104.250.154.42:8080/ZZ_huashi/ZZ_huashi.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/年代ERANewsHD.png" group-title="台灣",年代新聞  
-http://104.250.154.42:8080/ZZ_niandaixinwen/ZZ_niandianxinwen.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台灣",中天綜合  
-http://104.250.154.42:8080/ZZ_zhongtianzonghe/ZZ_zhongtianzonghe.m3u8  
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="台灣",中天娛樂  
-http://192.154.103.74:8080/ZZ_zhongtianyule/ZZ_zhongtianyule.m3u8  
+
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣",東森新聞  
 http://192.200.120.82:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8  
 
@@ -146,7 +128,6 @@ http://202.175.127.77/live/show/ch1/index.m3u8
 
 #EXTINF:-1 group-title="澳門",澳門衛視
 http://stream.mastvnet.com/MSTV/SD/live.m3u8
-
 
 #EXTINF:-1 group-title="澳門",澳門1
 http://61.244.22.4/ch3/ch3.live/playelist.m3u8
@@ -203,60 +184,69 @@ http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://v.mastvnet.com/t/1/2/img/12qwewqeerwq2.png" group-title="澳門",澳亞衛視
 http://stream.mastvnet.com/MSTV/playlist.m3u8
 
-
-#EXTINF:-1 group-title="中國",CCTV-4K
-http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8  
+#EXTINF:-1 tvg-logo="https://forumfs2.hkepc.net/month_1810/181002120045ef3ea71cb065ca.png" group-title="中國",CCTV超高清 4K
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV1.cn.png" group-title="中國",CCTV-1
-http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6  
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV2.cn.png" group-title="中國",CCTV-2
-http://39.135.34.150:18890/000000001000/1000000001000012442/1.m3u8?channel-id=ystenlive&Contentid=1000000001000012442&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=1106497909461775063&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRknGE%2fO0VC9Co37x%2f7gMjaWYjatUfTQlAa15Ksg%2fXe8sQo%2fi5btdpzeV%2b1v4UwuHf  
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV3.cn.png" group-title="中國",CCTV-3
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221225588/index.m3u8
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV4.cn.png" group-title="中國",CCTV-4
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 1
-http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000205103.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 2 
-http://223.110.245.165/ott.js.chinamobile.com/PLTV/3/224/3221226362/index.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事
-http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204503.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事 2 
-http://39.134.65.71:80/wh7f454c46tw4100223774_627112015/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=135
+http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事 3
-http://39.135.34.152:18890/000000001000/1000000001000020505/1.m3u8?channel-id=ystenlive&Contentid=1000000001000020505&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000020505&owchid=ystenlive&owsid=1106497909461103025&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRkrZ1YVus93dDbxNB4SF1DDcF4ZpIL8iGHt%2bMdt2ZAOlknlq9lyy%2fQZJVqiFUxfle  
+http://39.134.65.71:80/wh7f454c46tw4100223774_627112015/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=135
 
-	
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV6.cn.png" group-title="中國",CCTV-6
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8	
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV7.cn.png" group-title="中國",CCTV-7
-http://121.31.30.90:8085/ysten-business/live/cctv-7/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV7.cn.png" group-title="中國",CCTV-8
-http://121.31.30.90:8085/ysten-business/live/cctv-8/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV8.cn.png" group-title="中國",CCTV-9
-http://121.31.30.90:8085/ysten-business/live/cctv-news/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV1.cn.png" group-title="中國",CCTV-1(2)
-http://121.31.30.90:8085/ysten-business/live/hdcctv01/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV10.cn.png"group-title="中國",CCTV-10
-http://121.31.30.90:8085/ysten-business/live/cctv-10/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV11.cn.png"group-title="中國",CCTV-11
-http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225983/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV12.cn.png"group-title="中國",CCTV-12
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV13.cn.png"group-title="中國",CCTV-13
-http://39.135.135.75:80/wh7f454c46tw4098914796_-1019646993/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225599/index.m3u8?icpid=88888888&RTS=1579495501&from=1&hms_devid=684
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV14.cn.png"group-title="中國",CCTV-14
-http://121.31.30.90:8085/ysten-business/live/cctv-14/1.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV15.cn.png"group-title="中國",CCTV-15
-http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV7.cn.png" group-title="中國",CCTV-8
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV8.cn.png" group-title="中國",CCTV-9
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV10.cn.png"group-title="中國",CCTV-10
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV11.cn.png"group-title="中國",CCTV-11
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV12.cn.png"group-title="中國",CCTV-12
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV13.cn.png"group-title="中國",CCTV-13
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV14.cn.png"group-title="中國",CCTV-14
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV15.cn.png"group-title="中國",CCTV-15
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV17.cn.png"group-title="中國",CCTV-17
+http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台
 http://nclive.grtn.cn/zjpd/sd/live.m3u8?ts
@@ -997,8 +987,7 @@ https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-m
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/CrimeInvestigation.us.png" group-title="Learning",Crime & Investigation
 http://203.154.243.31:15001
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery
-http://live.fadev.club/live/DISCOVERY/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery Asia
 https://liveanevia.mncnow.id/live/eds/Discovery/sa_hls/Discovery-avc1_2499968=13-Discovery-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/DiscoveryChannel.us.png" group-title="Learning",Discovery India
@@ -1019,16 +1008,14 @@ http://livecdnh1.tvanywhere.ae:80/hls/h2/05.m3u8
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning",National Geo
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/gb/NatGeo.uk.png" group-title="Learning",National Geo USA
-http://live.fadev.club/live/GEO/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/NatGeoWild.us.png" group-title="Learning",National Geo Wild
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/id/NatGeoPeople.id.png" group-title="Learning",National Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="http://webtv.un.org/assets/img/header-logo.gif" group-title="Learning",UN Web TV
 https://bcliveunivsecure-lh.akamaihd.net/i/un150_A1_1@575439/index_1328_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://tv.baipin.pw/wp-content/uploads/2019/07/8b13632762d0f70343dbf12502fa513d2797c5da.png" group-title="Learning",D求索纪录
-http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls 
+
 #EXTINF:-1 tvg-logo="http://www.tvyan.com/uploads/dianshi/newtvjilu.jpg" group-title="Learning",Newtv 精品记录
 http://111.40.205.76/PLTV/88888888/224/3221225672/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B21%E5%8F%B0.png" group-title="Learning",CETV1
@@ -1111,118 +1098,9 @@ https://jviqfbc2.rocketcdn.com/dmax.smil/chunklist.m3u8
 	
 
 
-#EXTINF:-1,Discovery HD Showcase
-http://cn02.iptv.monster/play/272/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Discovery Science HD
-http://cn02.iptv.monster/play/391/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Discovery Channel HD
-http://cn02.iptv.monster/play/147/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Investigation Discovery
-http://cn02.iptv.monster/play/362/2D6E866C992891C/video.m3u8
-#EXTINF:-1,ID Xtra
-http://cn02.iptv.monster/play/392/2D6E866C992891C/video.m3u8
-#EXTINF:-1,National Geographic HD
-http://cn02.iptv.monster/play/143/2D6E866C992891C/video.m3u8
-#EXTINF:-1,National Geographic
-http://cn02.iptv.monster/play/31/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Nat Geo Wild HD
-http://cn02.iptv.monster/play/162/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Animal Planet HD
-http://cn02.iptv.monster/play/175/2D6E866C992891C/video.m3u8
-
-
-#EXTINF:-1,Discovery HD DE
-http://cn04.iptv.monster/play/5140/2D6E866C992891C/video.m3u8
-
-#EXTINF:-1,NatGeo HD DE
-http://cn04.iptv.monster/play/824/2D6E866C992891C/video.m3u8
 
 
 
-
-
-
-#EXTINF:-1 group-title="香港",鳳凰資訊HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="香港",香港31台HD
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 group-title="香港",香港翡翠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="香港",翡翠HD
-http://ttzx.tv/hls/jade.m3u8
-#EXTINF:-1 group-title="香港",翡翠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 group-title="香港",TVB翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="香港",TVB翡翠台1
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="香港",TVB 翡翠台 (備)
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.ts
-#EXTINF:-1 group-title="香港",TVB明珠檯
-http://116.199.5.51:8114/00000000/hls/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-#EXTINF:-1 group-title="香港",明珠HD
-http://ttzx.tv/hls/prarl.m3u8
-#EXTINF:-1 group-title="香港",明珠檯
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-#EXTINF:-1 group-title="香港",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="香港",星空衛視
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=23
-#EXTINF:-1 group-title="香港",香港衛視HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="香港",耀才財經
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="香港",耀才財經台1
-http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="香港",耀才財經台2
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="香港",香港鳳凰衛視咨詢台HD
-http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="香港",香港鳳凰衛視香港台HD
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="香港",香港耀才財經HD
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="香港",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="香港",香港開電視台HD（備用1）
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="香港",港台電視RTHK31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 group-title="香港",港台電視RTHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1 group-title="香港",鳳凰中文1
-http://223.82.250.72/live/fhchinese/1.m3u8
-#EXTINF:-1 group-title="香港",鳳凰中文HD
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="香港",鳳凰衛視中文
-http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=190&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-#EXTINF:-1 group-title="香港",鳳凰資訊HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="香港",鳳凰香港1
-http://223.82.250.72/live/fhhongkong/1.m3u8
-
-
-#EXTINF:-1,Hollywood HD
-http://cn04.iptv.monster/play/176/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Amedia 1
-http://cn02.iptv.monster/play/267/2D6E866C992891C/video.m3u8
-#EXTINF:-1,AMEDIA 1 HD
-http://cn02.iptv.monster/play/629/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Amedia 2
-http://cn02.iptv.monster/play/261/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Amedia Hit
-http://cn02.iptv.monster/play/632/2D6E866C992891C/video.m3u8
-#EXTINF:-1,AMEDIA Premium HD
-http://cn02.iptv.monster/play/187/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Amedia premium
-http://cn02.iptv.monster/play/630/2D6E866C992891C/video.m3u8
-#EXTINF:-1,FOX HD
-http://cn02.iptv.monster/play/178/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Fox Life HD
-http://cn02.iptv.monster/play/179/2D6E866C992891C/video.m3u8
-#EXTINF:-1,HD Media
-http://cn02.iptv.monster/play/192/2D6E866C992891C/video.m3u8
-#EXTINF:-1,Sony HD
 http://cn02.iptv.monster/play/292/2D6E866C992891C/video.m3u8
 #EXTINF:-1,Sony Turbo
 http://cn02.iptv.monster/play/235/2D6E866C992891C/video.m3u8
