@@ -196,16 +196,16 @@ http://stream.mastvnet.com/MSTV/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://forumfs2.hkepc.net/month_1810/181002120045ef3ea71cb065ca.png" group-title="中國",CCTV超高清 4K
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV1.cn.png" group-title="中國",CCTV-1
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中國",CCTV-1
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000210103.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV2.cn.png" group-title="中國",CCTV-2
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中國",CCTV-2
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203603.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV3.cn.png" group-title="中國",CCTV-3
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中國",CCTV-3
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203803.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV4.cn.png" group-title="中國",CCTV-4
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中國",CCTV-4
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204803.m3u8
 
 
@@ -227,34 +227,34 @@ http://111.40.205.87/PLTV/88888888/224/3221225689/index.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事 3
 http://39.134.65.71:80/wh7f454c46tw4100223774_627112015/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225689/index.m3u8?icpid=88888888&RTS=1579495503&from=1&hms_devid=135
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV6.cn.png" group-title="中國",CCTV-6
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中國",CCTV-6
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203303.m3u8	
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV7.cn.png" group-title="中國",CCTV-7
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中國",CCTV-7
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000510003.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV7.cn.png" group-title="中國",CCTV-8
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="中國",CCTV-8
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203903.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV8.cn.png" group-title="中國",CCTV-9
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png" group-title="中國",CCTV-9
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV10.cn.png"group-title="中國",CCTV-10
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV10.png"group-title="中國",CCTV-10
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000203503.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV11.cn.png"group-title="中國",CCTV-11
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV11.png"group-title="中國",CCTV-11
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204103.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV12.cn.png"group-title="中國",CCTV-12
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png"group-title="中國",CCTV-12
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000202603.m3u8
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV13.cn.png"group-title="中國",CCTV-13
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png"group-title="中國",CCTV-13
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV14.cn.png"group-title="中國",CCTV-14
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png"group-title="中國",CCTV-14
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204403.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV15.cn.png"group-title="中國",CCTV-15
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png"group-title="中國",CCTV-15
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000205003.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/CCTV17.cn.png"group-title="中國",CCTV-17
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png"group-title="中國",CCTV-17
 http://119.167.204.86/tlivecloud-cdn.ysp.cctv.cn/001/2000204203.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台
