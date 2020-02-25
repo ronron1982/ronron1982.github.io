@@ -29,7 +29,7 @@ http://wowgua.com/live/channel_331.m3u8
 http://wowgua.com/live/channel_332.m3u8
 
 #EXTINF:-1 tvg-id="126"  tvg-logo="http://tv.sason.xyz/logo/tvbfc.png" group-title="香港",TVB 翡翠台
-http://61.93.125.49:9981/stream/channelid/1294194214
+http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
 
 #EXTINF:-1  tvg-logo="http://tv.sason.xyz/logo/tvbmz.png" group-title="香港",TVB 明珠台
 http://live.ergt4rt.wang/gangaotai.php?id=13
