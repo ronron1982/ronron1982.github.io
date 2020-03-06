@@ -29,15 +29,12 @@ http://wowgua.com/live/channel_331.m3u8
 http://wowgua.com/live/channel_332.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://mir-s3-cdn-cf.behance.net/projects/404/9891239.547f0c60bbf4f.png" group-title="香港",天映頻道
-http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
-
-
 #EXTINF:-1 tvg-id="126"  tvg-logo="http://tv.sason.xyz/logo/tvbfc.png" group-title="香港",TVB 翡翠台
 http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 
 #EXTINF:-1  tvg-logo="http://tv.sason.xyz/logo/tvbmz.png" group-title="香港",TVB 明珠台
-http://live.ergt4rt.wang/gangaotai.php?id=13
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
+
 #EXTINF:-1   tvg-logo="http://tv.sason.xyz/logo/tvbxw.png" group-title="香港",TVB 新聞台
 http://live.ergt4rt.wang/gangaotai.php?id=9
 
@@ -65,19 +62,14 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo/05.m3u8
 #EXTINF:-1 tvg-id="691"  tvg-logo="http://tv.sason.xyz/logo/ng.png" group-title="香港",國家地理頻道 2 
 http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 
-#EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道
-http://192.200.97.170:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
-#EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 2
+#EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 1
 http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-sports-2--world-1894.png" group-title="香港",Sport2 World HK
 http://wowgua.com/live/channel_sports2world.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/34/UTV_logo.png" group-title="香港",C+ 頻道
-http://wowgua.com/live/channel_utv_c_plus.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now Sports 精選
