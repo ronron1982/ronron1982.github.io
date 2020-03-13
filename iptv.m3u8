@@ -132,11 +132,6 @@ http://ivi.bupt.edu.cn/hls/gdhd.m3u8
 #EXTINF:tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225163310626.png"group-title="中國",廣東衛視 HD 2
 http://223.110.243.136/PLTV/3/224/3221227249/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-
-
 #EXTINF:-1 tvg-id="6085"  tvg-logo="http://tv.sason.xyz/logo/axn.png" group-title="香港",AXN
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1b1246cf30d2e81778b570e6a1dec41b
 #EXTINF:-1 tvg-id="6089"  tvg-logo="https://static.iptv-epg.com/br/Cinemax.br.png" group-title="香港",Cinemax
