@@ -12,6 +12,8 @@ https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台4
 https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
+https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
@@ -21,6 +23,11 @@ http://teslagram.com/live/channel_108.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5ca9b975cc.png" group-title="香港",有線綜合娛樂台
 http://teslagram.com/live/channel_301.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
 http://teslagram.com/live/channel_331.m3u8
@@ -32,6 +39,9 @@ http://teslagram.com/live/channel_332.m3u8
 http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
 
 
+#EXTINF:-1 tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/322_300.png" group-title="香港",天映频道 2
+http://210.210.155.35/qwr9ew/s/s33/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台
 http://nclive.grtn.cn/zjpd/sd/live.m3u8
 
@@ -40,26 +50,33 @@ http://nclive.grtn.cn/zjpd/sd/live.m3u8
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
 
 
-#EXTINF:-1 tvg-id="126"  tvg-logo="http://tv.sason.xyz/logo/tvbfc.png" group-title="香港",TVB 翡翠台
-http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=188&FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
-
-#EXTINF:-1  tvg-logo="http://tv.sason.xyz/logo/tvbmz.png" group-title="香港",TVB 明珠台
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-
-#EXTINF:-1   tvg-logo="http://tv.sason.xyz/logo/tvbxw.png" group-title="香港",TVB 新聞台
-http://live.ergt4rt.wang/gangaotai.php?id=9
-
 #EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
+
+#EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道 2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228975/01.m3u8?fmt=ts2hls
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="香港",Discovery 調查探索頻道
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 ch-id="求索動物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="香港",Discovery 動物頻道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
+
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5dbaaba099442.png" group-title="香港",Discovery 探索頻道
 rtmp://58.200.131.2:1935/livetv/discovery
 
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5dbaaba099442.png" group-title="香港",Discovery 探索頻道 2
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228972/01.m3u8?fmt=ts2hls
+
+#EXTINF:-1 ch-id="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="香港",Discovery 生活頻道
+http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=ts2hls
+
+
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="香港",Discovery 渦輪頻道
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
+
+#EXTINF:-1 tvg-id="6037"  tvg-logo="http://tv.sason.xyz/logo/discovery.png" group-title="香港",Discovery (SD)
+rtmp://58.200.131.2:1935/livetv/discovery
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d8cb97331.png" group-title="香港",國家地理野生頻道
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
@@ -77,6 +94,8 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 1
 http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
+#EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 2
+http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://sport-tv-guide.live/images/tv-station-sports-2--world-1894.png" group-title="香港",Sport2 World HK
@@ -124,12 +143,11 @@ http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=1b1246cf30d2e81778b570e6a1dec41
 http://yeyuaihao.gz01.bdysite.com/dl/gzyx.php?id=e27fb1156a3796d67cb39c3887f36bff
 #EXTINF:-1 tvg-id="7179"  tvg-logo="http://tv.sason.xyz/logo/blank.png" group-title="香港",CNEX
 http://220.158.149.14:9999/live/TV00000000000000000083@HHZT;LIVE
-#EXTINF:-1 tvg-id="6037"  tvg-logo="http://tv.sason.xyz/logo/discovery.png" group-title="香港",Discovery (SD)
-rtmp://58.200.131.2:1935/livetv/discovery
+
 #EXTINF:-1 tvg-id="870"  tvg-logo="http://tv.sason.xyz/logo/foxac.png" group-title="香港",FOX動作電影
-http://live.ergt4rt.wang/gangaotai.php?id=165
+http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO
-http://live.ergt4rt.wang/gangaotai.php?id=27
+http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-id="7226"  tvg-logo="http://tv.sason.xyz/logo/star_movies.png" group-title="香港",Star Movies HD
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8
 
@@ -141,6 +159,35 @@ http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8
 
 #EXTINF:-1 tvg-id="7226"  tvg-logo="https://static.iptv-epg.com/sa/StarWorld.sa.png" group-title="香港",Star World FHD
 http://livecdnh1.tvanywhere.ae:80/hls/star_world/04.m3u8
+
+
+#EXTINF:-1 ch-id="HBO" tvg-logo="http://static.iptv-epg.com/cz/HBO.cz.png" group-title="香港",HBO
+http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
+#EXTINF:-1 ch-id="FX" tvg-logo="http://static.iptv-epg.com/us/FX.us.png" group-title="香港",FX
+http://111.13.111.192/125.227.198.89:8027
+#EXTINF:-1 ch-id="Fox Action Movies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="香港",Fox Action Movies
+http://192.200.120.82:8080/ZZ_foxaction/ZZ_foxaction.m3u8
+#EXTINF:-1 ch-id="Thrill" tvg-logo="https://static.iptv-epg.com/id/Thrill.id.png" group-title="香港",Thrill
+http://210.210.155.35/qwr9ew/s/s34/01.m3u8
+#EXTINF:-1 ch-id="Warner TV" tvg-logo="https://static.iptv-epg.com/fr/WarnerTV.fr.png" group-title="香港",Warner TV
+http://192.200.120.82:8080//ZZ_huanadianying/ZZ_huanadianying.m3u8
+
+#EXTINF:-1 ch-id="衛視電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/starmov.png" group-title="香港",衛視電影台
+http://160.119.77.50/iptv/hd-starchinese.stream/playlist.m3u8
+#EXTINF:-1 ch-id="好萊塢電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HMC.png" group-title="香港",好萊塢電影台
+http://192.200.120.82:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
+#EXTINF:-1 ch-id="LSTime電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/LSTIME.png" group-title="香港",LSTime電影台
+http://192.200.120.82:8080/ZZ_shidai/ZZ_shidai.m3u8
+#EXTINF:-1 ch-id="CHC動作電影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="香港",CHC動作電影
+http://192.154.103.75:8080/ZZ_chZZongzuo/ZZ_chZZongzuo.m3u8
+#EXTINF:-1  ch-id="東森洋片台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCWesternMovies.png" group-title="香港",東森洋片台
+http://192.200.120.82:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
+#EXTINF:-1  ch-id="東森電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCMovies.png" group-title="香港",東森電影台
+http://192.200.120.82:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
+#EXTINF:-1 ch-id="靖天映畫" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E9%9D%96%E5%A4%A9%E6%98%A0%E7%94%BB.png" group-title="香港",靖天映畫
+http://61.58.60.230:9319/live/244.m3u8
+#EXTINF:-1 ch-id="iFILM TV" tvg-logo="https://s3-eu-west-1.amazonaws.com/photo.elcinema.com/tvguide/1204_1.png" group-title="香港",iFILM TV
+https://live2.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
 
 
 #EXTINF:-1 group-title="香港",美國中文電視
@@ -258,7 +305,7 @@ http://ivi.bupt.edu.cn/hls/cctv4hd.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 1
-http://ivi.bupt.edu.cn/hls/cctv5.m3u8
+http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="中國",CCTV-5+ 體育賽事
 http://ivi.bupt.edu.cn/hls/cctv5phd.m3u8
