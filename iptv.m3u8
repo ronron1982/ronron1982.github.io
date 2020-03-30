@@ -61,8 +61,7 @@ http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/
 http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台
-http://nclive.grtn.cn/zjpd/sd/live.m3u8
-
+http://nclive.grtn.cn/zjpd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
@@ -109,7 +108,7 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 
 
 #EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 1
-http://192.200.120.82:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
 #EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 2
 http://ott.artmott.com/AnimalPlanet/tracks-v1a1/mono.m3u8
