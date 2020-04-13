@@ -23,6 +23,16 @@ https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台
 http://198.16.106.58:8278/jade_twn/playlist.m3u8?tid=m0800270e38b31200553&ct=17898&tsum=b39db993e81b9ff6ebac20dcbf4a1cdd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台2
+http://pulltest.aircourses.com/live/638b934ad63dbd2cdee4efe1584f76c2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線明珠台
+https://ali-play.lezhibo.com/live/ad73e092b1b2128085ebcececa33566f.m3u8
+
+
+
+
+
 #EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="香港",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 
@@ -64,7 +74,7 @@ http://210.210.155.35/qwr9ew/s/s33/index.m3u8
 http://nclive.grtn.cn/zjpd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視
-http://nclive.grtn.cn/tvs2/sd/live.m3u8
+http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
 
 #EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道
 http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
