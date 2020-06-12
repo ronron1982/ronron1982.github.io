@@ -7,15 +7,6 @@ https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 http://f8.twtvcdn.com:8080/live/395/4e73c6f97669d4e26281935f78d874b0/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5b06402f058c4.png" group-title="香港",有線直播新聞台 *
-http://teslagram.com/live/channel_110.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",有線財經資訊台 *
-http://teslagram.com/live/channel_108.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5ca9b975cc.png" group-title="香港",有線綜合娛樂台 *
-http://teslagram.com/live/channel_301.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
