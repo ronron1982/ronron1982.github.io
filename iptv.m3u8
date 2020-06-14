@@ -17,35 +17,13 @@ http://teslagram.com/live/channel_332.m3u8
 http://teslagram.com/live/channel_331.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台 
 http://m.567it.com/jade.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台 2
-http://f8.twtvcdn.com:8080/live/390/eabc404f7d8125fb483d9ac3b3a3eb4a/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台 3
-http://61.238.6.49:8000/bysid/1
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無綫財經資訊台
-http://f8.twtvcdn.com:8080/live/71/6820171e96d924644c081320d0062962/index.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/9/9c/TVB_J2_Logo.png" group-title="香港",無線J2台
-http://f8.twtvcdn.com:8080/live/72/cdf3ab8b4eac307b08776b73104365ae/index.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線明珠台
-http://f8.twtvcdn.com:8080/live/391/8b2e6e6e1d3441e0981d64d822c92a44/index.m3u8
 
 
 #EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="香港",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-
-
-
-#EXTINF:-1 tvg-logo="https://seomarketing.hk/wp-content/uploads/2018/08/TVB-inews-300x124.jpg" group-title="香港",無線新聞台
-http://f8.twtvcdn.com:8080/live/394/c8a9c9297013e64dbc9db5c171cc5a94/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
@@ -1146,4 +1124,1647 @@ https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_1200.m3u8
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
 
 
+#EXTM3U
+#EXTINF:-1,▬ [@NetBox2] ▬
+#EXTM3U
+#EXTINF:-1,UFC Fight Pass
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/682333
+#EXTINF:-1,WWE Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648397
+#EXTINF:-1,BBC1 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/590
+#EXTINF:-1,BBC1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/589
+#EXTINF:-1,BBC2 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/588
+#EXTINF:-1,BBC2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/587
+#EXTINF:-1,ITV HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/586
+#EXTINF:-1,ITV London
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/585
+#EXTINF:-1,Channel 4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/584
+#EXTINF:-1,Channel 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/583
+#EXTINF:-1,Channel 5 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/582
+#EXTINF:-1,Channel 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/581
+#EXTINF:-1,Sky1 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/580
+#EXTINF:-1,Sky 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/579
+#EXTINF:-1,Sky 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/578
+#EXTINF:-1,Sky Atlantic HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/577
+#EXTINF:-1,Sky Witness HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/576
+#EXTINF:-1,Sky Witness
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/575
+#EXTINF:-1,BBC4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/574
+#EXTINF:-1,BBC4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/573
+#EXTINF:-1,ITV2 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/572
+#EXTINF:-1,ITV2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/571
+#EXTINF:-1,ITV3 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/570
+#EXTINF:-1,ITV3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/569
+#EXTINF:-1,ITV4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/568
+#EXTINF:-1,ITV4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/567
+#EXTINF:-1,ITVBe HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/566
+#EXTINF:-1,ITVBe
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/565
+#EXTINF:-1,E4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/564
+#EXTINF:-1,E4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/563
+#EXTINF:-1,More4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/562
+#EXTINF:-1,More4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/561
+#EXTINF:-1,4seven
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/560
+#EXTINF:-1,5 USA
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/559
+#EXTINF:-1,5STAR
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/558
+#EXTINF:-1,GOLD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/557
+#EXTINF:-1,FOX HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/556
+#EXTINF:-1,FOX
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/555
+#EXTINF:-1,Dave HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/554
+#EXTINF:-1,Dave
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/553
+#EXTINF:-1,Comedy Central HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/552
+#EXTINF:-1,Comedy Central
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/551
+#EXTINF:-1,Comedy Central Extra
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/550
+#EXTINF:-1,Syfy HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/549
+#EXTINF:-1,Syfy
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/548
+#EXTINF:-1,Spike
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/547
+#EXTINF:-1,W
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/546
+#EXTINF:-1,W HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/545
+#EXTINF:-1,AMC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/544
+#EXTINF:-1,Alibi HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/543
+#EXTINF:-1,Alibi
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/542
+#EXTINF:-1,E!
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/541
+#EXTINF:-1,Challenge
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/540
+#EXTINF:-1,CBS Justice
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/539
+#EXTINF:-1,CBS Reality
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/538
+#EXTINF:-1,CBS Drama
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/537
+#EXTINF:-1,Universal Channel HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/536
+#EXTINF:-1,Universal Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/535
+#EXTINF:-1,TLC HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/534
+#EXTINF:-1,TLC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/533
+#EXTINF:-1,TrueEntertainment
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/532
+#EXTINF:-1,truTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/531
+#EXTINF:-1,Baby TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/530
+#EXTINF:-1,Sky Arts HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/529
+#EXTINF:-1,Sky Arts
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/528
+#EXTINF:-1,Horror Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/527
+#EXTINF:-1,Really
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/526
+#EXTINF:-1,Quest
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/525
+#EXTINF:-1,Pick
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/524
+#EXTINF:-1,PBS America
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/523
+#EXTINF:-1,Drama
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/522
+#EXTINF:-1,DMAX
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521
+#EXTINF:-1,Real Lives
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520
+#EXTINF:-1,BBC One Cambridge
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164603
+#EXTINF:-1,BBC One Channel Islands
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164602
+#EXTINF:-1,BBC One East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164601
+#EXTINF:-1,BBC One East Midlands
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164600
+#EXTINF:-1,BBC One London
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164599
+#EXTINF:-1,BBC One North East and Cumbria
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164598
+#EXTINF:-1,BBC One North West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164597
+#EXTINF:-1,BBC One Northern Ireland
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164596
+#EXTINF:-1,BBC One Oxford
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164595
+#EXTINF:-1,BBC One Scotland
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164594
+#EXTINF:-1,BBC One South
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164593
+#EXTINF:-1,BBC One South East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164592
+#EXTINF:-1,BBC One South West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164591
+#EXTINF:-1,BBC One Wales
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164590
+#EXTINF:-1,BBC One West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164589
+#EXTINF:-1,BBC One West Midlands
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164588
+#EXTINF:-1,BBC One Yorks
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164587
+#EXTINF:-1,BBC One Yorkshire & Lincolnshire
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164586
+#EXTINF:-1,BBC Parliament
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164585
+#EXTINF:-1,BBC Two Northern Ireland
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164584
+#EXTINF:-1,BBC Two Scotland
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164583
+#EXTINF:-1,BBC Two Wales
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164582
+#EXTINF:-1,Channel 4 Midlands
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164581
+#EXTINF:-1,Channel 4 North
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164580
+#EXTINF:-1,Channel 4 Northern Ireland
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164579
+#EXTINF:-1,Channel 4 Scotland
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164578
+#EXTINF:-1,Channel 4 South & East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164577
+#EXTINF:-1,ITV Anglia East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164576
+#EXTINF:-1,ITV Anglia TV West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164575
+#EXTINF:-1,ITV Border
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164574
+#EXTINF:-1,ITV Central East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164573
+#EXTINF:-1,ITV Central West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164572
+#EXTINF:-1,ITV Channel TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164571
+#EXTINF:-1,ITV Granada
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164570
+#EXTINF:-1,ITV Meridian East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164569
+#EXTINF:-1,ITV Meridian TV North
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164568
+#EXTINF:-1,ITV Meridian TV South
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164567
+#EXTINF:-1,ITV Tyne Tees
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164566
+#EXTINF:-1,ITV Tyne Tees TV North
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164565
+#EXTINF:-1,ITV Wales
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164564
+#EXTINF:-1,ITV Westcountry South West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164563
+#EXTINF:-1,ITV Westcountry West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164562
+#EXTINF:-1,ITV Yorkshire TV East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164561
+#EXTINF:-1,ITV Yorkshire West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164560
+#EXTINF:-1,STV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164559
+#EXTINF:-1,STV Central West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164558
+#EXTINF:-1,STV North
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164557
+#EXTINF:-1,TV Border Scotland
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164556
+#EXTINF:-1,UTV Ulster
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/164555
+#EXTINF:-1,RTE One HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/486
+#EXTINF:-1,RTE One
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/485
+#EXTINF:-1,RTE Two  HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/484
+#EXTINF:-1,RTE Two
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/483
+#EXTINF:-1,RTE Jr
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/482
+#EXTINF:-1,VIRGIN MEDIA ONE
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/165326
+#EXTINF:-1,VIRGIN MEDIA ONE HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/165327
+#EXTINF:-1,VIRGIN MEDIA TWO HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/165325
+#EXTINF:-1,VIRGIN MEDIA TWO
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/165324
+#EXTINF:-1,VIRGIN MEDIA THREE HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/165323
+#EXTINF:-1,VIRGIN MEDIA THREE
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/165322
+#EXTINF:-1,TG 4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/478
+#EXTINF:-1,TG4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/477
+#EXTINF:-1,UTV HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/476
+#EXTINF:-1,Eden HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/475
+#EXTINF:-1,Eden
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/474
+#EXTINF:-1,Lifetime HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/473
+#EXTINF:-1,Lifetime
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/472
+#EXTINF:-1,YESTERDAY
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/471
+#EXTINF:-1,Food Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/470
+#EXTINF:-1,Good Food HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/469
+#EXTINF:-1,Good Food
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/468
+#EXTINF:-1,Sky H2 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/467
+#EXTINF:-1,Sky H2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/466
+#EXTINF:-1,Home
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/464
+#EXTINF:-1,Travel Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/463
+#EXTINF:-1,Sky Documentaries HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/682637
+#EXTINF:-1,Sky Nature HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/682636
+#EXTINF:-1,Sky History HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/465
+#EXTINF:-1,Discovery HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/462
+#EXTINF:-1,Discovery
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/461
+#EXTINF:-1,Discovery Turbo
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/460
+#EXTINF:-1,Discovery Shed
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/459
+#EXTINF:-1,Discovery Science
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/458
+#EXTINF:-1,Discovery Home & Health
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/457
+#EXTINF:-1,Discovery History
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/456
+#EXTINF:-1,Investigation Discovery
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/455
+#EXTINF:-1,CI HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/454
+#EXTINF:-1,CI
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/453
+#EXTINF:-1,National Geographic HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/452
+#EXTINF:-1,National Geographic
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/451
+#EXTINF:-1,Nat Geo Wild HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/450
+#EXTINF:-1,Nat Geo Wild
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/449
+#EXTINF:-1,Animal Planet HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/448
+#EXTINF:-1,Animal Planet
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/447
+#EXTINF:-1,Sky Cinema Premiere HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/446
+#EXTINF:-1,Sky Cinema Premiere
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/445
+#EXTINF:-1,Sky Cinema Greats HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/444
+#EXTINF:-1,Sky Cinema Greats
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/443
+#EXTINF:-1,Sky Cinema Family HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/442
+#EXTINF:-1,Sky Cinema Family
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/441
+#EXTINF:-1,Sky Cinema Drama & Romance HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/440
+#EXTINF:-1,Sky Cinema Drama & Romance
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/439
+#EXTINF:-1,Sky Cinema Disney HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/438
+#EXTINF:-1,Sky Cinema Disney
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437
+#EXTINF:-1,Sky Cinema Comedy HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/436
+#EXTINF:-1,Sky Cinema Comedy
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/435
+#EXTINF:-1,Sky Cinema Action & Adventure HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/434
+#EXTINF:-1,Sky Cinema Action & Adventure
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/433
+#EXTINF:-1,Sky Cinema Crime & Thriller HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/432
+#EXTINF:-1,Sky Cinema Crime & Thriller
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/431
+#EXTINF:-1,Sky Cinema Hits HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/430
+#EXTINF:-1,Sky Cinema Hits
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/429
+#EXTINF:-1,Sky Cinema Select HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/428
+#EXTINF:-1,Sky Cinema Select
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/427
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/426
+#EXTINF:-1,Film4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/425
+#EXTINF:-1,Film4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/424
+#EXTINF:-1,TCM HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/423
+#EXTINF:-1,TCM
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/422
+#EXTINF:-1,True Movies
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/421
+#EXTINF:-1,True Movies 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/420
+#EXTINF:-1,Movies4Men
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/419
+#EXTINF:-1,Movies 24
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/418
+#EXTINF:-1,Box Office PPV - 1 (Wilder Vs Fury)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/417
+#EXTINF:-1,Box Office PPV - 2 (Wilder Vs Fury)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/416
+#EXTINF:-1,Box Office PPV - 3 (Wilder Vs Fury)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/415
+#EXTINF:-1,Box Office PPV - 4 (Wilder Vs Fury)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/414
+#EXTINF:-1,Sky Sports Main Event HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/413
+#EXTINF:-1,Sky Sports Main Event
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/412
+#EXTINF:-1,Sky Sports Premier League HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/411
+#EXTINF:-1,Sky Sports Premier League
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/410
+#EXTINF:-1,Sky Sports Football HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/409
+#EXTINF:-1,Sky Sports Football
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/408
+#EXTINF:-1,Sky Sports Cricket HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/407
+#EXTINF:-1,Sky Sports Cricket
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/406
+#EXTINF:-1,Sky Sports The Golf HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/405
+#EXTINF:-1,Sky Sports The Golf
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/404
+#EXTINF:-1,Sky Sports F1 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/403
+#EXTINF:-1,Sky Sports F1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/402
+#EXTINF:-1,Sky Sports Action HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/401
+#EXTINF:-1,Sky Sports Action
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/400
+#EXTINF:-1,Sky Sports Arena HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/399
+#EXTINF:-1,Sky Sports Arena
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/398
+#EXTINF:-1,Sky Sports News HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/397
+#EXTINF:-1,Sky Sports News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/396
+#EXTINF:-1,Sky Sports Mix HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/395
+#EXTINF:-1,Sky Sports Mix
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/394
+#EXTINF:-1,Sky Red Button 01
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/393
+#EXTINF:-1,Sky Red Button 02
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/392
+#EXTINF:-1,Sky Red Button 03
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/391
+#EXTINF:-1,Sky Red Button 04
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/390
+#EXTINF:-1,Sky Red Button 05
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/389
+#EXTINF:-1,Sky Red Button 06
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/388
+#EXTINF:-1,Sky Red Button 07
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/387
+#EXTINF:-1,Sky Red Button 08
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/386
+#EXTINF:-1,Sky Red Button 09
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/385
+#EXTINF:-1,BT Sport 1 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/384
+#EXTINF:-1,BT Sport 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/383
+#EXTINF:-1,BT Sport 2 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/382
+#EXTINF:-1,BT Sport 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/381
+#EXTINF:-1,BT Sport 3 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/380
+#EXTINF:-1,BT Sport 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/379
+#EXTINF:-1,BT Sport//ESPN HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/378
+#EXTINF:-1,BT Sport//ESPN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/377
+#EXTINF:-1,BT Sports X1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/376
+#EXTINF:-1,BT Sports X2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/375
+#EXTINF:-1,BT Sports X3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/374
+#EXTINF:-1,BT Sports X4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/373
+#EXTINF:-1,BT Sports X5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/372
+#EXTINF:-1,Eurosport 1 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/371
+#EXTINF:-1,Eurosport 2 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/370
+#EXTINF:-1,Eurosport 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/369
+#EXTINF:-1,Eurosport 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368
+#EXTINF:-1,Boxnation HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/367
+#EXTINF:-1,Boxnation
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/366
+#EXTINF:-1,Eir Sport 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/365
+#EXTINF:-1,Eir Sport 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/364
+#EXTINF:-1,Premier Sports HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/363
+#EXTINF:-1,Premier Sports
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/362
+#EXTINF:-1,Racing UK HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/361
+#EXTINF:-1,Racing UK
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/360
+#EXTINF:-1,at the races
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/359
+#EXTINF:-1,Motorsport TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/358
+#EXTINF:-1,MUTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/357
+#EXTINF:-1,MUTV HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/356
+#EXTINF:-1,Chelsea TV HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/355
+#EXTINF:-1,Chelsea TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/354
+#EXTINF:-1,Liverpool FC TV HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/353
+#EXTINF:-1,Liverpool FC TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/352
+#EXTINF:-1,CELTIC FC TV ( LIVE ON MATCHES )
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/351
+#EXTINF:-1,RANGERS FV TV ( LIVE ON MATCHES )
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/350
+#EXTINF:-1,MTV HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/349
+#EXTINF:-1,MTV Live HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/348
+#EXTINF:-1,MTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/347
+#EXTINF:-1,MTV Rocks
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/346
+#EXTINF:-1,MTV Music
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/345
+#EXTINF:-1,MTV Hits
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/344
+#EXTINF:-1,MTV OMG
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/343
+#EXTINF:-1,MTV Classic
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/342
+#EXTINF:-1,MTV Base
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/341
+#EXTINF:-1,VH1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/340
+#EXTINF:-1,The Vault
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/339
+#EXTINF:-1,Starz TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/338
+#EXTINF:-1,Skuzz
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/337
+#EXTINF:-1,Trace Urban
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/336
+#EXTINF:-1,CBBC HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/335
+#EXTINF:-1,Cbeebies HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/334
+#EXTINF:-1,CITV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/333
+#EXTINF:-1,Disney Channel HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/332
+#EXTINF:-1,Disney Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/331
+#EXTINF:-1,Disney XD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/330
+#EXTINF:-1,Disney Junior
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/329
+#EXTINF:-1,Nickelodeon
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/328
+#EXTINF:-1,Nickelodeon HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/327
+#EXTINF:-1,Nicktoons
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/326
+#EXTINF:-1,Nick Jr
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/325
+#EXTINF:-1,Nick Jr Too
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/324
+#EXTINF:-1,Cartoon Network HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/323
+#EXTINF:-1,Cartoon Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/322
+#EXTINF:-1,Cartoonito
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/321
+#EXTINF:-1,Pop MAX
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/320
+#EXTINF:-1,Boomerang
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/319
+#EXTINF:-1,Pop
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/318
+#EXTINF:-1,Tiny Pop
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/317
+#EXTINF:-1,Sky News HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/316
+#EXTINF:-1,Sky News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/315
+#EXTINF:-1,BBC News HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/314
+#EXTINF:-1,BBC News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/313
+#EXTINF:-1,Fox News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/312
+#EXTINF:-1,RTE News Now
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/311
+#EXTINF:-1,Bloomberg HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/310
+#EXTINF:-1,Bloomberg
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/309
+#EXTINF:-1,CNN HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/308
+#EXTINF:-1,B4U Movies
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/307
+#EXTINF:-1,B4U Music
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/306
+#EXTINF:-1,ZEE TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/305
+#EXTINF:-1,Zee Punjabi
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/304
+#EXTINF:-1,Zee Cinema
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/303
+#EXTINF:-1,Zing
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/302
+#EXTINF:-1,COLORS
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/301
+#EXTINF:-1,Star Plus
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/300
+#EXTINF:-1,Star Like OK
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/299
+#EXTINF:-1,Star Gold
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/298
+#EXTINF:-1,Sony Sab
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/297
+#EXTINF:-1,Sony Movie Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/296
+#EXTINF:-1,SuperSport 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520786
+#EXTINF:-1,SuperSport 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520785
+#EXTINF:-1,SuperSport 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520784
+#EXTINF:-1,SuperSport 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520783
+#EXTINF:-1,SuperSport 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520782
+#EXTINF:-1,SuperSport 6
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520781
+#EXTINF:-1,SuperSport 7
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520780
+#EXTINF:-1,SuperSport 8
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520779
+#EXTINF:-1,SuperSport 9
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520778
+#EXTINF:-1,SuperSport 10
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520777
+#EXTINF:-1,SuperSport 11
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520776
+#EXTINF:-1,SuperSport 12
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520775
+#EXTINF:-1,Supersport Blitz
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520787
+#EXTINF:-1,SuperSport MáXimo 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520788
+#EXTINF:-1,Bein Sports 1 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105437
+#EXTINF:-1,Bein Sports 2 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105436
+#EXTINF:-1,Bein Sports 3 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105435
+#EXTINF:-1,Bein Sports 4 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105434
+#EXTINF:-1,Bein Sports 5 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105433
+#EXTINF:-1,Bein Sports 6 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105432
+#EXTINF:-1,Bein Sports 7 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105431
+#EXTINF:-1,Bein Sports 8 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105430
+#EXTINF:-1,Bein Sports 9 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105429
+#EXTINF:-1,Bein Sports 10 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105428
+#EXTINF:-1,Bein Sports 11 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105427
+#EXTINF:-1,Bein Sports 12 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105426
+#EXTINF:-1,Bein Sports 13 HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/105425
+#EXTINF:-1,ESPN PLUS 00
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368552
+#EXTINF:-1,ESPN PLUS 01
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368553
+#EXTINF:-1,ESPN PLUS 02
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368554
+#EXTINF:-1,ESPN PLUS 03
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368555
+#EXTINF:-1,ESPN PLUS 04
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368556
+#EXTINF:-1,ESPN PLUS 05
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368557
+#EXTINF:-1,ESPN PLUS 06
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368558
+#EXTINF:-1,ESPN PLUS 07
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368559
+#EXTINF:-1,ESPN PLUS 08
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368560
+#EXTINF:-1,ESPN PLUS 09
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368561
+#EXTINF:-1,ESPN PLUS 10
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368562
+#EXTINF:-1,ESPN PLUS 11
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368563
+#EXTINF:-1,ESPN PLUS 12
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368564
+#EXTINF:-1,ESPN PLUS 13
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368565
+#EXTINF:-1,ESPN PLUS 14
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368566
+#EXTINF:-1,ESPN PLUS 15
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368567
+#EXTINF:-1,ESPN PLUS 16
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368568
+#EXTINF:-1,ESPN PLUS 17
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368569
+#EXTINF:-1,ESPN PLUS 18
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368570
+#EXTINF:-1,ESPN PLUS 19
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368571
+#EXTINF:-1,ESPN PLUS 20
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368572
+#EXTINF:-1,ESPN PLUS 21
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368573
+#EXTINF:-1,ESPN PLUS 22:
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368574
+#EXTINF:-1,ESPN PLUS 23
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368575
+#EXTINF:-1,ESPN PLUS 24
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368576
+#EXTINF:-1,ESPN PLUS 25
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368577
+#EXTINF:-1,ESPN PLUS 26
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368578
+#EXTINF:-1,ESPN PLUS 27
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368579
+#EXTINF:-1,ESPN PLUS 28
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368580
+#EXTINF:-1,ESPN PLUS 28
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368581
+#EXTINF:-1,ESPN PLUS 30
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368582
+#EXTINF:-1,ESPN PLUS 31
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368583
+#EXTINF:-1,ESPN PLUS 32
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368584
+#EXTINF:-1,ESPN PLUS 33
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368585
+#EXTINF:-1,ESPN PLUS 34
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368586
+#EXTINF:-1,ESPN PLUS 35
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368587
+#EXTINF:-1,ESPN PLUS 36
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368588
+#EXTINF:-1,ESPN PLUS 37
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368589
+#EXTINF:-1,ESPN PLUS 38
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368590
+#EXTINF:-1,ESPN PLUS 39
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368591
+#EXTINF:-1,ESPN PLUS 40
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368592
+#EXTINF:-1,ESPN PLUS 41
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368593
+#EXTINF:-1,ESPN PLUS 42
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368594
+#EXTINF:-1,ESPN PLUS 43
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368595
+#EXTINF:-1,ESPN PLUS 44
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368596
+#EXTINF:-1,ESPN PLUS 45
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368597
+#EXTINF:-1,ESPN PLUS 46
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368598
+#EXTINF:-1,ESPN PLUS 47
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368599
+#EXTINF:-1,ESPN PLUS 48
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368600
+#EXTINF:-1,ESPN PLUS 49
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368601
+#EXTINF:-1,ESPN PLUS 50
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368602
+#EXTINF:-1,ESPN PLUS 51
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368603
+#EXTINF:-1,ESPN PLUS 52
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368604
+#EXTINF:-1,ESPN PLUS 53
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368605
+#EXTINF:-1,ESPN PLUS 54
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368606
+#EXTINF:-1,ESPN PLUS 55
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368607
+#EXTINF:-1,ESPN PLUS 56
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368608
+#EXTINF:-1,ESPN PLUS 57
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368609
+#EXTINF:-1,ESPN PLUS 58
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368610
+#EXTINF:-1,ESPN PLUS 59
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368611
+#EXTINF:-1,ESPN PLUS 60
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368612
+#EXTINF:-1,ESPN PLUS 61
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368613
+#EXTINF:-1,ESPN PLUS 62
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368614
+#EXTINF:-1,ESPN PLUS 63
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368615
+#EXTINF:-1,ESPN PLUS 64
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368616
+#EXTINF:-1,Optus 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648334
+#EXTINF:-1,Optus 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648335
+#EXTINF:-1,Optus 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648336
+#EXTINF:-1,Optus 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648337
+#EXTINF:-1,Optus 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648338
+#EXTINF:-1,Optus 6
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648339
+#EXTINF:-1,Optus 7
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648340
+#EXTINF:-1,Optus 8
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648341
+#EXTINF:-1,EPL 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368637
+#EXTINF:-1,EPL 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368638
+#EXTINF:-1,EPL 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368639
+#EXTINF:-1,EPL 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368640
+#EXTINF:-1,EPL 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368641
+#EXTINF:-1,EPL 6
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368642
+#EXTINF:-1,EPL 7
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368643
+#EXTINF:-1,EPL 8
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368644
+#EXTINF:-1,EPL 9
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368645
+#EXTINF:-1,EPL 10
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/368646
+#EXTINF:-1,NBC GOLD 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437404
+#EXTINF:-1,NBC GOLD 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437405
+#EXTINF:-1,NBC GOLD 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437406
+#EXTINF:-1,NBC GOLD 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437407
+#EXTINF:-1,NBC GOLD 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437408
+#EXTINF:-1,NBC GOLD 6
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437409
+#EXTINF:-1,NBC GOLD 7
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437410
+#EXTINF:-1,NBC GOLD 8
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437411
+#EXTINF:-1,NBC GOLD 9
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437412
+#EXTINF:-1,NBC GOLD 10
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437413
+#EXTINF:-1,RUSH SPORTS 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437414
+#EXTINF:-1,RUSH SPORTS 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437415
+#EXTINF:-1,RUSH SPORTS 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437416
+#EXTINF:-1,RUSH SPORTS 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437417
+#EXTINF:-1,RUSH SPORTS 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437418
+#EXTINF:-1,RUSH SPORTS 6
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437419
+#EXTINF:-1,RUSH SPORTS 7
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437420
+#EXTINF:-1,RUSH SPORTS 8
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437421
+#EXTINF:-1,RUSH SPORTS 9
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/437422
+#EXTINF:-1,iFollow | EFL 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648342
+#EXTINF:-1,iFollow | EFL 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648343
+#EXTINF:-1,iFollow | EFL 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648344
+#EXTINF:-1,iFollow | EFL 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648345
+#EXTINF:-1,iFollow | EFL 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648346
+#EXTINF:-1,iFollow | EFL 6
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648347
+#EXTINF:-1,iFollow | EFL 7
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648348
+#EXTINF:-1,iFollow | EFL 8
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648349
+#EXTINF:-1,iFollow | EFL 9
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648350
+#EXTINF:-1,iFollow | EFL 10
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648351
+#EXTINF:-1,iFollow | EFL 11
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648352
+#EXTINF:-1,iFollow | EFL 12
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648353
+#EXTINF:-1,iFollow | EFL 13
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648354
+#EXTINF:-1,iFollow | EFL 14
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648355
+#EXTINF:-1,iFollow | EFL 15
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648356
+#EXTINF:-1,iFollow | EFL 16
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648357
+#EXTINF:-1,iFollow | EFL 17
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648358
+#EXTINF:-1,iFollow | EFL 18
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648359
+#EXTINF:-1,iFollow | EFL 19
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648360
+#EXTINF:-1,iFollow | EFL 20
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648361
+#EXTINF:-1,iFollow | EFL 21
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648362
+#EXTINF:-1,iFollow | EFL 22
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648363
+#EXTINF:-1,iFollow | EFL 23
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648364
+#EXTINF:-1,iFollow | EFL 24
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648365
+#EXTINF:-1,iFollow | EFL 25
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648366
+#EXTINF:-1,iFollow | EFL 26
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648367
+#EXTINF:-1,iFollow | EFL 27
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648368
+#EXTINF:-1,iFollow | EFL 28
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648369
+#EXTINF:-1,iFollow | EFL 29
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648370
+#EXTINF:-1,USA: A&E Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520887
+#EXTINF:-1,USA: ACC Network HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520888
+#EXTINF:-1,USA: AccuWeather
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520889
+#EXTINF:-1,USA: ActionMax
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520890
+#EXTINF:-1,USA: AMC Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520891
+#EXTINF:-1,USA: American Heroes
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520892
+#EXTINF:-1,USA: Animal Planet
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520893
+#EXTINF:-1,USA: Aspire
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520894
+#EXTINF:-1,USA: Audience
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520895
+#EXTINF:-1,USA: AWE
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520896
+#EXTINF:-1,USA: AXS TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520897
+#EXTINF:-1,USA: Baby First TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520898
+#EXTINF:-1,USA: BabyTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520899
+#EXTINF:-1,USA: BBC America
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520900
+#EXTINF:-1,USA: BBC World News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520901
+#EXTINF:-1,USA: beIN SPORTS English
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520902
+#EXTINF:-1,USA: BET
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520903
+#EXTINF:-1,USA: BET HER
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520904
+#EXTINF:-1,USA: Big Ten Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520905
+#EXTINF:-1,USA: Bloomberg Television
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520906
+#EXTINF:-1,USA: Boomerang
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520907
+#EXTINF:-1,USA: Bravo
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520908
+#EXTINF:-1,USA: Cartoon Network & Adult Swim
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520909
+#EXTINF:-1,USA: Cheddar Business
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520910
+#EXTINF:-1,USA: Cheddar News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520911
+#EXTINF:-1,USA: Cinemax East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520912
+#EXTINF:-1,USA: Cinemax 5StarMax
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648517
+#EXTINF:-1,USA: Cinemax ActionMax
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648516
+#EXTINF:-1,USA: Cinemax Moremax 
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648519
+#EXTINF:-1,USA: Cinemax Moviemax
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648518
+#EXTINF:-1,USA: Cinemax OuterMax
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648514
+#EXTINF:-1,USA: Cinemax ThrillerMax
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/648515
+#EXTINF:-1,USA: CMT
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520913
+#EXTINF:-1,USA: CNBC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520914
+#EXTINF:-1,USA: CNN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520915
+#EXTINF:-1,USA: Comedy Central
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520916
+#EXTINF:-1,USA: Comedy TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520917
+#EXTINF:-1,USA: Comet
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520919
+#EXTINF:-1,USA: COOKING CHANNEL
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520920
+#EXTINF:-1,USA: Cooking Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520918
+#EXTINF:-1,USA: CTS America
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520921
+#EXTINF:-1,USA: Destination America
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520922
+#EXTINF:-1,USA: Discovery Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520923
+#EXTINF:-1,USA: Discovery Family
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520924
+#EXTINF:-1,USA: Disney Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520925
+#EXTINF:-1,USA: Disney Junior
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520926
+#EXTINF:-1,USA: Disney XD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520927
+#EXTINF:-1,USA: Diy
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520928
+#EXTINF:-1,USA: E!
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520929
+#EXTINF:-1,USA: Epix
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520930
+#EXTINF:-1,USA: Epix 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520931
+#EXTINF:-1,USA: EPIX Drive-In
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520932
+#EXTINF:-1,USA: Epix Hits
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520933
+#EXTINF:-1,USA: ESPN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520934
+#EXTINF:-1,USA: ESPN 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520938
+#EXTINF:-1,USA: ESPN Goal Line
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520935
+#EXTINF:-1,USA: ESPN News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520936
+#EXTINF:-1,USA: ESPN U
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520937
+#EXTINF:-1,USA: Food Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520940
+#EXTINF:-1,USA: FOX BUSINESS NETWORK
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520941
+#EXTINF:-1,USA: Fox News
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520942
+#EXTINF:-1,USA: Fox Sports 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520943
+#EXTINF:-1,USA: Fox Sports 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520944
+#EXTINF:-1,USA: Free Speech TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520945
+#EXTINF:-1,USA: Fuse
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520946
+#EXTINF:-1,USA: Fuse Music
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520939
+#EXTINF:-1,USA: FX
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520947
+#EXTINF:-1,USA: FXM
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520948
+#EXTINF:-1,USA: FXX
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520949
+#EXTINF:-1,USA: FYI
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520950
+#EXTINF:-1,USA: Golf Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520952
+#EXTINF:-1,USA: GOL TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520951
+#EXTINF:-1,USA: Great American Country
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520953
+#EXTINF:-1,USA: GSN USA
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520954
+#EXTINF:-1,USA: Hallmark Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520955
+#EXTINF:-1,USA: Hallmark Drama
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520956
+#EXTINF:-1,USA: Hallmark Movies & Mysteries
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520957
+#EXTINF:-1,USA: HBO2 HD East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520960
+#EXTINF:-1,USA: HBO East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520958
+#EXTINF:-1,USA: HBO Family East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520959
+#EXTINF:-1,USA: HDNet Movies
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520961
+#EXTINF:-1,USA: HGTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520962
+#EXTINF:-1,USA: History
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520963
+#EXTINF:-1,USA: HLN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520964
+#EXTINF:-1,USA: IFC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520965
+#EXTINF:-1,USA: Investigation Discovery
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520966
+#EXTINF:-1,USA: Justice Central
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520967
+#EXTINF:-1,USA: Lifetime
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520968
+#EXTINF:-1,USA: Lifetime Movie Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520969
+#EXTINF:-1,USA: Logo
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520970
+#EXTINF:-1,USA: MLB Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520971
+#EXTINF:-1,USA: MLB Strike Zone
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520972
+#EXTINF:-1,USA: Motortrend
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520973
+#EXTINF:-1,USA: Movieplex
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520974
+#EXTINF:-1,USA: MSNBC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520975
+#EXTINF:-1,USA: MTV2 USA
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520977
+#EXTINF:-1,USA: MTV Classic
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520978
+#EXTINF:-1,USA: MTV USA
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520976
+#EXTINF:-1,USA: Nat Geo
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520979
+#EXTINF:-1,USA: Nat Geo Wild
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520980
+#EXTINF:-1,USA: NBA TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520981
+#EXTINF:-1,USA: Newsy
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520983
+#EXTINF:-1,USA: NFL Network USA
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520984
+#EXTINF:-1,USA: NHL Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520985
+#EXTINF:-1,USA: Nickelodeon East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520986
+#EXTINF:-1,USA: Nick Jr.
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520987
+#EXTINF:-1,USA: NickToons
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520988
+#EXTINF:-1,USA: Olympic Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520989
+#EXTINF:-1,USA: One American News Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520990
+#EXTINF:-1,USA: Outdoor Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520991
+#EXTINF:-1,USA: Outside TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520992
+#EXTINF:-1,USA: Ovation
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520993
+#EXTINF:-1,USA: OWN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520994
+#EXTINF:-1,USA: Oxygen
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520995
+#EXTINF:-1,USA: Pac-12 Arizona
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520996
+#EXTINF:-1,USA: Pac-12 Bay Area
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520997
+#EXTINF:-1,USA: Pac-12 Los Angeles
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520998
+#EXTINF:-1,USA: Pac-12 Mountain
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/520999
+#EXTINF:-1,USA: Pac-12 Oregon
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521000
+#EXTINF:-1,USA: Pac-12 Washington
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521001
+#EXTINF:-1,USA: Paramount Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521002
+#EXTINF:-1,USA: PixL
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521005
+#EXTINF:-1,USA: POP
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521003
+#EXTINF:-1,USA: Prime Ticket
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521004
+#EXTINF:-1,USA: Pursuit channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521006
+#EXTINF:-1,USA: QVC2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521008
+#EXTINF:-1,USA: QVC HD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521007
+#EXTINF:-1,USA: Reelz
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521009
+#EXTINF:-1,USA: Retro Plex
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521010
+#EXTINF:-1,USA: Revolt TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521011
+#EXTINF:-1,USA: RFD-TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521012
+#EXTINF:-1,USA: Ride TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521013
+#EXTINF:-1,USA: Science
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521014
+#EXTINF:-1,USA: SEC Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521015
+#EXTINF:-1,USA: Showtime
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521016
+#EXTINF:-1,USA: Showtime 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521017
+#EXTINF:-1,USA: Showtime Beyond
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521018
+#EXTINF:-1,USA: Showtime Extreme
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521019
+#EXTINF:-1,USA: Showtime Family Zone
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521020
+#EXTINF:-1,USA: Showtime Next
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521021
+#EXTINF:-1,USA: Showtime Showcase
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521022
+#EXTINF:-1,USA: Showtime West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521023
+#EXTINF:-1,USA: Showtime Women
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521024
+#EXTINF:-1,USA: SlingPlus: PPV 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521066
+#EXTINF:-1,USA: SlingPlus: PPV 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521067
+#EXTINF:-1,USA: SlingPlus: PPV 3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521068
+#EXTINF:-1,USA: SlingPlus: PPV 4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521069
+#EXTINF:-1,USA: SlingPlus: PPV 5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521070
+#EXTINF:-1,USA: Sportsman Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521025
+#EXTINF:-1,USA: Starz
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521026
+#EXTINF:-1,USA: Starz Cinema
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521027
+#EXTINF:-1,USA: Starz Comedy
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521028
+#EXTINF:-1,USA: Starz Edge
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521029
+#EXTINF:-1,USA: Starz Encore
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521030
+#EXTINF:-1,USA: Starz Encore Action
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521031
+#EXTINF:-1,USA: Starz Encore Black
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521032
+#EXTINF:-1,USA: Starz Encore Classic
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521033
+#EXTINF:-1,USA: Starz Encore Family
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521034
+#EXTINF:-1,USA: Starz Encore Suspense
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521035
+#EXTINF:-1,USA: Starz Encore Westerns
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521036
+#EXTINF:-1,USA: Starz in Black
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521037
+#EXTINF:-1,USA: Starz Kids and Family
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521038
+#EXTINF:-1,USA: Starz West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521039
+#EXTINF:-1,USA: Sundance
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521040
+#EXTINF:-1,USA: Syfy
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521041
+#EXTINF:-1,USA: TBS
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521042
+#EXTINF:-1,USA: TCM
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521043
+#EXTINF:-1,USA: TeenNick
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521044
+#EXTINF:-1,USA: Tennis Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521045
+#EXTINF:-1,USA: The Cowboy Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521046
+#EXTINF:-1,USA: The Weather Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521047
+#EXTINF:-1,USA: TLC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521048
+#EXTINF:-1,USA: TNT
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521049
+#EXTINF:-1,USA: Tr3s
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521050
+#EXTINF:-1,USA: Travel Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521051
+#EXTINF:-1,USA: truTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521052
+#EXTINF:-1,USA: TVG
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521055
+#EXTINF:-1,USA: TV Land
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521053
+#EXTINF:-1,USA: TV one
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521054
+#EXTINF:-1,USA: Universal Kids
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521056
+#EXTINF:-1,USA: UP
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521057
+#EXTINF:-1,USA: USA Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521058
+#EXTINF:-1,USA: VH1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521059
+#EXTINF:-1,USA: VICELAND
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521060
+#EXTINF:-1,USA: WE TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521061
+#EXTINF:-1,USA: WGN America
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521062
+#EXTINF:-1,USA: Willow Cricket
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521063
+#EXTINF:-1,USA: Willow Extra
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521064
+#EXTINF:-1,USA: World Fishing Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521065
+#EXTINF:-1,CA: A&E
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521071
+#EXTINF:-1,CA: ABC Buffalo (WKBW)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521072
+#EXTINF:-1,CA: ABC Spark
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521073
+#EXTINF:-1,CA: Aboriginal Peoples Television Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521074
+#EXTINF:-1,CA: Adult Swim
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521075
+#EXTINF:-1,CA: AMC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521076
+#EXTINF:-1,CA: American Movie Classics
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521077
+#EXTINF:-1,CA: AMI-t鬩
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521078
+#EXTINF:-1,CA: AMItv
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521079
+#EXTINF:-1,CA: Animal Planet
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521080
+#EXTINF:-1,CA: BBC Canada
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521081
+#EXTINF:-1,CA: BNN Bloomberg
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521082
+#EXTINF:-1,CA: CablePulse 24TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521083
+#EXTINF:-1,CA: Cartoon Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521084
+#EXTINF:-1,CA: CBC New Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521085
+#EXTINF:-1,CA: CBC Toronto
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521086
+#EXTINF:-1,CA: CBC Toronto (CBLT)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521087
+#EXTINF:-1,CA: CBS Buffalo (WIVB)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521088
+#EXTINF:-1,CA: CHCH
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521089
+#EXTINF:-1,CA: CHRGD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521090
+#EXTINF:-1,CA: Citytv Toronto
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521091
+#EXTINF:-1,CA: CMT Canada
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521092
+#EXTINF:-1,CA: CNBC Canada
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521093
+#EXTINF:-1,CA: CNN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521094
+#EXTINF:-1,CA: CP24
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521095
+#EXTINF:-1,CA: CPAC English
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521096
+#EXTINF:-1,CA: CPAC French
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521097
+#EXTINF:-1,CA: Crave1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521098
+#EXTINF:-1,CA: Crave2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521099
+#EXTINF:-1,CA: Crave3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521100
+#EXTINF:-1,CA: Crave4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521101
+#EXTINF:-1,CA: Crime + Investigation
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521102
+#EXTINF:-1,CA: CTV COMEDY (East)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521103
+#EXTINF:-1,CA: CTV Drama
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521104
+#EXTINF:-1,CA: CTV News Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521105
+#EXTINF:-1,CA: CTV SCI-FI
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521106
+#EXTINF:-1,CA: CTV Toronto
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521107
+#EXTINF:-1,CA: CTV Toronto (CFTO)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521108
+#EXTINF:-1,CA: Discovery Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521109
+#EXTINF:-1,CA: Disney Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521110
+#EXTINF:-1,CA: Disney Junior
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521111
+#EXTINF:-1,CA: Disney XD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521112
+#EXTINF:-1,CA: DIY Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521113
+#EXTINF:-1,CA: DTOUR
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521114
+#EXTINF:-1,CA: E! Entertainment Television
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521115
+#EXTINF:-1,CA: Family (East)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521116
+#EXTINF:-1,CA: Family Channel (E)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521117
+#EXTINF:-1,CA: Family Jr.
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521118
+#EXTINF:-1,CA: Food Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521119
+#EXTINF:-1,CA: FOX Buffalo
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521120
+#EXTINF:-1,CA: FOX Buffalo (WUTV)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521121
+#EXTINF:-1,CA: Fox Sports Racing
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521122
+#EXTINF:-1,CA: FX
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521123
+#EXTINF:-1,CA: FXXTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521124
+#EXTINF:-1,CA: FYI
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521125
+#EXTINF:-1,CA: GAME+
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521127
+#EXTINF:-1,CA: Game TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521126
+#EXTINF:-1,CA: Global Toronto (CIII)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521128
+#EXTINF:-1,CA: Golf Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521129
+#EXTINF:-1,CA: HBO 1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521130
+#EXTINF:-1,CA: HBO 2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521131
+#EXTINF:-1,CA: HGTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521132
+#EXTINF:-1,CA: HGTV Canada
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521133
+#EXTINF:-1,CA: History
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521134
+#EXTINF:-1,CA: History Television
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521135
+#EXTINF:-1,CA: HLN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521136
+#EXTINF:-1,CA: ICI Radio-Canada T鬩 (TOR)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521137
+#EXTINF:-1,CA: ICI RDI
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521138
+#EXTINF:-1,CA: Lifetime
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521139
+#EXTINF:-1,CA: Love Nature
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521140
+#EXTINF:-1,CA: Makeful
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521141
+#EXTINF:-1,CA: MLB Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521142
+#EXTINF:-1,CA: MovieTime
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521143
+#EXTINF:-1,CA: MTV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521144
+#EXTINF:-1,CA: MuchMusic
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521145
+#EXTINF:-1,CA: MuchMusicHD
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521146
+#EXTINF:-1,CA: Nat Geographic
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521148
+#EXTINF:-1,CA: Nat Geo Wild
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521147
+#EXTINF:-1,CA: Nationl Geographic
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521149
+#EXTINF:-1,CA: NBA TV Canada
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521150
+#EXTINF:-1,CA: NBC Buffalo (WGRZ)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521151
+#EXTINF:-1,CA: NFL Network
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521152
+#EXTINF:-1,CA: Nickelodeon
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521153
+#EXTINF:-1,CA: OLN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521154
+#EXTINF:-1,CA: OMNI.1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521156
+#EXTINF:-1,CA: OMNI.2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521157
+#EXTINF:-1,CA: OMNI East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521155
+#EXTINF:-1,CA: OWN
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521158
+#EXTINF:-1,CA: PBS Buffalo (WNED)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521159
+#EXTINF:-1,CA: Peachtree
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521160
+#EXTINF:-1,CA: Peachtree TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521161
+#EXTINF:-1,CA: Showcase
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521162
+#EXTINF:-1,CA: Showcase (East)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521163
+#EXTINF:-1,CA: Slice
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521164
+#EXTINF:-1,CA: Sportsnet 360
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521165
+#EXTINF:-1,CA: Sportsnet East
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521166
+#EXTINF:-1,CA: Sportsnet ONE
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521167
+#EXTINF:-1,CA: Sportsnet Ontario
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521168
+#EXTINF:-1,CA: Sportsnet Pacific
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521169
+#EXTINF:-1,CA: Sportsnet West
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521170
+#EXTINF:-1,CA: SSP Promotion Channel
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521171
+#EXTINF:-1,CA: Super Channel Heart & Home
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521172
+#EXTINF:-1,CA: Super Channel Vault
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521173
+#EXTINF:-1,CA: SUPER SPORTS CH 431
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521174
+#EXTINF:-1,CA: SUPER SPORTS CH 432
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521175
+#EXTINF:-1,CA: SUPER SPORTS CH 433
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521176
+#EXTINF:-1,CA: SUPER SPORTS CH 434
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521177
+#EXTINF:-1,CA: SUPER SPORTS CH 435
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521178
+#EXTINF:-1,CA: SUPER SPORTS CH 436
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521179
+#EXTINF:-1,CA: SUPER SPORTS CH 437
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521180
+#EXTINF:-1,CA: SUPER SPORTS CH 438
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521181
+#EXTINF:-1,CA: SUPER SPORTS CH 439
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521182
+#EXTINF:-1,CA: SUPER SPORTS CH 440
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521183
+#EXTINF:-1,CA: SUPER SPORTS CH 441
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521184
+#EXTINF:-1,CA: SUPER SPORTS CH 442
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521185
+#EXTINF:-1,CA: SUPER SPORTS CH 443
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521186
+#EXTINF:-1,CA: SUPER SPORTS CH 444
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521187
+#EXTINF:-1,CA: SUPER SPORTS CH 450
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521188
+#EXTINF:-1,CA: SUPER SPORTS CH 452
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521189
+#EXTINF:-1,CA: SUPER SPORTS CH 453
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521190
+#EXTINF:-1,CA: SUPER SPORTS CH 454
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521191
+#EXTINF:-1,CA: SUPER SPORTS CH 455
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521192
+#EXTINF:-1,CA: SUPER SPORTS CH 456
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521193
+#EXTINF:-1,CA: SUPER SPORTS CH 457
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521194
+#EXTINF:-1,CA: SUPER SPORTS CH 458
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521195
+#EXTINF:-1,CA: SUPER SPORTS CH 459
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521196
+#EXTINF:-1,CA: SUPER SPORTS CH 460
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521197
+#EXTINF:-1,CA: SUPER SPORTS CH 461
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521198
+#EXTINF:-1,CA: SUPER SPORTS CH 462
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521199
+#EXTINF:-1,CA: SUPER SPORTS CH 464
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521200
+#EXTINF:-1,CA: SUPER SPORTS CH 465
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521201
+#EXTINF:-1,CA: TCTV2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521202
+#EXTINF:-1,CA: TELETOON (East)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521203
+#EXTINF:-1,CA: TFO
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521204
+#EXTINF:-1,CA: TLC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521205
+#EXTINF:-1,CA: TLC (The Learning Channel)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521206
+#EXTINF:-1,CA: Treehouse
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521207
+#EXTINF:-1,CA: Treehouse TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521208
+#EXTINF:-1,CA: TSC
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521209
+#EXTINF:-1,CA: TSN1
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521210
+#EXTINF:-1,CA: TSN2
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521211
+#EXTINF:-1,CA: TSN3
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521212
+#EXTINF:-1,CA: TSN4
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521213
+#EXTINF:-1,CA: TSN5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521214
+#EXTINF:-1,CA: Turner Classic Movies
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521215
+#EXTINF:-1,CA: TV5
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521217
+#EXTINF:-1,CA: TVA Montreal (CFTM)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521218
+#EXTINF:-1,CA: TV Ontario
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521216
+#EXTINF:-1,CA: Unis TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521219
+#EXTINF:-1,CA: Vision TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521220
+#EXTINF:-1,CA: WN - GTA_SDV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521224
+#EXTINF:-1,CA: W Network (East)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521221
+#EXTINF:-1,CA: YES TV
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521222
+#EXTINF:-1,CA: YTV (East)
+http://cms-deathstariptv.xyz:8880/tigerman/tigerman123/521223
+#EXTM3U
+#EXTINF:-1,▬ [@NetBox2] ▬
 
