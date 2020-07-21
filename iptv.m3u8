@@ -3,9 +3,6 @@
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
 http://livetv.dnsfor.me/channel.5.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台 2
-https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
 
@@ -14,7 +11,6 @@ http://livetv.dnsfor.me/channel.7.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
 http://livetv.dnsfor.me/channel.9.m3u8     
-
 
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
@@ -28,7 +24,6 @@ http://teslagram.com/live/channel_331.m3u8
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="香港",NOW Sport Prime
 http://livetv.dnsfor.me/channel.12.m3u8 
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台 
 http://m.567it.com/jade.m3u8
 
@@ -40,18 +35,14 @@ http://livetv.dnsfor.me/channel.2.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",鳳凰香港台
 http://livetv.dnsfor.me/channel.16.m3u8  
 
-
 #EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="香港",TVB星河频道
 http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台 
 http://39.135.34.134:8080/000000001000/1000000004000011655/1.m3u8?i
-
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視 
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
@@ -61,7 +52,6 @@ http://streamidvo.multitvsolution.in/DiscoverScienceEng-a/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="香港",Discovery 調查探索頻道
 http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
-
 
 #EXTINF:-1 ch-id="求索動物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="香港",Discovery 動物頻道
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
