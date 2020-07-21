@@ -62,7 +62,7 @@ https://streamidvo.multitvsolution.in//live//APHDHindi-a//p4.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5dbaaba099442.png" group-title="香港",Discovery 探索頻道
-rtmp://58.200.131.2:1935/livetv/discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 ch-id="求索生活" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSSH.jpg" group-title="香港",Discovery 生活頻道
