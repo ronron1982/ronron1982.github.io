@@ -1,10 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+http://livetv.dnsfor.me/channel.5.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台 2
-http://f8.twtvcdn.com:8080/live/395/4e73c6f97669d4e26281935f78d874b0/index.m3u8
+https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",有線財經資訊台
+http://livetv.dnsfor.me/channel.6.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5ca9b975cc.png" group-title="香港",有線綜合娛樂台
+http://livetv.dnsfor.me/channel.7.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
+http://livetv.dnsfor.me/channel.9.m3u8     
 
 
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
@@ -16,10 +25,20 @@ http://teslagram.com/live/channel_332.m3u8
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
 http://teslagram.com/live/channel_331.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="香港",NOW Sport Prime
+http://livetv.dnsfor.me/channel.12.m3u8 
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台 
 http://m.567it.com/jade.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="香港",港台電視 31
+http://livetv.dnsfor.me/channel.1.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="香港",港台電視 32
+http://livetv.dnsfor.me/channel.2.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",鳳凰香港台
+http://livetv.dnsfor.me/channel.16.m3u8  
 
 
 #EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="香港",TVB星河频道
@@ -41,10 +60,8 @@ http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_108
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台 
 http://39.135.34.134:8080/000000001000/1000000004000011655/1.m3u8?i
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視 1
-http://39.135.34.134:8080/000000001000/1000000002000011619/1.m3u8?i
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視 
 http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
 
 #EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道
@@ -89,11 +106,6 @@ http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
 #EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 
 http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
 
-
-
-#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",Now Sports 精選
-http://teslagram.com/live/channel_sports2world.m3u8
-
 #EXTINF:-1 tvg-id="0"  tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="香港",ViuTV 96
 http://hls.globaliptv.ml/viu96.php
 #EXTINF:-1 tvg-id="408"  tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="香港",ViuTV 99
@@ -102,13 +114,6 @@ http://hls.globaliptv.ml/viu99.php
 #EXTINF:-1 tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="香港",ViuTV*
 http://teslagram.com/live/channel_99.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="香港",港台電視 31
-http://teslagram.com/live/channel_31.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" group-title="香港",港台電視 32
-http://teslagram.com/live/channel_32.m3u8
-
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="香港",鳳凰香港台
-http://117.148.187.100/PLTV/88888888/224/3221226491/index.m3u8
 
 
 #EXTINF:tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225163310626.png"group-title="中國",廣東衛視 HD
@@ -252,6 +257,9 @@ http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 1
+http://livetv.dnsfor.me/channel.17.m3u8 
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 2
 http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="中國",CCTV-5 體育頻道 2
