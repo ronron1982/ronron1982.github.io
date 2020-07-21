@@ -49,14 +49,6 @@ http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/1280px-IQiyi_logo.svg.png" group-title="香港",經典港片 
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c15_lb_jingdianguangpian_1080p_t10/c15_lb_jingdianguangpian_1080p_t10.m3u8
-
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/IQiyi_logo.svg/1280px-IQiyi_logo.svg.png" group-title="香港",周末影院 
-http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_fengxiaogang_1080p_t10/c16_lb_fengxiaogang_1080p_t10.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台 
 http://39.135.34.134:8080/000000001000/1000000004000011655/1.m3u8?i
 
@@ -90,30 +82,43 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="香港",Discovery 渦輪頻道
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="香港",Discovery History
+http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
+#EXTINF:-1 tvg-id="HIS.IN" tvg-logo="https://static.epg.best/mx/HistoryChannel.mx.png" group-title="香港",History
+https://itpolly.iptv.digijadoo.net/live/history_tv_hd/chunks.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d8cb97331.png" group-title="香港",國家地理野生頻道
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/NatGeo_People_logo.png/220px-NatGeo_People_logo.png" group-title="香港",國家地理歷險頻道
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_people/05.m3u8
 
 
-#EXTINF:-1 tvg-id="691"  tvg-logo="http://tv.sason.xyz/logo/ng.png" group-title="香港",國家地理頻道  
-http://104.250.154.42:8080/ZZ_hbo/ZZ_hbo.m3u8
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="香港",國家地理野生頻道
+https://itpolly.iptv.digijadoo.net/live/nat_geo_wild/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="香港",國家地理歷險頻道
+https://itpolly.iptv.digijadoo.net/live/nat_geo_people/chunks.m3u8
+
+
+#EXTINF:-1 tvg-id="691"  tvg-logo="http://tv.sason.xyz/logo/ng.png" group-title="香港",國家地理頻道 1  
+https://itpolly.iptv.digijadoo.net/live/nat_geo_in/chunks.m3u8
+
+#EXTINF:-1 tvg-id="691"  tvg-logo="http://tv.sason.xyz/logo/ng.png" group-title="香港",國家地理頻道 2  
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 
-http://192.154.103.75:8080/ZZ_dongwuxingqiu/ZZ_dongwuxingqiu.m3u8
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="0"  tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="香港",ViuTV 96
 http://hls.globaliptv.ml/viu96.php
 #EXTINF:-1 tvg-id="408"  tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="香港",ViuTV 99
 http://hls.globaliptv.ml/viu99.php
 
-#EXTINF:-1 tvg-logo="https://static.viu.tv/viutv_logo.png" group-title="香港",ViuTV*
-http://teslagram.com/live/channel_99.m3u8
 
+
+#EXTINF:-1 tvg-id="" tvg-logo="http://static.epg.best/sa/NickJr.sa.png" group-title="香港",Nick Jr
+https://itpolly.iptv.digijadoo.net/live/nick_jr/chunks.m3u8
 
 
 #EXTINF:tvg-logo="http://img.sj33.cn/uploads/allimg/201402/7-140225163310626.png"group-title="中國",廣東衛視 HD
@@ -1130,257 +1135,3 @@ https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_1400_av-b.m3u8
 https://reshet-live-uk.ctedgecdn.net/13tv-desktop/r13_1200.m3u8
 #EXTINF:-1 tvg-id="20.IL" tvg-logo="https://static.epg.best/il/Channel20.il.png" group-title="中東精選",20頻道(以色希)
 https://dvr.ch20-cdnwiz.com/mobilehls/dvr_high/index.m3u8
-
-#EXTM3U
-#EXTINF:-1,Nat Geo
-http://plus-tv.us:8080/live/10099/10099/14566.ts
-#EXTINF:-1,Nat Geo Wild
-http://plus-tv.us:8080/live/10099/10099/14567.ts
-#EXTINF:-1,PBS KIDS
-http://plus-tv.us:8080/live/10099/10099/14568.ts
-#EXTINF:-1,SyFy
-http://plus-tv.us:8080/live/10099/10099/14569.ts
-#EXTINF:-1,TBS
-http://plus-tv.us:8080/live/10099/10099/14570.ts
-#EXTINF:-1,TCM
-http://plus-tv.us:8080/live/10099/10099/14571.ts
-#EXTINF:-1,The Weather Channel
-http://plus-tv.us:8080/live/10099/10099/14572.ts
-#EXTINF:-1,TLC
-http://plus-tv.us:8080/live/10099/10099/14573.ts
-#EXTINF:-1,Travel Channel
-http://plus-tv.us:8080/live/10099/10099/14574.ts
-#EXTINF:-1,E!
-http://plus-tv.us:8080/live/10099/10099/14575.ts
-#EXTINF:-1,Unimas
-http://plus-tv.us:8080/live/10099/10099/14576.ts
-#EXTINF:-1,Galavision
-http://plus-tv.us:8080/live/10099/10099/14577.ts
-#EXTINF:-1,Telemundo
-http://plus-tv.us:8080/live/10099/10099/14578.ts
-#EXTINF:-1,Telemundo Chicago
-http://plus-tv.us:8080/live/10099/10099/14579.ts
-#EXTINF:-1,Telemundo LA
-http://plus-tv.us:8080/live/10099/10099/14580.ts
-#EXTINF:-1,Telemundo Miami
-http://plus-tv.us:8080/live/10099/10099/14581.ts
-#EXTINF:-1,Telemundo Texas
-http://plus-tv.us:8080/live/10099/10099/14582.ts
-#EXTINF:-1,Univision
-http://plus-tv.us:8080/live/10099/10099/14583.ts
-#EXTINF:-1,NBC Universo
-http://plus-tv.us:8080/live/10099/10099/14584.ts
-#EXTINF:-1,Discovery Familia
-http://plus-tv.us:8080/live/10099/10099/14585.ts
-#EXTINF:-1,Discovery
-http://plus-tv.us:8080/live/10099/10099/14586.ts
-#EXTINF:-1,Disney Channel
-http://plus-tv.us:8080/live/10099/10099/14588.ts
-#EXTINF:-1,Disney Jr
-http://plus-tv.us:8080/live/10099/10099/14589.ts
-#EXTINF:-1,Disney XD
-http://plus-tv.us:8080/live/10099/10099/14590.ts
-#EXTINF:-1,Nick
-http://plus-tv.us:8080/live/10099/10099/14591.ts
-#EXTINF:-1,Nick Jr
-http://plus-tv.us:8080/live/10099/10099/14592.ts
-#EXTINF:-1,Nicktoons
-http://plus-tv.us:8080/live/10099/10099/14593.ts
-#EXTINF:-1,Universal Kids
-http://plus-tv.us:8080/live/10099/10099/14594.ts
-#EXTINF:-1,Cinemax East
-http://plus-tv.us:8080/live/10099/10099/14595.ts
-#EXTINF:-1,EPIX
-http://plus-tv.us:8080/live/10099/10099/14596.ts
-#EXTINF:-1,Showtime 2
-http://plus-tv.us:8080/live/10099/10099/14598.ts
-#EXTINF:-1,Showtime Extreme
-http://plus-tv.us:8080/live/10099/10099/14600.ts
-#EXTINF:-1,Starz Encore Western
-http://plus-tv.us:8080/live/10099/10099/14601.ts
-#EXTINF:-1,Starz Black
-http://plus-tv.us:8080/live/10099/10099/14603.ts
-#EXTINF:-1,HBO ESP
-http://plus-tv.us:8080/live/10099/10099/14604.ts
-#EXTINF:-1,HBO ZONE
-http://plus-tv.us:8080/live/10099/10099/14605.ts
-#EXTINF:-1,STARZ ESP
-http://plus-tv.us:8080/live/10099/10099/14606.ts
-#EXTINF:-1,STARZ EDGE
-http://plus-tv.us:8080/live/10099/10099/14607.ts
-#EXTINF:-1,HBO Signature ESP
-http://plus-tv.us:8080/live/10099/10099/14608.ts
-#EXTINF:-1,SHOWTIME ESP
-http://plus-tv.us:8080/live/10099/10099/14609.ts
-#EXTINF:-1,HBO
-http://plus-tv.us:8080/live/10099/10099/14610.ts
-#EXTINF:-1,HBO Latino
-http://plus-tv.us:8080/live/10099/10099/14611.ts
-#EXTINF:-1,American Horrors
-http://plus-tv.us:8080/live/10099/10099/14613.ts
-#EXTINF:-1,Sundance
-http://plus-tv.us:8080/live/10099/10099/14614.ts
-#EXTINF:-1,A&E
-http://plus-tv.us:8080/live/10099/10099/14615.ts
-#EXTINF:-1,Paramount
-http://plus-tv.us:8080/live/10099/10099/14616.ts
-#EXTINF:-1,USA Network
-http://plus-tv.us:8080/live/10099/10099/14617.ts
-#EXTINF:-1,HBO Family
-http://plus-tv.us:8080/live/10099/10099/14618.ts
-#EXTINF:-1,Hbo Siganture
-http://plus-tv.us:8080/live/10099/10099/14619.ts
-#EXTINF:-1,Fox News
-http://plus-tv.us:8080/live/10099/10099/14620.ts
-#EXTINF:-1,Fox NY
-http://plus-tv.us:8080/live/10099/10099/14621.ts
-#EXTINF:-1,ABC
-http://plus-tv.us:8080/live/10099/10099/14622.ts
-#EXTINF:-1,CBS
-http://plus-tv.us:8080/live/10099/10099/14623.ts
-#EXTINF:-1,HBO Comedy
-http://plus-tv.us:8080/live/10099/10099/14624.ts
-#EXTINF:-1,BBC America
-http://plus-tv.us:8080/live/10099/10099/14625.ts
-#EXTINF:-1,Boomerang
-http://plus-tv.us:8080/live/10099/10099/14626.ts
-#EXTINF:-1,Bravo TV
-http://plus-tv.us:8080/live/10099/10099/14627.ts
-#EXTINF:-1,Tru TV
-http://plus-tv.us:8080/live/10099/10099/14628.ts
-#EXTINF:-1,Cooking Channel
-http://plus-tv.us:8080/live/10099/10099/14629.ts
-#EXTINF:-1,DIY Premium
-http://plus-tv.us:8080/live/10099/10099/14630.ts
-#EXTINF:-1,Discovery Velocity
-http://plus-tv.us:8080/live/10099/10099/14631.ts
-#EXTINF:-1,Own Channel
-http://plus-tv.us:8080/live/10099/10099/14632.ts
-#EXTINF:-1,El Rey Network
-http://plus-tv.us:8080/live/10099/10099/14633.ts
-#EXTINF:-1,FXM
-http://plus-tv.us:8080/live/10099/10099/14634.ts
-#EXTINF:-1,HBO West
-http://plus-tv.us:8080/live/10099/10099/14635.ts
-#EXTINF:-1,CBS MIAMI
-http://plus-tv.us:8080/live/10099/10099/14636.ts
-#EXTINF:-1,CNN
-http://plus-tv.us:8080/live/10099/10099/14637.ts
-#EXTINF:-1,CBS Houston
-http://plus-tv.us:8080/live/10099/10099/14638.ts
-#EXTINF:-1,H2
-http://plus-tv.us:8080/live/10099/10099/14639.ts
-#EXTINF:-1,NBC
-http://plus-tv.us:8080/live/10099/10099/14640.ts
-#EXTINF:-1,HGTV HD
-http://plus-tv.us:8080/live/10099/10099/14641.ts
-#EXTINF:-1,HGTV
-http://plus-tv.us:8080/live/10099/10099/14642.ts
-#EXTINF:-1,ESPN DEPORTES HD
-http://plus-tv.us:8080/live/10099/10099/14643.ts
-#EXTINF:-1,US  | TENNIS CHANEL
-http://plus-tv.us:8080/live/10099/10099/14645.ts
-#EXTINF:-1,UFC TV
-http://plus-tv.us:8080/live/10099/10099/14646.ts
-#EXTINF:-1,FIGHTING SPORTS
-http://plus-tv.us:8080/live/10099/10099/14647.ts
-#EXTINF:-1,Eleven Sports
-http://plus-tv.us:8080/live/10099/10099/14648.ts
-#EXTINF:-1,ESPN
-http://plus-tv.us:8080/live/10099/10099/14649.ts
-#EXTINF:-1,ESPN News
-http://plus-tv.us:8080/live/10099/10099/14650.ts
-#EXTINF:-1,ESPN U
-http://plus-tv.us:8080/live/10099/10099/14651.ts
-#EXTINF:-1,Fight Network
-http://plus-tv.us:8080/live/10099/10099/14652.ts
-#EXTINF:-1,Fox Sports 1
-http://plus-tv.us:8080/live/10099/10099/14653.ts
-#EXTINF:-1,Fox Sports 2
-http://plus-tv.us:8080/live/10099/10099/14654.ts
-#EXTINF:-1,Fox Soccer Plus
-http://plus-tv.us:8080/live/10099/10099/14655.ts
-#EXTINF:-1,GINX eSports
-http://plus-tv.us:8080/live/10099/10099/14656.ts
-#EXTINF:-1,Golf Channel
-http://plus-tv.us:8080/live/10099/10099/14657.ts
-#EXTINF:-1,LongHorn Network
-http://plus-tv.us:8080/live/10099/10099/14658.ts
-#EXTINF:-1,MLB Network
-http://plus-tv.us:8080/live/10099/10099/14659.ts
-#EXTINF:-1,MSG
-http://plus-tv.us:8080/live/10099/10099/14660.ts
-#EXTINF:-1,MSNBC
-http://plus-tv.us:8080/live/10099/10099/14661.ts
-#EXTINF:-1,NBA TV
-http://plus-tv.us:8080/live/10099/10099/14662.ts
-#EXTINF:-1,NFL Network
-http://plus-tv.us:8080/live/10099/10099/14663.ts
-#EXTINF:-1,NHL Network
-http://plus-tv.us:8080/live/10099/10099/14664.ts
-#EXTINF:-1,Outdoor Channel
-http://plus-tv.us:8080/live/10099/10099/14665.ts
-#EXTINF:-1,SNY
-http://plus-tv.us:8080/live/10099/10099/14666.ts
-#EXTINF:-1,Yes Network
-http://plus-tv.us:8080/live/10099/10099/14667.ts
-#EXTINF:-1,TVG
-http://plus-tv.us:8080/live/10099/10099/14668.ts
-#EXTINF:-1,GOLTV ENG
-http://plus-tv.us:8080/live/10099/10099/14669.ts
-#EXTINF:-1,NBCSN
-http://plus-tv.us:8080/live/10099/10099/14671.ts
-#EXTINF:-1,GOL TV ESP
-http://plus-tv.us:8080/live/10099/10099/14672.ts
-#EXTINF:-1,TUDN
-http://plus-tv.us:8080/live/10099/10099/14673.ts
-#EXTINF:-1,WWE Network
-http://plus-tv.us:8080/live/10099/10099/14674.ts
-#EXTINF:-1,BEIN SPORTS Ñ
-http://plus-tv.us:8080/live/10099/10099/14675.ts
-#EXTINF:-1,ABC New York HD
-http://plus-tv.us:8080/live/10099/10099/14676.ts
-#EXTINF:-1,Showtime 2
-http://plus-tv.us:8080/live/10099/10099/14680.ts
-#EXTINF:-1,Showtime Extreme
-http://plus-tv.us:8080/live/10099/10099/14681.ts
-#EXTINF:-1,Showtime West
-http://plus-tv.us:8080/live/10099/10099/14683.ts
-#EXTINF:-1,Showtime HD
-http://plus-tv.us:8080/live/10099/10099/14684.ts
-#EXTINF:-1,Showtime 2 *
-http://plus-tv.us:8080/live/10099/10099/14685.ts
-#EXTINF:-1,Showtime Extreme *
-http://plus-tv.us:8080/live/10099/10099/14686.ts
-#EXTINF:-1,Showtime Latino
-http://plus-tv.us:8080/live/10099/10099/14687.ts
-#EXTINF:-1,AMC
-http://plus-tv.us:8080/live/10099/10099/14551.ts
-#EXTINF:-1,Discovery ID
-http://plus-tv.us:8080/live/10099/10099/14552.ts
-#EXTINF:-1,CNBC
-http://plus-tv.us:8080/live/10099/10099/14553.ts
-#EXTINF:-1,Comedy Central
-http://plus-tv.us:8080/live/10099/10099/14554.ts
-#EXTINF:-1,Destination America
-http://plus-tv.us:8080/live/10099/10099/14555.ts
-#EXTINF:-1,Discovery Family
-http://plus-tv.us:8080/live/10099/10099/14556.ts
-#EXTINF:-1,Discovery Life
-http://plus-tv.us:8080/live/10099/10099/14557.ts
-#EXTINF:-1,Discovery Science
-http://plus-tv.us:8080/live/10099/10099/14558.ts
-#EXTINF:-1,Food Network
-http://plus-tv.us:8080/live/10099/10099/14559.ts
-#EXTINF:-1,FX
-http://plus-tv.us:8080/live/10099/10099/14560.ts
-#EXTINF:-1,FXX
-http://plus-tv.us:8080/live/10099/10099/14561.ts
-#EXTINF:-1,Hallmark
-http://plus-tv.us:8080/live/10099/10099/14562.ts
-#EXTINF:-1,Hallmark Drama
-http://plus-tv.us:8080/live/10099/10099/14563.ts
-#EXTINF:-1,History Channel
-http://plus-tv.us:8080/live/10099/10099/14564.ts
-#EXTINF:-1,Lifetime
-http://plus-tv.us:8080/live/10099/10099/14565.ts
