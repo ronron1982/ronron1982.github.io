@@ -16,16 +16,31 @@ http://livetv.dnsfor.me/channel.9.m3u8
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW新聞台
-http://teslagram.com/live/channel_332.m3u8
+http://livetv.dnsfor.me/channel.4.m3u8 
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
-http://teslagram.com/live/channel_331.m3u8
+http://livetv.dnsfor.me/channel.3.m3u8 
+
+#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW Sport
+http://livetv.dnsfor.me/channel.4.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" group-title="香港",NOW Sport Prime
 http://livetv.dnsfor.me/channel.12.m3u8 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台 
-http://m.567it.com/jade.m3u8
+http://livetv.dnsfor.me/channel.18.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線J2 
+http://livetv.dnsfor.me/channel.19.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線新聞台 
+http://livetv.dnsfor.me/channel.10.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線財經台 
+http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="香港",港台電視 31
 http://livetv.dnsfor.me/channel.1.m3u8
