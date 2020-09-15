@@ -9,6 +9,17 @@ http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5ca9b975cc.png" group-title="香港",有線綜合娛樂台
 http://livetv.dnsfor.me/channel.7.m3u8 
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Plus
+https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Plus
+https://www.bloomberg.com/media-manifest/streams/asia.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Plus
+https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
 http://livetv.dnsfor.me/channel.9.m3u8     
 
