@@ -13,10 +13,10 @@ http://livetv.dnsfor.me/channel.7.m3u8
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg Asia
 https://www.bloomberg.com/media-manifest/streams/asia.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Plus
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Live Event
 https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 
 
