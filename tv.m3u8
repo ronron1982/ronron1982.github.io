@@ -117,6 +117,11 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="香港",Animal Planet
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="香港",Animal Planet 2
+http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/899.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/1024px-National_Geographic_Channel.svg.png"  group-title="香港" ,National Geographic HD
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
@@ -146,19 +151,17 @@ http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
 
 
 #EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道
-http://hotiptv.site:8080/gerard097/7846085e1a7b/166530
-
-#EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41563?checkedby:hlscat.com
+http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/109.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="香港",Discovery 調查探索頻道
-http://ott.artmott.com/ID/tracks-v1a1/mono.m3u8
+http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/864.m3u8
 
 #EXTINF:-1 ch-id="求索動物" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="香港",Discovery 動物頻道
 http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228980/01.m3u8?fmt=ts2hls
 
-
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSDW.jpg" group-title="香港",BBC EARTH
+http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/687.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5dbaaba099442.png" group-title="香港",Discovery 探索頻道
 http://randomserver.site:2086/live/crystal/12345/93124.m3u8
@@ -168,13 +171,8 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="香港",Discovery 渦輪頻道
-http://ingrid.ltd:25461/Melon3175/Melon7531/41577
+http://209.222.97.23:8080/margaret/123456/19705
 
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="香港",Discovery 渦輪頻道 2
-http://randomserver.site:2086/live/crystal/12345/92708.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="香港",Discovery 渦輪頻道 3
-http://xcui.vitvabc.xyz:8880/XC_Brazil00000070/66319814/59?checkedby:hlscat.com
 
 
 
@@ -186,17 +184,20 @@ http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="香港",國家地理野生頻道
-http://185.236.229.4:8000/play/a0xt
-
-#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="香港",國家地理野生頻道 2
-http://103.47.132.164/PLTV/88888888/224/3221227157/index.m3u8
+http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/139.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="香港",國家地理歷險頻道
 http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="香港",國家地理 People
+http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/137.m3u8
+
 
 #EXTINF:-1 tvg-id="691"  tvg-logo="http://tv.sason.xyz/logo/ng.png" group-title="香港",國家地理頻道
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-id="691"  tvg-logo="http://tv.sason.xyz/logo/ng.png" group-title="香港",國家地理頻道 2
+http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/138.m3u8
 
 
 #EXTINF:-1 tvg-id="6039"  tvg-logo="http://tv.sason.xyz/logo/dwxq.png" group-title="香港",動物星球頻道 
