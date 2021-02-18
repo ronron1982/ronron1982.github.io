@@ -96,13 +96,6 @@ http://136.243.177.164/HBO2/playlist.m3u8
 http://136.243.177.164/HBO3/playlist.m3u8
 
 
-
-
-
-
-#EXTINF:-1  group-title="KÊNH VIP" tvg-logo="https://api.discovery.com/v1/images/5ca22512d1b3ee5361260d00?aspectRatio=1x1&width=192&key=3020a40c2356a645b4b4",Discovery Channel HD
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="香港",Fox Sports 1 Asia 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 
@@ -959,13 +952,13 @@ http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
 #EXTINF:-1 tvg-id="C4K.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中國",CCTV-4K 超高清
 http://180.97.123.180/sk.live.otvcloud.com/otv/skcc/live/channel51021/2300.m3u8
 #EXTINF:-1 tvg-id="CT1.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="中國",CCTV-1 綜合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225710/index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv1hd.m3u8
 #EXTINF:-1 tvg-id="CT2.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="中國",CCTV-2 財經
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225747/index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
 #EXTINF:-1 tvg-id="CT3.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="中國",CCTV-3 文藝
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225606/index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv3hd.m3u8
 #EXTINF:-1 tvg-id="CT4.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="中國",CCTV-4 中文國際
-http://39.134.157.203/PLTV/88888888/224/3221225641/index.m3u8
+http://121.31.30.90:8085/ysten-business/live/cctv-4/1.m3u8
 #EXTINF:-1 tvg-id="CT6.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="中國",CCTV-6 電影
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225607/index.m3u8
 #EXTINF:-1 tvg-id="CT7.CN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="中國",CCTV-7 軍事
