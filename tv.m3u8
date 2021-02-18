@@ -41,8 +41,24 @@ http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台 
 http://livetv.dnsfor.me/channel.18.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台2
+https://cdn.hkdtmb.com/hls/81/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台3
+http://61.238.6.49:8000/bysid/1
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線J1 
+https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線J2 
 http://livetv.dnsfor.me/channel.19.m3u8
+
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" tvg-name="" group-title="香港",無線電視明珠台
+http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線新聞台 
@@ -69,7 +85,7 @@ http://livetv.dnsfor.me/channel.16.m3u8
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
-#EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO
+#EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO*
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 
 
