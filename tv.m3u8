@@ -53,6 +53,10 @@ http://livetv.dnsfor.me/channel.18.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台2
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="香港",TVB星河頻道
+http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
+
+
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線J1 
