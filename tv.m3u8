@@ -1,6 +1,8 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
+http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台 2
 http://livetv.dnsfor.me/channel.5.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",有線財經資訊台
@@ -8,6 +10,13 @@ http://livetv.dnsfor.me/channel.6.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5ca9b975cc.png" group-title="香港",有線綜合娛樂台
 http://livetv.dnsfor.me/channel.7.m3u8 
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台
+http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線電影台
+rtmp://59.124.75.156/sat/hk042
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Plus
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -44,9 +53,6 @@ http://livetv.dnsfor.me/channel.18.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台2
 https://cdn.hkdtmb.com/hls/81/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線翡翠台3
-http://61.238.6.49:8000/bysid/1
-
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線J1 
@@ -64,8 +70,17 @@ http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線新聞台 
 http://livetv.dnsfor.me/channel.10.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線新聞台 2
+http://ohyeah.gear.host/hktvb.php?id=1
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線財經台 
 http://livetv.dnsfor.me/channel.11.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線財經台 2 
+http://ohyeah.gear.host/hktvb.php?id=2
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線直播台 
+http://ohyeah.gear.host/hktvb.php?id=3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" group-title="香港",港台電視 31
 http://livetv.dnsfor.me/channel.1.m3u8
