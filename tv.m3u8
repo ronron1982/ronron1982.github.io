@@ -1,22 +1,45 @@
 #EXTM3U
+
+
+#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW新聞台
+http://livetv.dnsfor.me/channel.4.m3u8 
+
+#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
+http://livetv.dnsfor.me/channel.3.m3u8 
+
+
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
 http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台 2
-http://livetv.dnsfor.me/channel.5.m3u8
+https://flv3948069e.live.126.net/live/ee6b8cdfbb42cfd1d87967867a61d8f7.flv
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p583cefafeeff7.png" group-title="香港",有線財經資訊台
-http://livetv.dnsfor.me/channel.6.m3u8
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線直播新聞台
+http://teslagram.com/live/channel_110.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5de5ca9b975cc.png" group-title="香港",有線綜合娛樂台
-http://livetv.dnsfor.me/channel.7.m3u8 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台
-http://93.190.139.36:8278/streams/d/hk03_twn/playlist.m3u8
+http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台
-rtmp://59.124.75.156/sat/hk042
+http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台 2
+https://flv3948069e.live.126.net/live/558777ce86fcbff9aa3380802461eb6a.flv
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",有線603台
+http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",有線603台 2
+https://flv3948069e.live.126.net/live/9ac506df74632e04a00e3e46a7711741.flv
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" group-title="香港",有線體育台
+http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1e/Sports_Plus.png" group-title="香港",有線SPORT PLUS
+http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" group-title="香港",Bloomberg US Plus
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
@@ -33,13 +56,7 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 http://livetv.dnsfor.me/channel.9.m3u8     
 
 #EXTINF:-1 tvg-logo="https://www.hkatv.com/images/logo.png" group-title="香港",亞洲電視台
-https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-
-#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW新聞台
-http://livetv.dnsfor.me/channel.4.m3u8 
-
-#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
-http://livetv.dnsfor.me/channel.3.m3u8 
+#https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW Sport
 http://livetv.dnsfor.me/channel.4.m3u8
@@ -64,7 +81,7 @@ https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/53240
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線J2 
-http://livetv.dnsfor.me/channel.19.m3u8
+#http://livetv.dnsfor.me/channel.19.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" tvg-name="" group-title="香港",無線電視明珠台
 http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -105,27 +122,27 @@ http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO 1
-http://136.243.177.164/HBO/playlist.m3u8
+#http://136.243.177.164/HBO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO 2
-http://136.243.177.164/HBO2/playlist.m3u8
+#http://136.243.177.164/HBO2/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO 3
-http://136.243.177.164/HBO3/playlist.m3u8
+#http://136.243.177.164/HBO3/playlist.m3u8
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn09_pc.png" group-title="香港",博斯網球
-rtmp://59.124.75.156/sat/md011
+#rtmp://59.124.75.156/sat/md011
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn04_pc.png" group-title="香港",博斯魅力台
-rtmp://59.124.75.156/sat/md031
+#rtmp://59.124.75.156/sat/md031
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn08_pc.png" group-title="香港",博斯運動1台
-rtmp://59.124.75.156/sat/md021
+#rtmp://59.124.75.156/sat/md021
 
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="香港",緯來體育台
-rtmp://59.124.75.156/sat/tv721
+#rtmp://59.124.75.156/sat/tv721
 
 #EXTINF:-1 tvg-logo="http://tv.foxsportsasia.com/logos/logo_foxsports.png" group-title="香港",Fox Sports 1 Asia 
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
@@ -144,6 +161,28 @@ https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png",Fox Life HD
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,求索記錄 FHD
+http://39.134.65.162/PLTV/88888888/224/3221225713/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,求索生活 FHD
+http://39.134.65.162/PLTV/88888888/224/3221225715/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,求索科學 FHD
+http://39.134.65.162/PLTV/88888888/224/3221225728/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,求索動物 FHD
+http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
+
+
+
+
+
 
 #EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,Discovery Channel
 https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
@@ -180,13 +219,6 @@ http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_
 http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GZTVJingsai.cn.png",广州综合频道高清
 
-
-
-
-
-
-#EXTINF:-1 ch-id="TVB星河频道" tvg-logo="https://static.iptv-epg.com/hk/TVBPearl.hk.png" group-title="香港",TVB星河频道
-http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 
 
 
