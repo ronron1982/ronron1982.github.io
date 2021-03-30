@@ -9,10 +9,7 @@ http://livetv.dnsfor.me/channel.3.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台 2
-https://flv3948069e.live.126.net/live/ee6b8cdfbb42cfd1d87967867a61d8f7.flv
+https://flv3948069e.live.126.net:443/live/c69933167b9ddc219daa543ae0b7424b.flv
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
