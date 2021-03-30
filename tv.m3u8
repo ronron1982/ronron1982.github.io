@@ -73,7 +73,8 @@ https://cdn.hkdtmb.com/hls/81/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="香港",TVB星河頻道
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" group-title="香港",TVB星河頻道 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" group-title="香港",無線J1 
@@ -120,25 +121,41 @@ http://livetv.dnsfor.me/channel.16.m3u8
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" group-title="香港",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 
+#EXTINF:-1 tvg-id=AXN.Asia" tvg-ID="AXN.Asia" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="香港",AXN
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13021&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-id=AXN.Asia" tvg-ID="AXN.Asia" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="香港",AXN 2
+http://210.210.155.66/h/h141/01.m3u8
+
+
+#EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="香港",Cinemax
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13022&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO 1
-#http://136.243.177.164/HBO/playlist.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13001&key=84797b799ae
 
-#EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO 2
-#http://136.243.177.164/HBO2/playlist.m3u8
+#EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO HITS
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13002&key=84797b799ae18d1b
 
+#EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO FAMILY
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13003&key=84797b799ae18d1b
 
-#EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO 3
-#http://136.243.177.164/HBO3/playlist.m3u8
+#EXTINF:-1 tvg-id="6152"  tvg-logo="http://tv.sason.xyz/logo/hbo.png" group-title="香港",HBO SIGNATURE
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13004&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn09_pc.png" group-title="香港",博斯網球
-#rtmp://59.124.75.156/sat/md011
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12010&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn04_pc.png" group-title="香港",博斯魅力台
-#rtmp://59.124.75.156/sat/md031
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12009&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn08_pc.png" group-title="香港",博斯運動1台
-#rtmp://59.124.75.156/sat/md021
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12005&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn08_pc.png" group-title="香港",博斯運動2台
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12006&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn10_pc.png" group-title="香港",博斯無限
 
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="http://sport.videoland.com.tw/images/spt_logo-2.png" group-title="香港",緯來體育台
@@ -184,17 +201,6 @@ http://39.134.65.162/PLTV/88888888/224/3221225730/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,Discovery Channel
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Discovery Asia
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Discovery TLC
-https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Asian Food Network
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Outdoor_Channel.svg/1200px-Outdoor_Channel.svg.png" group-title="香港" ,Outdoor Channel
@@ -204,7 +210,7 @@ https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/1280px-2018_Animal_Planet_logo.svg.png" group-title="香港",動物星球頻道 2
-http://cdn1.stbconnect.com:25461/live/VROVQVALYX/TLIouEBlcB/899.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13014&key=84797b799ae18d1b
 
 
 
@@ -223,15 +229,38 @@ http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_
 
 
 #EXTINF:-1 tvg-id="Ani.Asia" tvg-logo="https://static.epg.best/kr/Animax.kr.png" group-title="香港",Animax
-http://103.47.132.164/PLTV/88888888/224/3221227145/index.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13020&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-id="DIS.MY" tvg-logo="https://static.epg.best/es/DisneyChannel.es.png" group-title="香港",Disney Channel
-http://103.47.132.164/PLTV/88888888/224/3221227183/index.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13019&key=84797b799ae18d1b
+
+
+#EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,Discovery Channel
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://effectv.com/sites/default/files/networks/Discovery%20Stacked.png" group-title="香港" ,Discovery Channel 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13008&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Discovery Asia 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13009&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Discovery TLC
+https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Discovery TLC 2
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13013&key=84797b799ae18d1b
+
+
+
+#EXTINF:-1 tvg-logo="https://cms.cignal.tv/Upload/Images/Discovery-Asia.png" group-title="香港",Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
 
 
 #EXTINF:tvg-logo="https://f0.pngfuel.com/png/612/210/discovery-channel-television-channel-television-show-discovery-hd-science-png-clip-art.png"group-title="香港",Discovery 科學頻道
-http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/109.m3u8
-
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13010&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/InvestigationDiscovery.us.png" group-title="香港",Discovery 調查探索頻道
 http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/864.m3u8
@@ -250,20 +279,22 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228983/01.m3u8?fmt=
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/au/DiscoveryTurbo.au.png" group-title="香港",Discovery 渦輪頻道
-http://209.222.97.23:8080/margaret/123456/19705
+#http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
 
-
-
-
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/265/474/png-clipart-logo-brand-isuzu-d-max-font-product-7-logo-angle-text.png" group-title="香港",DMAX
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_3_13011&key=84797b799ae18d1b
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Discovery_History_logo.svg/1280px-Discovery_History_logo.svg.png" group-title="香港",Discovery History
 http://178.132.3.162:88/Discovery_History/video.m3u8?token=test
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/1280px-Cartoon_Network_2010_logo.svg.png" group-title="香港",CN卡通頻道
+
+
 
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" group-title="香港",國家地理野生頻道
-http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/139.m3u8
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_1_11008&key=84797b799ae18d1b
 
 #EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png" group-title="香港",國家地理歷險頻道
 http://103.47.132.164/PLTV/88888888/224/3221227127/index.m3u8
@@ -602,8 +633,7 @@ https://tv-trtworld.live.trt.com.tr/master_1080.m3u8
 http://live.highstream.club/live/AMC/playlist.m3u8
 #EXTINF:-1 tvg-ID="CIN.Asia" tvg-logo="https://cinemaworld.asia/wp-content/uploads/2019/08/CMW-Logo_Gold.png" group-title="電影",CinemaWorld
 http://210.210.155.66/h/h04/01.m3u8
-#EXTINF:-1 tvg-ID="CNX.Asia" tvg-logo="https://static.epg.best/id/CineMax.id.png" group-title="電影",Cinemax
-http://111.13.111.192/211.75.9.37:20020/20023
+
 #EXTINF:-1 tvg-ID="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" group-title="電影",HBO
 http://220.158.149.28:8180/live/TV00000000000000000166@HHZT
 #EXTINF:-1 tvg-ID="FXM.Asia" tvg-logo="http://static.epg.best/us/FX.us.png" group-title="電影",FX
@@ -647,8 +677,7 @@ http://145.239.255.4:8080/TCMUK/mono.m3u8?token=test
 https://adultswimtv.warnermediacdn.com/hls/live/2007031/livestream/master_Layer7.m3u8
 #EXTINF:-1 tvg-id="AHC.US" tvg-logo="https://static.epg.best/us/AmericanHeroesChannel.us.png" group-title="美國",AHC
 http://live.highstream.club/live/AHC/playlist.m3u8
-#EXTINF:-1 tvg-id=AXN.Asia" tvg-ID="AXN.Asia" tvg-logo="http://static.epg.best/id/AXN.id.png" group-title="美國",AXN
-http://210.210.155.66/h/h141/01.m3u8
+
 #EXTINF:-1 tvg-id="BBA.US" tvg-logo="https://static.epg.best/us/BBCAmerica.us.png" group-title="美國",BBC America
 http://live.highstream.club/live/AE/playlist.m3u8
 #EXTINF:-1 tvg-id="BTA.US" tvg-logo="https://static.epg.best/us/Bravo.us.png" group-title="美國",Bravo
