@@ -9,14 +9,14 @@ http://livetv.dnsfor.me/channel.3.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-https://flv3948069e.live.126.net:443/live/c69933167b9ddc219daa543ae0b7424b.flv
+http://v3948069e.live.126.net/live/yxxw123456789.flv
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台
-http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
+http://v3948069e.live.126.net/live/yxdy.flv
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台
@@ -310,10 +310,10 @@ http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/138.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台 
-http://39.135.34.134:8080/000000001000/1000000004000011655/1.m3u8?i
+http://106.53.212.251/daili/gztv.php?id=zjpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視 
-http://192.154.103.75:8080/ZZ_nanfangdianshitai/ZZ_nanfangdianshitai.m3u8
+http://nclive.grtn.cn/tvs2/sd/live.m3u8
 
 
 
