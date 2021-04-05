@@ -7,8 +7,10 @@ http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
 http://livetv.dnsfor.me/channel.3.m3u8 
 
-
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
+http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=5
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台2
 http://v3948069e.live.126.net/live/yxxw123456789.flv
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線直播新聞台
@@ -16,21 +18,25 @@ http://teslagram.com/live/channel_110.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台
+http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=9
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台 2
 http://v3948069e.live.126.net/live/yxdy.flv
 
 
+
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台
-http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
+http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台 2
-https://flv3948069e.live.126.net/live/558777ce86fcbff9aa3380802461eb6a.flv
+http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",有線603台
-http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
+http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=7
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",有線603台 2
-https://flv3948069e.live.126.net/live/9ac506df74632e04a00e3e46a7711741.flv
+http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" group-title="香港",有線體育台
 http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
