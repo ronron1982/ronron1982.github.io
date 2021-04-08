@@ -76,21 +76,18 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=84797b799ae18d1b
 http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=84797b799ae18d1b
 
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" ,無線新聞台 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" ,無線新聞台 
 http://livetv.dnsfor.me/channel.10.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" ,無線新聞台 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" ,無線新聞台 2
 http://ohyeah.gear.host/hktvb.php?id=1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" ,無線財經台 
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" ,無線財經台 
 http://livetv.dnsfor.me/channel.11.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" ,無線財經台 2 
+#EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" ,無線財經台 2 
 http://ohyeah.gear.host/hktvb.php?id=2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" ,無線直播台 
-http://ohyeah.gear.host/hktvb.php?id=3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" ,港台電視 31
 http://livetv.dnsfor.me/channel.1.m3u8
@@ -346,8 +343,32 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12013&key=84797b799ae18d1b
 #EXTINF:-1 tvg-id="691"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/MOD_CH279_EYE_TV%E6%97%85%E9%81%8A%E5%8F%B0.png" ,EYE TV旅遊
 http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=84797b799ae18d1b
 
-#EXTINF:-1 tvg-id="691"  tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/MOD_CH279_EYE_TV%E6%97%85%E9%81%8A%E5%8F%B0.png" ,EYE TV旅遊
-http://96.44.140.132:18006/view.php?type=m3u8&id=cn_0_8807&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,東風衛視
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12015&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,年代MUCH
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12016&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,年代新聞,
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12017&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,JET綜合
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12018&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,龍翔時代
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12019&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,霹靂台灣台
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12020&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,MOMO親子台
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12021&key=84797b799ae18d1b
+
+#EXTINF:-1 tvg-logo=" " ,國興衛視
+http://96.44.140.132:18006/view.php?type=m3u8&id=cn_2_12022&key=84797b799ae18d1b
+
+
 
 #EXTINF:-1 tvg-id="691"  tvg-logo="https://netflash.net/wp-content/uploads/2015/11/nba_tv_ca.png" ,NBA動態
 
