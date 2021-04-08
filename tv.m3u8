@@ -7,35 +7,20 @@ http://livetv.dnsfor.me/channel.4.m3u8
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" group-title="香港",NOW直播台
 http://livetv.dnsfor.me/channel.3.m3u8 
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
-http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=5
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台2
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線新聞台
 http://v3948069e.live.126.net/live/yxxw123456789.flv
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" group-title="香港",有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台
-http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=9
-
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台 2
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" group-title="香港",有線電影台 
 http://v3948069e.live.126.net/live/yxdy.flv
 
-
-
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台
-http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=8
-
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台 2
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" group-title="香港",有線18台 
 http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",有線603台
-http://qj.yyrjdp.cn/jiuban/daili/iptv9444.php?id=7
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",有線603台 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" group-title="香港",有線603台 
 http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/05/I-CABLE_Sports_Channel.png" group-title="香港",有線體育台
@@ -224,6 +209,10 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东珠江频道
 http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东珠江频道2
+http://cdn.chxjon.cn/iptv/QQ582185381/gdtv1.php?id=gdzj
+
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东体育频道高清
 http://116.199.5.52:8114/index.m3u8?FvSeid=1&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=8&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=.m3u8&Fsv_CMSID=&Fsv_otype=1
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GZTVJingsai.cn.png",广州综合频道高清
@@ -318,10 +307,14 @@ http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/138.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台 
 http://106.53.212.251/daili/gztv.php?id=zjpd
 
+#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/cn/GuangdongPearlRiver.cn.png" group-title="中國",珠江台 2
+http://cdn.chxjon.cn/iptv/QQ582185381/gdtv1.php?id=gdzj
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視 
 http://nclive.grtn.cn/tvs2/sd/live.m3u8
 
-
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a0/Tvs-logo-4.png" group-title="中國",南方衛視 2
+http://cdn.chxjon.cn/iptv/QQ582185381/gdtv1.php?id=nfws
 
 
 
