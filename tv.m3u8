@@ -9,7 +9,7 @@ http://livetv.dnsfor.me/channel.3.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線新聞台
-http://v3948069e.live.126.net/live/yxxw123456789.flv
+http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
@@ -64,6 +64,8 @@ http://96.44.140.132:18006/view.php?type=m3u8&id=c_58031&key=84797b799ae18d1b
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/17/TVB_Xing_He_logo_2017.png" ,TVB星河頻道 2
 http://50.7.161.82:8278/streams/d/Xinhe/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/98_144.png" group-title="HONGKONG/MACAU",TVB经典台
+http://51.79.208.146:61980/myplay/c_58029/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" ,無線J1 
 https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
