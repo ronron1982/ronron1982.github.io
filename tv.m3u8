@@ -9,13 +9,16 @@ http://livetv.dnsfor.me/channel.3.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線新聞台
-http://93.190.139.36:8278/streams/d/hkcnews_twn/playlist.m3u8
+https://api.leonardpark.dev/live/icable/109
+
+#EXTINF:-1 tvg-logo="http://www.i-cablecomm.com/pp/admin/business/paytv/upload/08.png" ,有線財經資訊台
+https://api.leonardpark.dev/live/icable/108
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" ,有線電影台 
-http://v3948069e.live.126.net/live/yxdy.flv
+http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" ,有線18台 
 http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
@@ -28,6 +31,15 @@ http://z1.ubtvfans.com/live/401/6d972b4b80bd8ff1ac15eb3352c76bbb/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/1/1e/Sports_Plus.png" ,有線SPORT PLUS
 http://z1.ubtvfans.com/live/356/c3380a31465842258f44c7a9b9d2ea8d/index.m3u8
+
+
+#EXTINF:tvg-logo=“http://singteltv.com.sg/_channels/pic_ch585.jpg“,天映电影频道
+http://50.7.161.82:8278/streams/d/Celestial/playlist.m3u8
+
+#EXTINF:tvg-logo=“http://singteltv.com.sg/_channels/pic_ch585.jpg“,天映經典电影频道
+http://50.7.161.82:8278/streams/d/Celestial2/playlist.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Nd9z70.png" ,Bloomberg US Plus
 https://www.bloomberg.com/media-manifest/streams/phoenix-us.m3u8
