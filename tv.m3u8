@@ -4,10 +4,6 @@
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" ,NOW新聞台
 http://livetv.dnsfor.me/channel.4.m3u8 
 
-#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" ,NOW直播台
-http://livetv.dnsfor.me/channel.3.m3u8 
-
-
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線新聞台
 https://api.leonardpark.dev/live/icable/109
 
@@ -15,13 +11,38 @@ https://api.leonardpark.dev/live/icable/109
 https://api.leonardpark.dev/live/icable/108
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線直播新聞台
-http://teslagram.com/live/channel_110.m3u8
+https://api.leonardpark.dev/live/icable/110
+
+#EXTINF:-1 tvg-logo="https://ftp.i-cable.com/iott_images/601_landscape.png" ,有線奧運601台
+https://api.leonardpark.dev/live/icable/601
+
+#EXTINF:-1 tvg-logo="https://ftp.i-cable.com/iott_images/602_landscape.png" ,有線奧運602台
+https://api.leonardpark.dev/live/icable/602
+
+
+#EXTINF:-1 tvg-logo="https://ftp.i-cable.com/iott_images/603_landscape.png" ,有線奧運603台
+https://api.leonardpark.dev/live/icable/603
+
+
+#EXTINF:-1 tvg-logo="https://ftp.i-cable.com/iott_images/604_landscape.png" ,有線奧運604台
+https://api.leonardpark.dev/live/icable/604
+
+
+#EXTINF:-1 tvg-logo="https://ftp.i-cable.com/iott_images/605_landscape.png" ,有線奧運605台
+https://api.leonardpark.dev/live/icable/605
+
+
+
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" ,有線電影台 
 http://z1.ubtvfans.com/live/354/e33d6e97afec4bc4b5fac7e1a7c343a4/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" ,有線18台 
-http://z1.ubtvfans.com/live/44/05a8fcf4c14bd564dfa2cacba9442d06/index.m3u8
+rtmp://59.124.75.153/sat/hk042
+
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p56b0354439d1f.png" ,有線18台 2
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-HR-NO/02.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/2/26/Hd_603_logo.png/220px-Hd_603_logo.png" ,有線603台 
 http://z1.ubtvfans.com/live/398/0cd0e3d1ca2a6ced2e2830970354a579/index.m3u8
@@ -84,23 +105,23 @@ https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/53240
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/0/02/TVB_Jade.jpg" ,無線J2 
-http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1002&key=84797b799ae18d1b
+https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" tvg-name="" ,無線明珠台
-http://96.44.140.132:18006/view.php?type=m3u8&id=sz_1004&key=84797b799ae18d1b
+https://cdn.hkdtmb.com/hls/84/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" ,無線新聞台 
 http://livetv.dnsfor.me/channel.10.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" ,無線新聞台 2
-http://ohyeah.gear.host/hktvb.php?id=1
+http://ye23.win/iptv/tvb.php?id=1
 
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" ,無線財經台 
 http://livetv.dnsfor.me/channel.11.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.nettv.live/uploads/19/1-1ZFQ03HV33.jpg" ,無線財經台 2 
-http://ohyeah.gear.host/hktvb.php?id=2
+http://ye23.win/iptv/tvb.php?id=2
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/330px-RTHK_TV_31.svg.png" ,港台電視 31
@@ -109,9 +130,9 @@ http://livetv.dnsfor.me/channel.1.m3u8
 http://livetv.dnsfor.me/channel.2.m3u8
 
 #EXTINF:-1 tvg-id="0"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 96
-http://hls.globaliptv.ml/viu96.php
+https://cdn.hkdtmb.com/hls/96/index.m3u8
 #EXTINF:-1 tvg-id="408"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 99
-http://hls.globaliptv.ml/viu99.php
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" ,鳳凰香港台
