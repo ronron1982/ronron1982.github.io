@@ -4,6 +4,12 @@
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" ,NOW新聞台
 http://livetv.dnsfor.me/channel.4.m3u8 
 
+#EXTINF:-1 tvg-id="0"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 96
+https://cdn.hkdtmb.com/hls/96/index.m3u8
+#EXTINF:-1 tvg-id="408"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 99
+https://cdn.hkdtmb.com/hls/99/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線新聞台
 https://api.leonardpark.dev/live/icable/109
 
@@ -129,10 +135,6 @@ http://livetv.dnsfor.me/channel.1.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/220px-RTHK_TV_32.svg.png" ,港台電視 32
 http://livetv.dnsfor.me/channel.2.m3u8
 
-#EXTINF:-1 tvg-id="0"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 96
-https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="408"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 99
-https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" ,鳳凰香港台
