@@ -1,20 +1,27 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線新聞台
+https://api.leonardpark.dev/live/icable/109
 
 #EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" ,NOW新聞台
 http://livetv.dnsfor.me/channel.4.m3u8 
 
+
+#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" ,NOW直播台
+https://api.leonardpark.dev/live/now/331
+
 #EXTINF:-1 tvg-id="0"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 96
 https://cdn.hkdtmb.com/hls/96/index.m3u8
+
 #EXTINF:-1 tvg-id="408"  tvg-logo="https://static.viu.tv/viutv_logo.png" ,ViuTV 99
 https://cdn.hkdtmb.com/hls/99/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線新聞台
-https://api.leonardpark.dev/live/icable/109
-
 #EXTINF:-1 tvg-logo="http://www.i-cablecomm.com/pp/admin/business/paytv/upload/08.png" ,有線財經資訊台
 https://api.leonardpark.dev/live/icable/108
+
+#EXTINF:-1 tvg-logo="https://rb.gy/z4axvr" ,有線綜合娛樂台
+http://gslbmeiah.cdn.hk.chinamobile.com/livehls/MOB-CN/03.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r100x30/p5a30d6679429a.png" ,有線直播新聞台
 https://api.leonardpark.dev/live/icable/110
@@ -36,6 +43,9 @@ https://api.leonardpark.dev/live/icable/604
 
 #EXTINF:-1 tvg-logo="https://ftp.i-cable.com/iott_images/605_landscape.png" ,有線奧運605台
 https://api.leonardpark.dev/live/icable/605
+
+#EXTINF:-1 tvg-id="76" tvg-name="香港國際財經台" tvg-logo="https://www.hkdtmb.com/png_logo/76.png" ,香港國際財經台
+https://cdn.hkdtmb.com/hls/76/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cabletv.com.hk/file/tv_channel/_r180x35/p5de5c9b125c5c.png" ,有線電影台 
@@ -70,9 +80,6 @@ https://www.bloomberg.com/media-manifest/streams/us-event.m3u8
 #EXTINF:-1 tvg-logo="http://www.hkopentv.com/assets/images/opentv_logo.png" ,香港開電視
 http://livetv.dnsfor.me/channel.9.m3u8     
 
-#EXTINF:-1 tvg-logo="http://news.now.com/revamp2014/images/news_logo_400.png" ,NOW Sport
-http://livetv.dnsfor.me/channel.4.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-c.png" ,NOW Sport Prime
 http://livetv.dnsfor.me/channel.12.m3u8 
 
@@ -96,7 +103,7 @@ https://bcovlive-a.akamaihd.net/92d1fb6f11854eafb1b183f2565558c9/us-west-2/53240
 https://cdn.hkdtmb.com/hls/82/index.m3u8
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0a/Logo_of_TVB_Pearl.png" ,無線明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+https://cdn.hkdtmb.com/hls/84b/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png" ,無線新聞台 
@@ -223,6 +230,27 @@ https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="691"  tvg-logo="http://tv.sason.xyz/logo/ng.png" ,國家地理頻道 2
 http://iptvbroadcast.ddns.net:25461/live/Niaz2020/Niaz2020/138.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoWild.id.png" ,國家地理野生頻道
+http://50.7.161.82:8278/streams/d/Natgeowild/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.epg.best/id/NatGeoPeople.id.png",國家地理 People
+http://185.180.221.194:8278/streams/d/Natgeopeople/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo.png" , HBO
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbo.m3u8
+
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_hits.png" , HBO Hits
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbohit.m3u8
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_family.png" , HBO Family
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbofam.m3u8
+#EXTINF:-1 tvg-logo="https://x1.cdn.broiptv.com/img/hbo_signature.png", HBO Signature
+https://raw.githubusercontent.com/angahjee1994/tv/master/hbosig.m3u8
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/9488554_ico.png" ,CINEMAX
+https://raw.githubusercontent.com/angahjee1994/tv/master/cinemax.m3u8
+
+
+
+
 #EXTINF:-1 tvg-id="691"  tvg-logo="https://e7.pngegg.com/pngimages/731/279/png-clipart-babytv-television-channel-television-show-child-child-television-child.png" ,BabyTV卡通
 https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
 
@@ -236,3 +264,192 @@ https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
 
 #EXTINF:-1 tvg-id="6152"  tvg-logo="https://cdnstatic.svc.litv.tv/logo_litv_litv-longturn08_pc.png" ,博斯運動1台
 rtmp://59.124.75.153:1935/sat/md041
+
+
+
+
+#EXTINF:-1 tvg-id="7135" tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="台灣頻道",民視
+rtmp://59.124.75.153/sat/tv051
+#EXTINF:-1 tvg-id="6026" tvg-name="台視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視.png" group-title="台灣頻道",台視
+rtmp://59.124.75.153/sat/tv071
+#EXTINF:-1 tvg-id="6028" tvg-name="中視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視.png" group-title="台灣頻道",中視
+rtmp://59.124.75.153/sat/tv091
+#EXTINF:-1 tvg-id="6030" tvg-name="華視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="台灣頻道",華視
+rtmp://59.124.75.153/sat/tv111
+#EXTINF:-1 tvg-id="6088" tvg-name="緯來育樂台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMaxTV.png" group-title="台灣頻道",緯來育樂
+rtmp://59.124.75.153/sat/tv701
+#EXTINF:-1 tvg-id="6042" tvg-name="MOMO親子台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/MOMOkids.png" group-title="台灣頻道",MoMo綜合台
+rtmp://59.124.75.153/sat/tv761
+#EXTINF:-1 tvg-id="6051" tvg-name="東森超視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCSuper.png" group-title="台灣頻道",東森超視
+rtmp://59.124.75.153/sat/tv771
+#EXTINF:-1 tvg-id="7192" tvg-name="愛爾達體育2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_sports2.png" group-title="台灣頻道",愛爾達體育2
+rtmp://59.124.75.153/sat/md011
+#EXTINF:-1 tvg-id="7212" tvg-name="愛爾達體育1" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports1.png" group-title="台灣頻道",愛爾達體育1
+rtmp://59.124.75.153/sat/md021
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣頻道",ELEVEN+體育
+rtmp://59.124.75.153:1935/sat/md031
+#EXTINF:-1 tvg-id="6180" tvg-name="博斯運動一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/sport-sports_net.png" group-title="台灣頻道",博斯運動1
+rtmp://59.124.75.153:1935/sat/md041
+#EXTINF:-1 tvg-id="7149" tvg-name="ELEVEN體育二台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elevensports2.png" group-title="台灣頻道",ELEVEN2體育
+rtmp://59.124.75.153/sat/md051
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png" group-title="台灣頻道",TVBS新聞
+http://198.16.106.62:8278/streams/d/tvbs_n/playlist.m3u8
+#EXTINF:-1 tvg-id="6060" tvg-name="TVBS歡樂台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS歡樂.png" group-title="台灣頻道",TVBS歡樂
+http://198.16.106.62:8278/streams/d/tvbsgbk_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6074" tvg-name="TVBS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png" group-title="台灣頻道",TVBS
+http://198.16.106.62:8278/streams/d/tvbs/playlist.m3u8
+#EXTINF:-1 tvg-id="6054" tvg-name="中天綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiVariety.png" group-title="台灣頻道",中天綜合
+http://198.16.106.62:8278/streams/d/ctizhonghe/playlist.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="台灣頻道",民視
+http://198.16.106.62:8278/streams/d/ftvhd_taiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="7134" tvg-name="民視台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台灣頻道",民視台灣台
+http://198.16.106.62:8278/streams/d/ftvtaiwan_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="6047" tvg-name="三立台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETTaiwan.png" group-title="台灣頻道",三立台灣
+http://198.16.106.62:8278/streams/d/sanlitaiwan/playlist.m3u8
+#EXTINF:-1 tvg-id="6072" tvg-name="三立新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png" group-title="台灣頻道",三立新聞
+http://198.16.106.62:8278/streams/d/sanlinews_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6095" tvg-name="緯來日本台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandJapanese.png" group-title="台灣頻道",緯來日本台
+http://198.16.106.62:8278/streams/d/videolandjapan_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6081" tvg-name="緯來電影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandMovies.png" group-title="台灣頻道",緯來電影台
+http://198.16.106.62:8278/streams/d/videolandmovie_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="緯來精彩台" tvg-logo="https://iptv-pro.github.io/logo/緯來精采台.webp" group-title="台灣頻道",緯來精彩台
+http://198.16.106.62:8278/streams/d/videolandspecial_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6090" tvg-name="緯來體育台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandSportsHD.png" group-title="台灣頻道",緯來體育台
+http://198.16.106.62:8278/streams/d/videolandsport_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6061" tvg-name="緯來戲劇台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandDrama.png" group-title="台灣頻道",緯來戲劇台
+http://198.16.106.62:8278/streams/d/videolandxiju_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6044" tvg-name="緯來綜合台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/VideolandOnTV.png" group-title="台灣頻道",緯來綜合台
+http://198.16.106.62:8278/streams/d/videolandzonghe_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6169" tvg-name="亞洲美食頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="台灣頻道",亞洲美食
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="台灣頻道",美食星球
+http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6172" tvg-name="亞洲旅遊台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/asiatravel.png" group-title="台灣頻道",亞洲旅遊
+http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://iptv-pro.github.io/logo/MTV台灣.png" group-title="台灣頻道",MTV Live
+http://198.16.106.62:8278/streams/d/mtvlive_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7213" tvg-name="愛爾達體育3" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/eata_sports3.png" group-title="台灣頻道",ELTA體育3台
+http://198.16.106.62:8278/streams/d/eltasport3_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7219" tvg-name="愛爾達綜合" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_zonghehd.png" group-title="台灣頻道",ELTA綜合台
+http://198.16.106.62:8278/streams/d/eltazonghe_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7201" tvg-name="愛爾達影劇" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/elta_yingju.png" group-title="台灣頻道",ELTA影劇台
+http://198.16.106.62:8278/streams/d/eltadrama_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣頻道",NatGeo_People
+http://198.16.106.62:8278/streams/d/natgeopeople_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6164" tvg-name="EVE" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EVE.png" group-title="台灣頻道",Discovery Eve
+http://198.16.106.62:8278/streams/d/eve_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6189" tvg-name="BBCEarth" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BBCEarth.png" group-title="台灣頻道",BBC Earth Lifestyle
+http://198.16.106.62:8278/streams/d/bbclifestyle_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7193" tvg-name="LUXETV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/luxetv.png" group-title="台灣頻道",Luxe TV
+http://198.16.106.62:8278/streams/d/luxetv_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6184" tvg-name="Nickelodeon" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Nickelodeon.png" group-title="台灣頻道",Nickelodeon
+http://198.16.106.62:8278/streams/d/Nickelodeon/playlist.m3u8
+#EXTINF:-1 tvg-id="6185" tvg-name="NickJr." tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NickJr.png" group-title="台灣頻道",Nick Jr
+http://198.16.106.62:8278/streams/d/Nickjr/playlist.m3u8
+#EXTINF:-1 tvg-id="708" tvg-name="BabyTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BabyTV.png" group-title="台灣頻道",Baby TV Eng
+http://198.16.106.62:8278/streams/d/Babytv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣頻道",Kids TV
+http://198.16.106.62:8278/streams/d/KidsTV/playlist.m3u8
+#EXTINF:-1 tvg-id="6187" tvg-name="CBeebies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CBeebies.png" group-title="台灣頻道",CBeebies
+http://198.16.106.62:8278/streams/d/Cbeebies/playlist.m3u8
+#EXTINF:-1 tvg-id="6041" tvg-name="Disney" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/Disney.png" group-title="台灣頻道",Disney Channel
+http://198.16.106.62:8278/streams/d/Disneyxd/playlist.m3u8
+#EXTINF:-1 tvg-id="679" tvg-name="DisneyJunior" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DisneyJunior.png" group-title="台灣頻道",Disney Junior
+http://198.16.106.62:8278/streams/d/Disneyjr/playlist.m3u8
+#EXTINF:-1 tvg-id="143" tvg-name="鳳凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="台灣頻道",鳳凰香港台
+http://198.16.106.62:8278/streams/d/hkphoenix_twn/playlist.m3u8
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="台灣頻道",翡翠台
+http://198.16.106.62:8278/streams/d/Wlt/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="台灣頻道",astor AOD
+http://198.16.106.62:8278/streams/d/AodHD/playlist.m3u8
+#EXTINF:-1 tvg-id="6097" tvg-name="FOX" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXHD.png" group-title="台灣頻道",FOX
+http://198.16.106.62:8278/streams/d/foxhd_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6038" tvg-name="TLC旅遊生活頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png" group-title="台灣頻道",TLC旅遊生活
+http://198.16.106.62:8278/streams/d/tlcasia_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="354" tvg-name="FOXCRIME" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXCRIME.png" group-title="台灣頻道",FOX犯罪電影
+http://198.16.106.62:8278/streams/d/foxcrime_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="870" tvg-name="FOXActionMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FOXActionMovies.png" group-title="台灣頻道",FOX動作電影
+http://198.16.106.62:8278/streams/d/foxaction_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="710" tvg-name="FoxFamilyMovies" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FoxFamilyMovies.png" group-title="台灣頻道",FOX家庭電影
+http://198.16.106.62:8278/streams/d/foxfamily_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6154" tvg-name="HBOSignature" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBOSignature.png" group-title="台灣頻道",HBO原創電影
+http://198.16.106.62:8278/streams/d/hbosignature_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="6169" tvg-name="亞洲美食頻道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/afc.png" group-title="台灣頻道",Food亞洲美食
+http://198.16.106.62:8278/streams/d/asiafood_zero/playlist.m3u8
+#EXTINF:-1 tvg-id="7216" tvg-name="美食星球" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fooldplanet.png" group-title="台灣頻道",美食星球
+http://198.16.106.62:8278/streams/d/foodplanet_zero/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="Hbo.Asia" tvg-logo="https://static.epg.best/us/HBO.us.png" ,HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="Hbf.Asia" tvg-logo="https://static.epg.best/us/HBOFamily.us.png" ,HBO Family
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="Hbh.Asia" tvg-logo="https://static.epg.best/id/HBOHits.id.png" ,HBO Hits
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="Hbs.Asia" tvg-logo="https://static.epg.best/us/HBOSignature.us.png" ,HBO Signature
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="Red.Asia" tvg-logo="https://www.mewatch.sg/image/11230416/16x9/947/533/25177e0a801178d5b705f85f42655107/sh/red-by-hbo.png" ,Red by HBO
+https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="BF1.Asia" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" ,Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="BOM.Asia" tvg-logo="https://static.epg.best/br/Boomerang.br.png" ,Boomerang
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="CBE.UK" tvg-logo="https://static.epg.best/gb/CBeebies.uk.png" ,CBeebies
+http://iptv1.privateiptv.club:80/live/random-robbie/random-robbie/823.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="DAV.Asia" tvg-logo="https://static.epg.best/ua/DaVinciLearningEurope.ua.png" ,Da Vinci
+https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-logo="http://images.squarespace-cdn.com/content/569ff0561115e0973545a242/1453322587420-THFQ3VWPKVSYVDXE0MYJ/bPOP+logo+medium.png" ,Battery Pop
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbatterypop/CDN/playlist.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="AFN.MY" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/709_300.png" ,Asian Food Network
+https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="ANI.US" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/556_300.png" ,Animal Planet
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="BBE.Asia" tvg-logo="https://poster.starhubgo.com/Linear_channels2/407_1920x1080_HTV.png" ,BBC Earth
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="DIS.US" tvg-logo="http://i.imgur.com/lB0VeoB.png" ,Discovery
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="台灣頻道" tvg-id="DIS.Asia" tvg-logo="https://stagingcms.cignal.tv/Upload/Images/Discovery-Asia.png" ,Discovery Asia
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 tvg-id="6067" tvg-name="壹電視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台灣新聞",壹新聞
+http://stream.nexttv.com.tw/n001/playlist.m3u8
+#EXTINF:-1 tvg-id="6067" tvg-name="壹電視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/NextTVNews.png" group-title="台灣新聞",壹新聞
+http://stream.nexttv.com.tw/n001/hd/live.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞
+http://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞台
+http://210.61.56.23/hls/ftvtv/index.m3u8
+#EXTINF:-1 tvg-id="6171" tvg-name="寰宇新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png" group-title="台灣新聞",寰宇新聞台
+http://seb.sason.top/sc/hyxw.m3u8
+#EXTINF:-1 tvg-id="SLX.TW" tvg-name="三立Live新聞" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/三立新聞.png" group-title="台灣新聞",三立Live新聞
+http://seb.sason.top/sc/sllive_fhd.m3u8
+#EXTINF:-1 tvg-id="6108" tvg-name="三立iNews新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png" group-title="台灣新聞",三立iNews新聞
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 tvg-id="ZTX.TW" tvg-name="中天新聞" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/中天新聞.png" group-title="台灣新聞",中天新聞
+http://seb.sason.top/sc/ztxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6069" tvg-name="東森新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png" group-title="台灣新聞",東森新聞
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="華視新聞資訊" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/華視新聞資訊.png" group-title="台灣新聞",華視新聞資訊
+http://seb.sason.top/sc/hsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新聞.png" group-title="台灣新聞",TVBS新聞
+http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7176" tvg-name="中視新聞" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中視新聞.png" group-title="台灣新聞",中視新聞
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="6143" tvg-name="台視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台視新聞.png" group-title="台灣新聞",台視新聞
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7135" tvg-name="民視" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/民視.png" group-title="台灣新聞",民視
+http://seb.sason.top/ptv/ftv.php?id=ms
+#EXTINF:-1 tvg-id="7134" tvg-name="民視台灣台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png" group-title="台灣新聞",民視台灣台
+http://seb.sason.top/ptv/ftv.php?id=tw
+#EXTINF:-1 tvg-id="" tvg-name="民視旅遊台" tvg-logo="https://www.ftv.com.tw/images/Ch_07.png" group-title="台灣新聞",民視旅遊台
+http://seb.sason.top/ptv/ftv.php?id=ly
+#EXTINF:-1 tvg-id="7133" tvg-name="民視第一台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-1.png" group-title="台灣新聞",民視第一台
+http://seb.sason.top/ptv/ftv.php?id=dy
+#EXTINF:-1 tvg-id="6071" tvg-name="民視新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png" group-title="台灣新聞",民視新聞台
+http://seb.sason.top/sc/msxw_fhd.m3u8
+#EXTINF:-1 tvg-id="7145" tvg-name="民視綜藝台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-zongyi.png" group-title="台灣新聞",民視綜藝台
+http://seb.sason.top/ptv/ftv.php?id=zy
+#EXTINF:-1 tvg-id="" tvg-name="民視影劇台" tvg-logo="https://www.ftv.com.tw/images/Ch_05.png" group-title="台灣新聞",民視影劇台
+http://seb.sason.top/ptv/ftv.php?id=yj
+#EXTINF:-1 tvg-id="6075" tvg-name="東森財經新聞台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png" group-title="台灣新聞",東森財經新聞台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+
+
+
