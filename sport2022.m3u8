@@ -1,2 +1,11 @@
-#EXTINF:-1 group-title="== 世界盃專區 ==",CCTV5-HD
+#EXTINF:-1,tvg-name="CCTV5-HD"
 http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/4000000/mnf.m3u8
+
+#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="廣東",廣東體育1
+http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="廣東",廣東體育2
+http://121.51.249.89/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="廣東",廣東體育3
+http://121.51.249.92/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
+#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" group-title="廣東",廣東體育4
+http://121.51.249.94/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
