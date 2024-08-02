@@ -7,6 +7,17 @@ https://www.goodiptv.club/douyu/1226741
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg",粵語電影 3
 https://www.goodiptv.club/douyu/5033502
 
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 1
+https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 2
+https://stream1.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43adb6dc80aa8.ctv
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 3
+https://stream1.freetv.fun/dc7f3b675a2baae6a354ab6794efeb7a0a09c2f8b595fb26bed508d7950e80b6.ctv
+
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg",TVB 星河
 https://stream1.freetv.fun/tvbxing-he-1.m3u8
 
