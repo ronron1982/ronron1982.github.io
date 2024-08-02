@@ -1,41 +1,70 @@
-
-#EXTINF:-1,CCTV5-HD
-http://14.205.73.133/keonline.shanghai.liveplay.qq.com/live/program/live/cctv5hd/4000000/mnf.m3u8
-
-#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" ,廣東體育1
-http://121.51.249.88/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png",廣東體育2
-http://121.51.249.89/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" ,廣東體育3
-http://121.51.249.92/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-#EXTINF:-1 tvg-name="廣東體育" tvg-logo="http://124.220.17.172/guangdong/GDTV3.png" ,廣東體育4
-http://121.51.249.94/4403-tx.otvstream.otvcloud.com/otv/skcc/live/channel34/2300.m3u8
-
-
-https://epg.pw/test_channels.m3u
-
-
-https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
-
-https://stream1.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43adb6dc80aa8.ctv
-
-https://stream1.freetv.fun/dc7f3b675a2baae6a354ab6794efeb7a0a09c2f8b595fb26bed508d7950e80b6.ctv
-
-https://www.goodiptv.club/douyu/5033502
-
-https://www.goodiptv.club/douyu/1226741
-
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/7bf99c9f5c6a40e5932a7bff8a84f802_big.jpg",粵語電影 1
 https://www.goodiptv.club/douyu/6566671
 
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201611/19/23/e535db4878625ed52ab5b0edfedb9f29_big.jpg",粵語電影 2
+https://www.goodiptv.club/douyu/1226741
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201805/20743595471d57653a0e3a09a018d007_big.jpg",粵語電影 3
+https://www.goodiptv.club/douyu/5033502
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg",TVB 星河
+https://stream1.freetv.fun/tvbxing-he-1.m3u8
 
 
 
-https://stream1.freetv.fun/e9371b3736bbbd9043747b6a0ae09466dc0c53cbfc1d6cf509ee0f4480675d97.m3u8
-
-https://stream1.freetv.fun/d91c98415c8da9a76494b2ae35f5211428925c348f57605d30f09106a277c550.m3u8
-
-https://stream1.freetv.fun/0fddf280232dc03033149f0b2d5bcf9ae79920ee0bf233c8fe35effa1b40e2e1.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208224043554681_40.png",TVB 粵曲片
+https://stream1.freetv.fun/tvbyue-yu-pian-1.ctv
 
 
 
-https://stream1.freetv.fun/08ce161dd15aa7d620bf52863dca0df2f3568cfb74dd825911572169da1646e2.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171542219575_32.png",ASTRO 華麗台
+https://stream1.freetv.fun/astro-hua-li-5.ctv
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2017/11/26/20171126170246733981_44.png",功夫片台
+https://stream1.freetv.fun/ch-ng-asian-action-channel-1.ctv
+
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152252597815_72.png" group-title="Knowledge",動物星球
+https://stream1.freetv.fun/dong-wu-xing-qiu-1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/03/large/20220503230558671809_71.png" ,Discovery科學頻道 1
+https://stream1.freetv.fun/discovery-science-9.ctv
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/03/large/20220503230558671809_71.png" ,Discovery科學頻道 2
+https://stream1.freetv.fun/discovery-science-6.ctv
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",探索頻道 1
+https://stream1.freetv.fun/discovery-east-1.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",探索頻道 2
+https://stream1.freetv.fun/discovery-west-1.ctv
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/10/27/large/20171027204508285802_37.png",探索頻道 3
+https://stream1.freetv.fun/ch-ng-discovery-channels-1.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2017/10/12/large/20171012233016673772_39.png",探索亞洲頻道
+https://stream1.freetv.fun/discovery-asia-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/06/26/large/20200626210829425479_80.png",探索家庭頻道 
+https://stream1.freetv.fun/discovery-family-2.ctv
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2015/02/11/20150211200326349040_47.jpg",探索健康頻道
+https://stream1.freetv.fun/discovery-home---health-1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png",動物星球 1
+https://stream1.freetv.fun/ch-ng-animal-planet-1.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png",動物星球 2 
+https://stream1.freetv.fun/usa-animal-planet-east-1.ctv
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png",動物星球 3
+https://stream1.freetv.fun/animal-planetuhd-1.m3u8
+
+
