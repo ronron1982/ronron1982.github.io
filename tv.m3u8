@@ -29,7 +29,6 @@ https://stream1.freetv.fun/tvbxing-he-7.ctv
 https://stream1.freetv.fun/tvbyue-yu-pian-1.ctv
 
 
-
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171542219575_32.png",ASTRO 華麗台
 https://stream1.freetv.fun/astro-hua-li-5.ctv
 
@@ -42,21 +41,28 @@ https://stream1.freetv.fun/ch-ng-asian-action-channel-1.ctv
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152252597815_72.png" group-title="Knowledge",動物星球
 https://stream1.freetv.fun/dong-wu-xing-qiu-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png", 動物星球2
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png",動物星球 2
 https://sxg.btjson.us.kg/thetv/animal-planet
 
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png",動物星球 3
+https://stream1.freetv.fun/ch-ng-animal-planet-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/National-Geographic.png", National Geographic
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png",動物星球 4
+https://stream1.freetv.fun/usa-animal-planet-east-1.ctv
+
+
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/National-Geographic.png",National Geographic
 https://sxg.btjson.us.kg/thetv/national-geographic
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/National-Geographic-Wild.png", National Geographic Wild
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/National-Geographic-Wild.png",National Geographic Wild
 https://sxg.btjson.us.kg/thetv/nat-geo-wild
 
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png"  Love Nature HD
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png",Love Nature HD
 https://tvb.mytvsuper.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png", Love Nature 4K
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png",Love Nature 4K
 https://tvb.mytvsuper.us.kg/stream/tvb/lovenature4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 
@@ -93,11 +99,6 @@ https://stream1.freetv.fun/discovery-family-2.ctv
 https://stream1.freetv.fun/discovery-home---health-1.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png",動物星球 1
-https://stream1.freetv.fun/ch-ng-animal-planet-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152108562275_11.png",動物星球 2 
-https://stream1.freetv.fun/usa-animal-planet-east-1.ctv
 
 
 
