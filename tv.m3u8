@@ -65,7 +65,7 @@ https://stream1.freetv.fun/ch-ng-asian-action-channel-1.ctv
 
 
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152252597815_72.png" group-title="Knowledge",動物星球
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2020/01/18/large/20200118152252597815_72.png",動物星球
 https://stream1.freetv.fun/dong-wu-xing-qiu-1.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Animal-Planet.png",動物星球 2
@@ -96,12 +96,10 @@ https://stream1.freetv.fun/love-nature-1.m3u8
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/03/large/20220503230558671809_71.png" ,Discovery科學頻道 1
 https://stream1.freetv.fun/discovery-science-9.ctv
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/03/large/20220503230558671809_71.png" ,Discovery科學頻道 2
-https://stream1.freetv.fun/discovery-science-6.ctv
 
 
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png", Discovery
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Discovery-Channel.png",Discovery
 https://sxg.btjson.us.kg/thetv/discovery
 
 
