@@ -18,15 +18,44 @@ https://stream1.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43
 https://stream1.freetv.fun/dc7f3b675a2baae6a354ab6794efeb7a0a09c2f8b595fb26bed508d7950e80b6.ctv
 
 
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" ,Viu TV 1
+https://stream1.freetv.fun/viutv-1.ctv
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" ,Viu TV 2
+https://stream1.freetv.fun/viutv-six-2.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" ,Viu TV 3
+https://stream1.freetv.fun/viutv-6.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" ,Viu TV 4
+http://php.jdshipin.com:8880/smt.php?id=viu1_twn
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台4K
+https://stream1.freetv.fun/tvbfei-cui-4.m3u8
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台1
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台3
+https://stream1.freetv.fun/fei-cui-3.ctv
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" ,HOY TV
+https://stream1.freetv.fun/hoy-tv-1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" ,HOY TV 78
+https://stream1.freetv.fun/hoy-tv-zi-xun-2.m3u8
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg",TVB 星河1
 https://stream1.freetv.fun/tvbxing-he-1.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg",TVB 星河2
-https://stream1.freetv.fun/tvbxing-he-7.ctv
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/12/08/large/20231208224043554681_40.png",TVB 粵曲片
 https://stream1.freetv.fun/tvbyue-yu-pian-1.ctv
+
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171542219575_32.png",ASTRO 華麗台
@@ -60,11 +89,10 @@ https://sxg.btjson.us.kg/thetv/nat-geo-wild
 
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Love-Nature-HK.png",Love Nature HD
-https://tvb.mytvsuper.us.kg/stream/tvb/lovenaturehd/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
+https://stream1.freetv.fun/love-nature-5.m3u8
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Love-Nature-4K-HK.png",Love Nature 4K
-https://tvb.mytvsuper.us.kg/stream/tvb/lovenature4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
+https://stream1.freetv.fun/love-nature-1.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2022/05/03/large/20220503230558671809_71.png" ,Discovery科學頻道 1
@@ -99,26 +127,11 @@ https://stream1.freetv.fun/discovery-family-2.ctv
 https://stream1.freetv.fun/discovery-home---health-1.m3u8
 
 
-
-
-
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png",NOW 星影臺
 https://stream1.freetv.fun/nowxing-ying-1.ctv
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png",NOW 爆谷臺1
 https://stream1.freetv.fun/nowbao-gu-1.ctv
 
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/04/17/large/20240417171857306359_61.png",NOW 爆谷臺2
-https://api.btbt.im/live?id=baogu-movies
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/千禧經典台.png",千禧經典台
-https://tvb.mytvsuper.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png",美亞電影台 
-https://tvb.mytvsuper.us.kg/stream/tvb/null-11/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/Animax-HK.png",Animax
-https://tvb.mytvsuper.us.kg/stream/tvb/animax/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
 
 
