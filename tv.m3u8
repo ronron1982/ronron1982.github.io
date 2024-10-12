@@ -9,13 +9,30 @@ https://www.goodiptv.club/douyu/5033502
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 1
-https://stream1.freetv.fun/967c330a56e8f2fed10ea053ac29b132d29e323680b5e20a53e3af6bcf7b2f54.m3u8
+https://php.17186.eu.org/gdtv/web/gdgg.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 2
 https://stream1.freetv.fun/38d3fe3f8c30f9e43b24e68ea514981e28d8176819db8bb5c8e43adb6dc80aa8.ctv
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 3
-https://stream1.freetv.fun/dc7f3b675a2baae6a354ab6794efeb7a0a09c2f8b595fb26bed508d7950e80b6.ctv
+http://218.13.170.98:9901/tsfile/live/1000_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 4
+http://121.33.239.242:9901/tsfile/live/1007_1.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 5
+http://tenfarr.com:4000/udp/239.77.0.1:5146
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 6
+http://tenfarr.com:4000/udp/239.77.1.94:5146
+
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/viutv.png" ,Viu TV 1
@@ -28,24 +45,24 @@ https://stream1.freetv.fun/viutv-six-2.m3u8
 http://php.jdshipin.com:8880/smt.php?id=viu1_twn
 
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台4K
-https://stream1.freetv.fun/tvbfei-cui-4.m3u8
-
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台1
 http://php.jdshipin.com:8880/smt.php?id=jade_twn
 
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台3
-https://stream1.freetv.fun/fei-cui-3.ctv
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" ,HOY TV
-https://stream1.freetv.fun/hoy-tv-1.m3u8
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" ,HOY TV 78
-https://stream1.freetv.fun/hoy-tv-zi-xun-2.m3u8
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2023/07/22/large/20230722211941013059_20.png" ,HOY 國際財經台
+https://hoytv-live-stream.hoy.tv/ch76/va2-index.m3u8
+
+
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2018/03/13/large/20180313203118850563_68.jpg",TVB 星河1
 https://stream1.freetv.fun/tvbxing-he-1.m3u8
