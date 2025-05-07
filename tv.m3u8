@@ -7,23 +7,18 @@ http://ronron1982.myds.me:35455/huya/21059572?cdn=hscdn
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201611/19/23/e535db4878625ed52ab5b0edfedb9f29_big.jpg",粵語電影 3
 http://ronron1982.myds.me:35455/huya/30683553?cdn=hscdn
 
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201611/19/23/e535db4878625ed52ab5b0edfedb9f29_big.jpg",粵語電影 4
+http://ronron1982.myds.me:35455/huya/18077228?cdn=hscdn
+
+#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201611/19/23/e535db4878625ed52ab5b0edfedb9f29_big.jpg",粵語電影 5
+http://ronron1982.myds.me:35455/huya/10383963?cdn=hscdn
+
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 2
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東体育 2
-http://cdn2.163189.xyz/live/gdty/strea1m.m3u8
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",东莞生活资讯
 http://php.jdshipin.com:8880/0769.php?id=shzx
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",东莞新闻综合
-
 http://php.jdshipin.com:8880/0769.php?id=xwzh
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",佛山三水
-http://php.jdshipin.com:8880/fstv.php?id=fsss
-
 
