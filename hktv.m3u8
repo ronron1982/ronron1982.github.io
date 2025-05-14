@@ -1,31 +1,93 @@
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/7bf99c9f5c6a40e5932a7bff8a84f802_big.jpg",TVB
-翡翠台4K,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB 翡翠台 4K
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB 翡翠台 1080P
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB 翡翠台（備用）
+#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/TVB2.png",TVB 明珠台
+http://php.jdshipin.com/TVOD/iptv.php?id=mzt
+
+#EXTINF:21 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/62/TVBN_2017_logo.png",無線新聞台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/TVB-Plus.png",TVB Plus
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
+
+#EXTINF:15 tvg-logo="https://assets.livednow.com/logo/千禧經典台.png",TVB 千禧經典台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 
 
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202311/7bf99c9f5c6a40e5932a7bff8a84f802_big.jpg",粵語電影 1
-http://ronron1982.myds.me:35455/huya/11336587?cdn=hscdn
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png",TVB 無線星河
+http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201611/19/23/e535db4878625ed52ab5b0edfedb9f29_big.jpg",粵語電影 2
-http://ronron1982.myds.me:35455/huya/21059572?cdn=hscdn
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB生活台.png",TVB生活台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
 
-#EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avanew/face/201611/19/23/e535db4878625ed52ab5b0edfedb9f29_big.jpg",粵語電影 3
-http://ronron1982.myds.me:35455/huya/30683553?cdn=hscdn
+#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVB娛樂新聞台.jpg" ,TVB 娛樂新聞
+http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
+
+
+#EXTINF:-1 tvg-logo="https://isus.cc/share/logo/TVBPlus.png",TVB Plus
+https://stream1.freetv.fun/tvb-j2-2.ctv
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png",ViuTV
+http://php.jdshipin.com/TVOD/iptv.php?id=viutv
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png",ViuTV2
+https://cdn5.163189.xyz/live/viu/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV.png",HOY TV 77
+https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV.png",HOY TV 77
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv 
+
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" ,HOY TV 78 資訊台
+https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" ,HOY TV78 資訊台
+HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png",港台電視31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTHK32.png",港台電視32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTHK33.png",港台電視33
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTHK34.png",港台電視34
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTHK35.png",港台電視35
+https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch367_110_80",鳳凰香港
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/亞洲武俠.png",亞洲武俠
+http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
+
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/天映頻道.png",天映頻道
+http://php.jdshipin.com/smt.php?id=Celestial
+
+
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/天映經典.png",天映經典
+http://php.jdshipin.com/smt.php?id=Celestial2
+
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/美亞電影台-HK.png",美亞電影台(HK)
+http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江
 http://cdn2.163189.xyz/live/gdzj/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江 2
-http://cdn2.132.us.kg/live/gdzj/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東体育 2
-http://cdn2.163189.xyz/live/gdty/strea1m.m3u8
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",东莞生活资讯
-http://php.jdshipin.com:8880/0769.php?id=shzx
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",东莞新闻综合
-
-http://php.jdshipin.com:8880/0769.php?id=xwzh
-
-#EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",佛山三水
-http://php.jdshipin.com:8880/fstv.php?id=fsss
