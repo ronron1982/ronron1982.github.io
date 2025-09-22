@@ -1,10 +1,6 @@
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB 翡翠台 1080P
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB 翡翠台 4K
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
-
-
 #EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/翡翠台.png",TVB 翡翠台（備用）
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 
@@ -24,37 +20,26 @@ http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 #EXTINF:-1 tvg-logo="https://gitee.com/suxuang/epglogo/raw/master/gangaotai/TVB6.png",TVB 無線星河
 http://php.jdshipin.com:8880/smt.php?id=Xinhe
 
-#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TVB生活台.png",TVB 生活台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-
-#EXTINF:-1 tvg-logo="https://gitee.com/suxuang/logo/raw/master/logo/TVB娛樂新聞台.jpg" ,TVB 娛樂新聞
-http://ali.hlspull.yximgs.com/live/6425965d63a08c85ca806bfcc8c75cf4.flv
-
-
-#EXTINF:-1 tvg-logo="https://isus.cc/share/logo/TVBPlus.png",TVB Plus
-https://stream1.freetv.fun/tvb-j2-2.ctv
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png",ViuTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png",ViuTV2
-https://cdn5.163189.xyz/live/viu/stream.m3u8
-
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV.png",HOY 77
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv 
 
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV.png",HOY 77
 https://hoytv-live-stream.hoy.tv/ch77/index-fhd.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" ,HOY 78 資訊台
-http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV.png",HOY 77
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv 
 
 
 #EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" ,HOY 78 資訊台
 https://hoytv-live-stream.hoy.tv/ch78/index-fhd.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://assets.livednow.com/logo/HOYTV-資訊台.png" ,HOY 78 資訊台
+http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
 
 
 #EXTINF:-1 tvg-logo="https://iptv-pro.github.io/logo/RTHK31.png",港台電視 31
@@ -91,4 +76,7 @@ http://php.jdshipin.com/smt.php?id=Celestial2
 http://php.jdshipin.com/TVOD/iptv.php?id=meiya
 
 #EXTINF:-1 tvg-logo="https://epg.pw/media/images/channel/2024/01/11/large/20240111223823772996_31.png",廣東珠江
-http://cdn2.163189.xyz/live/gdzj/stream.m3u8
+http://r.jdshipin.com/sE5vO
+
+#https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
+
