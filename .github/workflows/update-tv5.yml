@@ -24,7 +24,7 @@ jobs:
           PLAYLIST_URL: https://caonima.898757.xyz/sub/Zz0uFf9Cz0kp/playlist.m3u
         run: |
           set -euo pipefail
-          curl --fail --location --retry 3 --retry-all-errors --max-time 60 "$PLAYLIST_URL" --output tv5.m3u8
+          curl --fail --location --retry 3 --retry-all-errors --max-time 60 --user-agent "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/131.0.0.0 Safari/537.36" --header "Accept: */*" --header "Referer: https://caonima.898757.xyz/" "$PLAYLIST_URL" --output tv5.m3u8
           test -s tv5.m3u8
 
       - name: Commit changes
